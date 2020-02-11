@@ -1,0 +1,12 @@
+table.rows-and-columns tbody tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+p.col-cldf_primaryText, td.col-cldf_primaryText {
+  font-style: italic;
+}
+p.col-cldf_translatedText::before, td.col-cldf_translatedText::before {
+  content: "‘";
+}
+p.col-cldf_translatedText::after, td.col-cldf_translatedText::after {
+  content: "’";
+}

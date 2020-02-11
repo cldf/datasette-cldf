@@ -1,0 +1,94 @@
+{% extends "default:row.html" %}
+
+{% macro props(exclude) %}
+    <table>
+        {% for key in columns %}
+            {% if rows[0][key] is not none and key not in ['cldf_name', 'cldf_id'] and key not in exclude %}
+                <tr>
+                    <th>{{ key }}</th>
+                    <td>{{ render_cell(rows[0][key], key) or rows[0][key] }}</td>
+                </tr>
+            {% endif %}
+        {% endfor %}
+    </table>
+{% endmacro %}
+
+
+{% block content %}
+
+    {% if (table == 'LanguageTable' or table == 'ParameterTable' or table == 'ExampleTable') and primary_key_values %}
+        {# Special handling for Language and Parameter "details" pages #}
+
+        {% if table == 'ExampleTable' %}
+            <h1>Example <em>{{ rows[0]['cldf_id'] }}</em></h1>
+            {% for row in sql("select * from LanguageTable where cldf_id = '{0}'".format(rows[0]['cldf_languageReference'])) %}
+                {% if loop.first %}
+                <p>
+                    <a href="{{ database_url(database) }}/LanguageTable/{{ rows[0]['cldf_languageReference'] }}">
+                        {{ row['cldf_name'] }}</a>
+                </p>
+                {% endif %}
+            {% endfor %}
+            {{ render_igt(rows[0], columns) }}
+            {{ props(['cldf_primaryText', 'cldf_analyzedWord', 'cldf_gloss', 'cldf_translatedText', 'cldf_languageReference']) }}
+
+        {% elif table == 'LanguageTable' %}
+
+            <h1>Language <em>{{ rows[0]['cldf_name'] }}</em></h1>
+            {% if 'cldf_latitude' in columns and rows[0]['cldf_latitude'] %}
+                <div id="cldf_map" style="width: 30%; min-width: 300px; height: 300px; float: right">
+                    <span class="cldf_latitude">{{ rows[0]['cldf_latitude'] }}</span>
+                    <span class="cldf_longitude">{{ rows[0]['cldf_longitude'] }}</span>
+                </div>
+            {% endif %}
+            {{ props([]) }}
+
+        {% elif table == 'ParameterTable' %}
+
+            <h1>Parameter <em>{{ rows[0]['cldf_name'] }}</em></h1>
+            {{ props([]) }}
+            {% if 'CodeTable' in linked_tables(foreign_key_tables) %}
+                {% for row in sql("select c.*, count(v.cldf_id) as repr from CodeTable as c, ValueTable as v where v.cldf_codeReference = c.cldf_id and c.cldf_parameterReference = '{0}' group by c.cldf_id".format(rows[0]['cldf_id'])) %}
+                    {% if loop.first %}
+                        <h2>Codes</h2>
+                        <table>
+                        <tbody>
+                    {% endif %}
+                <tr>
+                    <td>{{ row['cldf_name'] }}</td>
+                    <td>{{ row['cldf_description'] }}</td>
+                    <td style="text-align: right">{{ row['repr'] }}</td>
+                </tr>
+                {% if loop.last %}
+                    </tbody>
+                    </table>
+                {% endif %}
+                {% endfor %}
+            {% endif %}
+        {% endif %}
+
+        {% if foreign_key_tables %}
+            <ul>
+                {% for other in foreign_key_tables %}
+                    {% if other.count %}
+                        <li>
+                            {% if other.other_table == 'ValueTable' %}
+                                <strong>Values: </strong>
+                            {% elif other.other_table == 'FormTable' %}
+                                <strong>Forms: </strong>
+                            {% endif %}
+                            <a href="{{ database_url(database) }}/{{ other.other_table|quote_plus }}?{{ other.other_column }}={{ ', '.join(primary_key_values) }}">
+                                {{ "{:,}".format(other.count) }} row{% if other.count == 1 %}{% else %}s{% endif %}</a>
+                            from {{ other.other_column }} in {{ other.other_table }}
+                        </li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+        {% endif %}
+
+
+    {% else %}
+        {{ super() }}
+    {% endif %}
+
+{% endblock %}
