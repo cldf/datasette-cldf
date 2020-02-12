@@ -7,7 +7,7 @@ from clldutils.source import Source
 
 from datasette import hookimpl
 
-P = re.compile('where cldf_languageReference = (?P<id>[0-9a-zA-Z_\-]+)')
+P = re.compile(r'where cldf_languageReference = (?P<id>[0-9a-zA-Z_\-]+)')
 
 
 def metadata(cldf_ds, dbname):
@@ -48,8 +48,7 @@ def metadata(cldf_ds, dbname):
                 "description": cldf_ds.properties.get('dc:title'),
                 "source": cldf_ds.properties.get('dc:bibliographicCitation'),
                 "source_url": cldf_ds.properties.get('dc:identifier'),
-                #"license": ds.metadata.license,
-                "license_url": "",
+                "license": cldf_ds.properties.get('dc:license'),
                 "tables": dict(iter_table_config(cldf_ds)),
             }
         },
@@ -108,7 +107,11 @@ def render_ref(row):
 
 
 def render_source(obj, columns):
-    src = Source(obj['genre'], obj['id'], [(k, obj[k]) for k in columns if obj[k] and k not in ('genre', 'id')], _check_id=False)
+    src = Source(
+        obj['genre'],
+        obj['id'],
+        [(k, obj[k]) for k in columns if obj[k] and k not in ('genre', 'id')],
+        _check_id=False)
     return jinja2.Markup("""<div><blockquote>{0}</blockquote><pre>{1}</pre></div>""".format(
         str(src), src.bibtex(),
     ))

@@ -61,9 +61,9 @@ def run(args):
 
     jsonlib.dump(datasette_cldf.metadata(cldf_ds, args.db_path.stem), args.cfg_path, indent=4)
 
-    os.system('datasette {0} -m {1} --template-dir {2} --config template_debug:1 --config default_page_size:{3}'.format(
-        args.db_path,
-        args.cfg_path,
-        pathlib.Path(datasette_cldf.__file__).parent / 'templates',
-        default_page_size,
-    ))
+    os.system(
+        'datasette {0} -m {1} --template-dir {2} --config default_page_size:{3}'.format(
+            args.db_path,
+            args.cfg_path,
+            pathlib.Path(datasette_cldf.__file__).parent / 'templates',
+            default_page_size))
