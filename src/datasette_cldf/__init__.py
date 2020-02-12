@@ -10,10 +10,56 @@ from datasette import hookimpl
 P = re.compile('where cldf_languageReference = (?P<id>[0-9a-zA-Z_\-]+)')
 
 
+def metadata(cldf_ds, dbname):
+    """
+    Extract datasette metadata from a CLDF dataset.
+    """
+    def iter_table_config(cldf):
+        for table in cldf.tables:
+            try:
+                name = cldf.get_tabletype(table)
+            except (KeyError, ValueError):
+                name = None
+            name = name or str(table.url)
+            cfg = {}
+            try:
+                _ = cldf[table, 'name']
+                cfg['label_column'] = 'cldf_name'
+            except KeyError:
+                pass
+            if name == 'EntryTable':
+                cfg['label_column'] = 'cldf_headword'
+            if name == 'SenseTable':
+                cfg['label_column'] = 'cldf_description'
+            if name == 'ExampleTable':
+                cfg['label_column'] = 'cldf_primaryText'
+            yield name, cfg
+
+    return {
+        "title": "",
+        "plugins": {
+            "datasette-cluster-map": {
+                "latitude_column": "cldf_latitude",
+                "longitude_column": "cldf_longitude"
+            }
+        },
+        "databases": {
+            dbname: {
+                "description": cldf_ds.properties.get('dc:title'),
+                "source": cldf_ds.properties.get('dc:bibliographicCitation'),
+                "source_url": cldf_ds.properties.get('dc:identifier'),
+                #"license": ds.metadata.license,
+                "license_url": "",
+                "tables": dict(iter_table_config(cldf_ds)),
+            }
+        },
+    }
+
+
 @hookimpl
 def render_cell(value, column):
     prefix, _, lname = column.partition('_')
-    if prefix == 'cldf' and lname in TERMS:
+    if prefix == 'cldf' and (lname in TERMS) and value:
         term = TERMS[lname]
         valueUrl = term.csvw_prop('valueUrl')
         if valueUrl:

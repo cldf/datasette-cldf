@@ -26,28 +26,6 @@ def register(parser):
     add_dataset_spec(parser)
 
 
-def iter_table_config(cldf):
-    for table in cldf.tables:
-        try:
-            name = cldf.get_tabletype(table)
-        except (KeyError, ValueError):
-            name = None
-        name = name or str(table.url)
-        cfg = {}
-        try:
-            _ = cldf[table, 'name']
-            cfg['label_column'] = 'cldf_name'
-        except KeyError:
-            pass
-        if name == 'EntryTable':
-            cfg['label_column'] = 'cldf_headword'
-        if name == 'SenseTable':
-            cfg['label_column'] = 'cldf_description'
-        if name == 'ExampleTable':
-            cfg['label_column'] = 'cldf_primaryText'
-        yield name, cfg
-
-
 def run(args):
     p = pathlib.Path(args.dataset)
     if p.suffix == '.json' and p.exists():
@@ -81,25 +59,7 @@ def run(args):
         db.write_from_tg()
         args.log.info('{0} loaded in {1}'.format(db.dataset, db.fname))
 
-    jsonlib.dump({
-        "title": "",
-        "plugins": {
-            "datasette-cluster-map": {
-                "latitude_column": "cldf_latitude",
-                "longitude_column": "cldf_longitude"
-            }
-        },
-        "databases": {
-            args.db_path.stem: {
-                "description": cldf_ds.properties.get('dc:title'),
-                "source": cldf_ds.properties.get('dc:bibliographicCitation'),
-                "source_url": cldf_ds.properties.get('dc:identifier'),
-                #"license": ds.metadata.license,
-                "license_url": "",
-                "tables": dict(iter_table_config(cldf_ds)),
-            }
-        },
-    }, args.cfg_path, indent=4)
+    jsonlib.dump(datasette_cldf.metadata(cldf_ds, args.db_path.stem), args.cfg_path, indent=4)
 
     os.system('datasette {0} -m {1} --template-dir {2} --config template_debug:1 --config default_page_size:{3}'.format(
         args.db_path,

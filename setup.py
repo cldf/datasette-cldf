@@ -36,6 +36,7 @@ setup(
         'dev': ['flake8', 'wheel', 'twine'],
         'test': [
             'mock',
+            'asgiref',
             'pytest>=4.3',
             'pytest-mock',
             'pytest-cov',
