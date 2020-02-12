@@ -28,6 +28,14 @@ def StructureDataset():
             pathlib.Path(tmpdir))
 
 
+@pytest.fixture(scope='session')
+def Dictionary():
+    with tempfile.TemporaryDirectory() as tmpdir:
+        yield _make_client(
+            pathlib.Path(__file__).parent / 'cldf_Dictionary' / 'Dictionary-metadata.json',
+            pathlib.Path(tmpdir))
+
+
 class Response:
     def __init__(self, status, headers, body):
         self.status = status
@@ -35,7 +43,7 @@ class Response:
         self.body = body
 
     @property
-    def json(self):
+    def json(self):  # pragma: no cover
         return json.loads(self.text)
 
     @property
@@ -55,10 +63,10 @@ class Client:
 
     async def _get(self, path, allow_redirects=True, redirect_count=0, method="GET"):
         query_string = b""
-        if "?" in path:
+        if "?" in path:  # pragma: no cover
             path, _, query_string = path.partition("?")
             query_string = query_string.encode("utf8")
-        if "%" in path:
+        if "%" in path:  # pragma: no cover
             raw_path = path.encode("latin-1")
         else:
             raw_path = quote(path, safe="/:,").encode("latin-1")
@@ -92,7 +100,7 @@ class Client:
             if not message.get("more_body"):
                 break
         response = Response(status, headers, body)
-        if allow_redirects and response.status in (301, 302):
+        if allow_redirects and response.status in (301, 302):  # pragma: no cover
             assert (
                 redirect_count < self.max_redirects
             ), "Redirected {} times, max_redirects={}".format(

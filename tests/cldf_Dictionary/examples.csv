@@ -1,0 +1,762 @@
+ID,Language_ID,Primary_Text,Analyzed_Word,Gloss,Translated_Text,Meta_Language_ID,Comment,Corpus_Reference,Media_IDs,Sense_IDs,alt_translation1
+XV000001,bpa,vyanten ente mwi abwilyep,vyanten\ten=te\tmw=i\tabwilyep,person\t$dem=$dem.med\tmw=i\tabwilyep,this man is a sorcerer,,,,,SN000011,man ia i wan poson man
+XV000002,bpa,mesyu abwilyep swa sa ngetak,mesyu\tabwilyep\tswa\tsa\tnge=tak,fish\tpoisonous\tone\t$top\t$3sg=$dem.prox,this is a poisonous fish,,,,,SN000012 ; SN001614,wan poson fis hem ia
+XV000003,bpa,nam akuorkote seli,na=m\takuor-kote\tseli,$1sg=$real\tcross-in.two\troad,I crossed the road,,,,,SN000020 ; SN001408,mi krosem road
+XV000004,bpa,aran na yem du pwer myaek aran,ar=an\tna\tye=m\tdu\tpwer\tmyaek\tar=an,place=$def\t$comp\t$3d=$real\tstay\tsleep\tbe.night\tplace=$def,(the place) where the two are sleeping,,,,,SN000051 ; SN001296,ples we tufala i stap silip
+XV000005,bpa,ayup ane batom,ayup\tane\tbat-om,brain\t$trans\thead.of-$2sg.poss,your brain,,,,,SN000065 ; SN001155,bren blong yu
+XV000006,bpa,vyanten balip swa sa ngetak,vyanten\tbalip\tswa\tsa\tnge=tak,person\tstrong\tone\t$top\t$3sg=$dem.prox,this is a brave man,,,,,SN000073,wan strong man hem ia
+XV000007,bpa,bason to vu ten,bason\tto\tvu\tten,strong.body\t$neg.real\tgood\tvery,he falls short of having ideal proportions,,,,,SN000092,bodi blong hem i no gud tumas
+XV000008,bpa,bee bwe bee,bee\tbwe\tbee,lightning\t$cont\tlightning,lightning is flashing,,,,,SN000101 ; SN000102,laetning i laetning
+XV000009,bpa,bees ane nye,bees\tane\tnye,chin\t$trans\t$1sg,my chin,,,,,SN000103,jin blong mi
+XV000010,bpa,bekesye,beke-sye,branch.of-$3sg.poss,its twig,,,,,SN000104 ; SN001548,han blong hem
+XV000011,bpa,beke lewotop,beke\tlewotop,branch.of-$3sg.poss\tbreadfruit.tree,twig of the breadfruit tree,,,,,SN000104,han blong bredfrut tri
+XV000012,bpa,vyanten ente ma belik tiye san vyaven,vyanten\ten=te\tma\tbelik\ttiye\ts-an\tvyaven,person\t$dem=$dem.prox\t$real\tcommit.crime.of\tkill\t$cl3-3s.poss\twoman,this man commited the crime of killing his wife,,,,,SN000109,man ia i gat strong tingting blong hem blong kilim woman blong hem
+XV000013,bpa,yaapu kop pwer beti kinyem yen liyaa na doma,yaapu\tko=p\tpwer\tbeti\tkinyem\tyen\tliyaa\tna\tdoma,big.man\t$2sg=$pot\tstay\tguide\t1p.ex\tin\tday\t$comp\ttoday,"God, please guide us through this day",,,,,SN000114 ; SN001180,"papa god, gaed mifala long de blong mifala tede"
+XV000014,bpa,bevyap ivyo,bevyap\tivyo,plant\tcabbage,plant cabbage,,,,,SN000116,planem kabis
+XV000015,bpa,bevyap kyu em,bevyap\tkyu\tem,cover\tsurround\thouse,providing the frame of a house with walls,,,,,SN000116,kaverem ap ol wol blong haos
+XV000016,bpa,yam biite sam myanok,ya=m\tbiite\ts-am\tmyanok,$3pl=$real\tstick\t$cl3-2s.poss\twound,they have put a plaster on your wound,,,,,SN000121 ; SN001340,oli plasterem soa blong you
+XV000017,bpa,bili tungan,bili\ttung=an,time.of\tfight=$nom,(time of) war,,,,,SN000118 ; SN000122 ; SN001822,taem blong faet
+XV000018,bpa,bilisye mwe dyanga ka nan me,bili-sye\tmwe\tdyanga\tka\tna=n\tme,time.of-$3sg.poss\t$real\tlack\t$mod.rel\t$1sg=$neg.pot\tcome,I did not have the time to come,,,,,SN000122 ; SN001548,i no gat taem blong mi kam
+XV000019,bpa,bip ma erér,bip\tma\terér,body\t$real\thot,the body is hot (feverish),,,,,SN000128,bodi i hot
+XV000020,bpa,vyanten ente mwi biyo,vyanten\ten=te\tmw=i\tbiyo,person\t$dem=$dem.prox\t$real=$cop\tdeaf,this man is deaf,,,,,SN000142,man ia sora i fas
+XV000021,bpa,(vyanten) biyo swa sa ngetak,(vyanten)\tbiyo\tswa\tsa\tnge=tak,person\tdeaf\tone\t$top\t$3sg=$dem.prox,there is a deaf man,,,,,SN000142,wan man we sora i fas hem ia
+XV000022,bpa,boloor ane em,boloor\tane\tem,window\t$trans\thouse,window (of a house),,,,,SN000149,windo (blong wan haos)
+XV000023,bpa,boloor ane buluk,boloor\tane\tbuluk,gate\t$trans\tcattle,gate for cattle,,,,,SN000149,get blong buluk
+XV000024,bpa,vyaa boo,vyaa\tboo,hand\tdeformed.by.elephantiasis,an arm deformed by elephantiasis,,,,,SN000154 ; SN001976,han we i solap from sik blong bigleg
+XV000025,bpa,vyanten ente lyen mwi boo,vyanten\ten=te\tly-en\tmw=i\tboo,person\t$dem=$dem.prox\tleg.of-3s.poss\t$real=$cop\tdeformed.by.elephantiasis,this man's leg is deformed by elephantiasis,,,,,SN000154,man ia leg blong hem i bigleg
+XV000026,bpa,booli vyor,booli\tvyor,hole.in\tstone,"hole inside a rock or stone, cave",,,,,SN000155,"hol blong ston, kev"
+XV000027,bpa,booli lemap,booli\tlemap,hole.in\tchestnut.tree,hole in a Tahitian chestnut tree,,,,,SN000155,hol long wan namambe
+XV000028,bpa,or mo bor,or\tmo\tbor,place\t$real\tquiet,it's quiet,,,,,SN000158,ples i kwaet
+XV000029,bpa,borapyang wotop,borapyang\twotop,fire.pit.of\tbreadfruit,a fire for roasting breadfruit,,,,,SN000160,faea blong rusum plante bredfrut
+XV000030,bpa,bosi ne ngok,bosi\tne\tngok,bone\t$trans\t$2sg,your bone,,,,,SN000165,bun blong yu
+XV000031,bpa,bosi barar,bosi\tbarar,bone\tpig,pig bone,,,,,SN000167,bun blong pig
+XV000032,bpa,brongis mu kuo,brongis\tmu\tkuo,hurricane\t$real\trun,there was a hurricane,,,,,SN000180,ariken i ron
+XV000033,bpa,buon mwe sek,bu-on\tmwe\tsek,smell.of-$3sg.poss\t$real\tstink,it stinks (lit. `it's smell stinks'),,,,,SN000181 ; SN001160,hem i sting
+XV000034,bpa,bu em,bu\tem,back.of\thouse,either of the narrow sides of a house,,,,,SN000182,baksaed blong house
+XV000035,bpa,barar mu bun,barar\tmu\tbun,pig\t$real\tgrunt,a pig is grunting,,,,,SN000188,pig i mekem saon
+XV000036,bpa,bun beleem,bun\tbeleem,next.to\tdoor,at the door,,,,,SN000191,long fronted blong doa
+XV000037,bpa,bungun Sesivi,bungun\tSesivi,cape\tSesivi,cape Sesivi,,,,,SN000197,poen Sesivi
+XV000038,bpa,bung ti miyaa,bung\tti\tmiyaa,moon\t$dist\tshine,when the moon shines,,,,,SN000199 ; SN001734,taem mun i laet
+XV000039,bpa,yuon mwe bungbung,yu-on\tmwe\tbungbung,feeling-$3sg.poss\t$real\tbe.unconscious,she/he cannot talk (because of a curse),,,,,SN000201 ; SN001160,hem i no save toktok (from poison)
+XV000040,bpa,mees buwuo nyoo,mees\tbu-wuo\tnyoo,food\t$redup-stink\t3p,stinking food,,,,,SN000209,ol kakae we i sting
+XV000041,bpa,ekukuo mu bup,ekukuo\tmu\tbup,truck\t$real\ttumble,the truck tumbled over,,,,,SN000218,trak i kavsaed
+XV000042,bpa,vyanten ane sóró bupan sa ngetak,vyanten\tane\tsóró\tbup=an\tsa\tnge=tak,person\t$trans\ttalk\ttumble=$nom\t$top\t$3sg=$dem.prox,this is a man who often mispronounces words or mixes them up,,,,,SN001580,wan man we i mestem toktok hem ia
+XV000043,bpa,vyanten ente mwi bur,vyanten\ten=te\tmw=i\tbur,person\t$dem=$dem.med\t$real=$cop\tdumb,this man is dumb,,,,,SN000220,man ia i nambut
+XV000044,bpa,vyanten bur swa sa ngetak,vyanten\tbur\tswa\tsa\tnge=tak,person\tdumb\tone\t$top\t$3sg=$dem.prox,this is a dumb man,,,,,SN000220,wan nambut man hem ia
+XV000045,bpa,eye mu buu,eye\tmu\tbuu,knife\t$real\tbreak,the knife is broken,,,,,SN000225,naef i brok
+XV000046,bpa,bweang ane leevyó,bweang\tane\tleevyó,treefern.hair\t$trans\ttreefern,fiber of the tree fern,,,,,SN000230,hea blong blak palm
+XV000047,bpa,bwee tuwu,bwee\ttuwu,shell.of\tbush.nut,shell of the bush nut,,,,,SN000232 ; SN001835,sel blong navel
+XV000048,bpa,bwee tin,bwee\ttin,shell.of\ttinned.fish,a can containing fish or meat,,,,,SN000232,tin
+XV000049,bpa,bwengin vyaa,bwengin\tvyaa,nail.of\thand,fingernail,,,,,SN000247 ; SN001976,sel fingga blong han
+XV000050,bpa,kom bwet me puontak?,ko=m\tbwet\tme\tpuon=tak?,$2sg=$real\t$cos\tcome\t$fut.again=$dem.prox,Have you just arrived?,,,,,SN000252 ; SN001613,yu jes kam nao?
+XV000051,bpa,bweti kor ane barar,bweti\tkor\tane\tbarar,trunk.of\thead\t$trans\tpig,a big pighead,,,,,SN000254 ; SN000256,hed blong pig
+XV000052,bpa,bwetene webung swa,bwetene\twebung\tswa,determine\tday\tone,set a date,,,,,SN000254,putum wan det
+XV000053,bpa,bweti lee,bweti\tlee,trunk.of\ttree,stem of a tree,,,,,SN000255,stampa blong wud
+XV000054,bpa,bweti lisye,bweti\tli-sye,trunk.of\ttree.of-3s.poss,its trunk,,,,,SN000255,stampa blong hem
+XV000055,bpa,bwili tomo,bwili\ttomo,hole.of\trat,rat hole,,,,,SN000264,hol rat
+XV000056,bpa,yam bwis pyan em,ya=m\tbwis\tpyan\tem,$3pl=$real\tpass.under\tunder\thouse,they went into the house,,,,,SN000278,oli go insaed long haos
+XV000057,bpa,ram byapsiline too,ra=m\tbya-p-siline\ttoo,$1pl.in=$real\tplant-$ep-finish\tgarden,we have planted all the crops,,,,,SN000286 ; SN001329,yumi planem ol krop
+XV000058,bpa,lee swa ma byavya seli,lee\tswa\tma\tbyavya\tseli,tree\tone\t$real\tbe.perpendicular\troad,a tree is lying across the road,,,,,SN000293,wan wud i blokem rod
+XV000059,bpa,atak mwi byun,atak\tmw=i\tbyun,here\t$real=$cop\tdepth,there is a steep drop here,,,,,SN000001 ; SN000295,long ples ia i dip ples
+XV000060,bpa,apyang ma daa mu vu,apyang\tma\tdaa\tmu\tvu,fire\t$real\tshine\t$real\tgood,the food is good (lit. `the fire gives good light'),,,,,SN000307,(`faea i saen gud') kakae i gud
+XV000061,bpa,kop dange sóó ane ó vyan yen bwee te yaase kevene wa sukuo,ko=p\tdange\tsóó\tane\tó\tvyan\tyen\tbwee\tte\tyaase\tkevene\twa\tsukuo,$2sg=$pot\tsprinkle\tjuice\t$trans\tcoconut\tgo\tin\tcontainer\t$disc\tturn\tevery\t$pot\ttogether,sprinkle some coconut juice into the bowl and stir everything together,,,,,SN000322 ; SN001180 ; SN001519 ; SN001589,bae yu kavsaedem jus blong kokonat i go long bol afta tonem evri samting i go tugeta
+XV000062,bpa,deli baséé,deli\tbaséé,egg.of\tbird,bird egg,,,,,SN000325,eg blong pijin
+XV000063,bpa,deli tyu,deli\ttyu,egg.of\tchicken,chicken egg,,,,,SN000325 ; SN001848,eg blong faol
+XV000064,bpa,ko bwe deng se sewe?,ko\tbwe\tdeng\tse\tsewe?,$2sg\t$cont\tcry\tbe.fastened.to\twhat,Why are you crying?,,,,,SN000326 ; SN001433,yu stap krae from wanem?
+XV000065,bpa,diri vis,diri\tvis,part.of\tbanana,half of the banana,,,,,SN000332,haf blong banana
+XV000066,bpa,ó nyoo ente disye mu du,ó\tnyoo\ten=te\tdisye\tmu\tdu,coconut\t3p\t$dem=$dem.prox\tpart\t$real\tstay,part of the kopra is still left,,,,,SN000345 ; SN002211,haf blong ol kopra i stap
+XV000067,bpa,nam dimye ma getak,na=m\tdimye\tma\tge=tak,$1sg=$real\tthink\t$real\tbe.like=$dem.prox,I think so (too),,,,,SN000334,mi ting olsem
+XV000068,bpa,bosi ne vyok te dis a mwe sewete tetes wuk,bosi\tne\tvy-ok\tte\tdis\ta\tmwe\tsewete\ttetes\twuk,bone\t$trans\thand.of-$1sg.poss\t$dist\tbreak\tbut\t$real\tjoin\tagain\talready,the bone of my arm was broken but has now spliced together again,,,,,SN000003 ; SN000343 ; SN001144 ; SN001436,bun blong han blong mi i kam aot be i joen bakegen
+XV000069,bpa,sipa tevyan diyum,sipa\ttevyan\tdiy-um,thank.you\tbecause.of\tword.of-$2sg.poss,thank you for your words,,,,,SN000347 ; SN001891,tenk yu lon toktok blong yu
+XV000070,bpa,nam dokone kaleko me,na=m\tdokone\tkaleko\tme,$1sg=$real\tpull\tcloth\tcome,I pulled the cloth to me,,,,,SN000353,mi pulum kaliko i kam
+XV000071,bpa,swa ma dokone san vislee,swa\tma\tdokone\ts-an\tvislee,one\t$real\tpull\t$cl3-$3sg.poss\tbow.and.arrow,one pulled his arrow,,,09-03-2009_talevu-1,,SN000028 ; SN000353,wan i pulum bonaro blong hem
+XV000072,bpa,ok dom mwi 20,ok\tdom\tmw=i\t20,1s.poss\tyear\t$real=$cop\t20,I'm 20 years old,,,,,SN000357,mi gat 20 yia
+XV000073,bpa,dom syan,dom\tsyan,year\tnext,next year,,,,,SN000357,nekis yia
+XV000074,bpa,dom na mwe nok,dom\tna\tmwe\tnok,year\t$comp\t$real\tfinish,last year,,,,,SN000357,las yia
+XV000075,bpa,dap vyan teesi sok karton yan plen ka doo me,da=p\tvyan\tteesi\ts-ok\tkarton\tyan\tplen\tka\tdoo\tme,$1d.in=$pot\tgo\tcheck\t$cl3-1s.poss\tbox\ton\tplane\t$comp\twhether\tcome,let's see if my package on the plane has arrived yet.,,,,,SN000361 ; SN001250 ; SN001340 ; SN001683,bae yumitu go luk se karton blong mi long plen i kam o i no kam
+XV000076,bpa,ma unun doon too,ma\tunun\tdoon\ttoo,$real\tclear\t$res.expand\tgarden,she/ he expands the garden,,,,,SN000362 ; SN001777 ; SN001908,i joinem karen i bigwan
+XV000077,bpa,ma bevyap doon webir,ma\tbevyap\tdoon\twebir,$real\tplant\texpand\ttaro,she/ he planted more taro,,,,,SN000362,hem i planem mo taro
+XV000078,bpa,nuk mwe lili myane kava,n-uk\tmwe\tlili\tmyane\tkava,face.of-$1sg.poss\t$real\tdrunk\twith\tkava,I'm drunk with kava.,,,,,SN000365 ; SN001880,mi drong long kava (fes blong mi i drong long kava)
+XV000079,bpa,dulu dengan,dulu\tdeng=an,sound.of\tcry=$nom,the sound of crying,,,,,SN000369,saon blong krae
+XV000080,bpa,dulu bwye,dulu\tbwye,sound.of\ttamtam,the sound of a tamtam,,,,,SN000369,saon blong tamtam
+XV000081,bpa,sok vis an vi mwe dyanga,sok\tvis\tan\tvi\tmwe\tdyanga,$cl3-$1sg.poss\tweapon\t$al.p\twhite.man\t$real\tlack,I don't have a gun,,,,,SN000376 ; SN001943 ; SN001954 ; SN001955,mi no gat wan masket
+XV000082,bpa,or mwe dyune nge,or\tmwe\tdyune\tnge,place\t$real\tbe.devoid.of\t$3sg,he is not there (lit. the place is devoid of him),,,,,SN000379,hem i no stap
+XV000083,bpa,teenem mwe dyune vyanten,teenem\tmwe\tdyune\tvyanten,village\t$real\tbe.devoid.of\tperson,the village is devoid of people,,,,,SN000379,i no gat man long stesen
+XV000084,bpa,tomo mwe dyunga mea me yan tan,tomo\tmwe\tdyunga\tmea\tme\tyan\ttan,rat\t$real\tfinally\tjump\tcome\ton\tground,the rat finally jumped down to the ground,,,,,SN000380,rat i jes jam daon long graon
+XV000085,bpa,ebyaon baséé,ebya-on\tbaséé,wing.of-$3sg.poss\tbird,wing of a bird,,,,,SN000397,wing blong wan pijin
+XV000086,bpa,ebyate mwe tung mu vu,ebyate\tmwe\ttung\tmu\tvu,moon\t$real\tshine\t$real\tgood,the moon is shining brightly,,,,,SN000400,mun i saen gud
+XV000087,bpa,ebyate na mei,ebyate\tna\tmei,moon\t$comp\tMay,month of May,,,,,SN000401,manis blong Mei
+XV000088,bpa,kop edi esye ente me,ko=p\tedi\tesye\ten=te\tme,$2sg=$pot\tbring\tspoon\t$dem=$dem.prox\tcome,bring me that spoon,,,,,SN000402,karem spun ia i kam
+XV000089,bpa,eli buluwu ne etip,eli\tbuluwu\tne\tetip,dig\thole\t$trans\tpost,dig a hole for a post,,,,,SN000412,digim hol blong post
+XV000090,bpa,yaa mwe en,yaa\tmwe\ten,sun\t$real\teat,the sun is burning,,,,,SN000421,san i saen
+XV000091,bpa,san eng mwe nok,s-an\teng\tmwe\tnok,$cl3-s.poss\tbreath\t$real\tfinish,his life has ended,,,,,SN000427,laef blong hem i finis
+XV000092,bpa,wye erér,wye\terér,water\thot,hot water,,,,,SN000445,hot wota
+XV000093,bpa,or ma erér,or\tma\terér,place\t$real\thot,it's hot,,,,,SN000445,ples i hot
+XV000094,bpa,ese betivyo,ese\tbetivyo,branch.of\tisland.cabbage,the branch of an island cabbage shrub which connects the leaf to the plant,,,,,SN000447,han blong aelan kabis we wan lif i fas long hem
+XV000095,bpa,evyung tuwu,evyung\ttuwu,bundle.of\tbush.nut,a bundle of bush nuts,,,,,SN000466 ; SN001835,bandel navele
+XV000096,bpa,gakalon vyan baséé,gakal-on\tvy-an\tbaséé,arthropod.leg.of-$3sg.poss\thand.of-$3sg.poss\tbird,bird's claw,,,,,SN000486 ; SN001973,finga blong pijin
+XV000097,bpa,gakalon damo,gakal-on\tdamo,arthropod.leg.of-$3sg.poss\tspider,spider leg,,,,,SN000486,leg blong spaeda
+XV000098,bpa,or mwe gaó,or\tmwe\tgaó,place\t$real\tdry,"lit: ""the place is dry""; this expression refers to a future garden which is ready to be burned",,,,,SN000488,ples i drae
+XV000099,bpa,yuk kom gene ma gevi?,yuk\tko=m\tgene\tma\tge=vi?,laplap\t$2sg=$real\tdo\t$real\tbe.like=how,how do you make laplap?,,,,,SN000489,laplap yu mekem olsem wanem?
+XV000100,bpa,silee entak ma veop ma gevi?,silee\ten=tak\tma\tveop\tma\tge=vi?,table\t$dem=$dem.prox\t$real\tlong\t$real\tbe.like=how,how big is this table?,,,,,SN000489 ; SN001445 ; SN001614,tebol ia i bigwan olsem wanem?
+XV000101,bpa,gee webir ten,gee\twebir\tten,bottom.of\ttaro\tnative,end of root of the taro plant,,,,,SN000491 ; SN001703,"en blong rus blong taro, we oli planem bakegen"
+XV000102,bpa,gee wye murswa sa mwe pwer ngete,gee\twye\tmurswa\tsa\tmwe\tpwer\tnge=te,bottom.of\twater\tsome\t$top\t$real\tstay\t$3sg=$dem.med,there is a little water left,,,,,SN000491,smol wota i stap
+XV000103,bpa,geker kyu em,geker\tkyu\tem,cover\tsurround\thouse,providing the frame of a house with walls,,,,,SN000500,kaverem up ol wol blong haos
+XV000104,bpa,gevi webir,gevi\twebir,node.of\ttaro,the place where the leaves emerge from the tuber of the taro,,,,,SN000503,ples we ol lif i kam out long taro
+XV000105,bpa,gevi mesyu,gevi\tmesyu,scale.of\tfish,fish scales,,,,,SN000504,skal blong fis
+XV000106,bpa,vyanten nya ente yem gigyen kyun,vyanten\tnya\ten=te\tye=m\tgigyen\tkyun,person\t$2d\t$dem=$dem.prox\t$3d=$real\tthe.same\tjust,these two men are the same.,,,,,SN000507,tufala man ia i semak
+XV000107,bpa,vyanten nya ente aya dom ma gikis,vyanten\tnya\ten=te\taya\tdom\tma\tgikis,person\t$2sg\t$dem=$dem.prox\t3d.poss\tyear\t$real\tthe.same,these two men are of the same age,,,,,SN000509,"tufala man ia, ej blong tufala i semak"
+XV000108,bpa,gili bwye,gili\tbwye,grind\ttamtam,hollow out a slit drum,,,,,SN000510,digim tamtam
+XV000109,bpa,gili lok,gili\tlok,grind\tlock,turn a key in a lock,,,,,SN000510,tanem ki long lok
+XV000110,bpa,gili punan,gili\tpunan,end.of\tstory,end of a story,,,,,SN000511,en blong stori
+XV000111,bpa,nge mwe gilye temeli vyaven ente myane sam vyale nyoo,nge\tmwe\tgilye\ttemeli\tvyaven\ten=te\tmyane\ts-am\tvyale\tnyoo,$3sg\t$real\tbuy\tchild\tfemale\t$dem=$dem.prox\twith\t$cl3-$2sg.poss\tfamily\t3p,she bought this girl from her family,,,,,SN000513,hem i pem gel ia long famli blong hem
+XV000112,bpa,ngok sam gini mwi ten gyesan,ngok\ts-am\tgini\tmw=i\tten\tgyes=an,$2sg\t$cl3-$2sg.poss\tway\t$real=$cop\tmeant.for\twork=$nom,you are a hard working person,,,,,SN000514,"we blong yu i blong wok, yu wan man blong wok"
+XV000113,bpa,nge mwe tuwuli esi san gini,nge\tmwe\ttuwuli\tesi\ts-an\tgini,$3sg\t$real\ttry\tlook\t$cl3-s.poss\tway,she tried everything she knew,,,,,SN000514 ; SN001839 ; SN001840,hem i traem evri we blong hem
+XV000114,bpa,mwi sam gini wuk,mw=i\ts-am\tgini\twuk,$real=$cop\t$cl3-$2sg.poss\tway\talready,this is just typical of you,,,,,SN000514,hem ya hem i we blong yu
+XV000115,bpa,etep mwe gumtilya em ma tinyo,etep\tmwe\tgumtilya\tem\tma\ttinyo,post\t$real\tsupport\thouse\t$real\tstand,the posts support the house,,,,,SN000533 ; SN001751,ol pos oli sapotem haos i stanap
+XV000116,bpa,goyor ente mwe gene seli mwe gongon,goyor\ten=te\tmwe\tgene\tseli\tmwe\tgongon,red.ant\t$dem=$dem.prox\t$real\tmake\troad\t$real\tbe.blocked,this ant has blocked the road,,,,,SN000524 ; SN001408,anis ia i mekem se rod i fas
+XV000117,bpa,nam gongon ten,na=m\tgongon\tten,$1sg=$real\tbe.blocked\tvery,I'm having too much on my hands,,,,,SN000525,mi gat tumas wok
+XV000118,bpa,vyanten ente ma gongon ane naten nyoo,vyanten\ten=te\tma\tgongon\tane\tnat-en\tnyoo,person\t$dem=$dem.med\t$real\tbe.blocked\t$trans\tchild.of-$3sg.poss\t$3pl,This man has a lot on his hands with his [many] children,,,,,SN000525,man ia i hadwok blong fulap pikinini
+XV000119,bpa,guo ane nye,guo\tane\tnye,rig\t$trans\t$1sg,my rib,,,,,SN000534,rib blong mi
+XV000120,bpa,guone silee,guone\tsilee,clean\ttable,clean a table,,,,,SN000535 ; SN001445,klinim tebol
+XV000121,bpa,guguone too,gu-guone\ttoo,$redup-guone\ttoo,"clearing a field, removing undergrowth and pests",,,,,SN000535,klinim karen
+XV000122,bpa,ko=p liye gur op ente me,ko=p\tliye\tgur\top\ten=te\tme,$2sg=$pot\tliye\tgur\top\t$dem=$dem.prox\tme,bring this piece of firewood,,,,,SN000536,karem pis faeawud ia i kam
+XV000123,bpa,ingyar ane nye,ingyar\tane\tnye,liver\t$trans\t$1sg,my liver,,,,,SN000549,liva blong mi
+XV000124,bpa,sam is sa si?,s-am\tis\tsa\tsi?,$cl3-$2sg.poss\tname\t$top\twho?,What's your name?,,,,,SN000022 ; SN000554 ; SN001437,Huia nem blong yu?
+XV000125,bpa,pwesye na ma kaa vyan,pwesye\tna\tma\tkaa\tvyan,branch\t$comp\t$real\tbend\tgo,a crooked branch,,,,,SN000567,branis we i pulum i go long wan saed
+XV000126,bpa,temeli ente ma kaa,temeli\ten=te\tma\tkaa,child\t$dem=$dem.prox\t$real\tbend,this child has an itchy skin disease,,,,,SN000568,"pikinini ia, skin blong hem i skras"
+XV000127,bpa,kop kamerane sam apyang yan yeevyó,ko=p\tkamerane\ts-am\tapyang\tyan\tyeevyó,$2sg=$pot\tstart.fire\t$cl3-$2sg.poss\tfire\tone\tleaf.of.treefern,start your fire with the leaves of the treefern.,,,,,SN000577,bae yu statem faea blong yu long lif blong blakpam
+XV000128,bpa,kop kaane tóó saka kon kamerane,ko=p\tkaane\ttóó\tsaka\tko=n\tkamerane,$2sg=$pot\tbend\twild.cane\t$neg.mod.rel\t$2sg=$neg.pot\tbreak,"bend the wild cane, don't break it",,,,,SN000578 ; SN001358 ; SN001863,"bae yu benem wael ken, bae yu no brekem"
+XV000129,bpa,gumkate,gum-kate,grab-tight,hold sth. tight,,,,,SN000589,holem taet
+XV000130,bpa,nyurkate,nyur-kate,think-tight,believe,,,,,SN000589,belif
+XV000131,bpa,piskate,pis-kate,fasten-tight,"bind sth., fasten sth. with a rope",,,,,SN000589 ; SN001242,fastem (long wan rop)
+XV000132,bpa,kekyer ó,kekyer\tó,scoop.out\tcoconut,scoop out copra,,,,,SN000597 ; SN002211,selaotem kopra
+XV000133,bpa,nam ane vis myen ló kemyas kyun,na=m\tane\tvis\tmyen\tló\tkemyas\tkyun,$1sg=$real\teat\tbanana\tripe\ttwo\tonly\tjust,I only ate two ripe bananas,,,,,SN000598 ; SN001953,mi kakae tu raef banana nomo
+XV000134,bpa,sam atuwo sa ngeker,s-am\tatuwo\tsa\tnge=ker,$cl3-$2sg.poss\tbasket\t$top\t$3sg=$dem.dist,Here's your bag,,,,,SN000600,basket blong yu hem ia
+XV000135,bpa,webung kevene,webung\tkevene,day\tevery,every day,,,,,SN000602,evri de
+XV000136,bpa,kevitye lowebir/ livis,kevitye\tlo-webir/\tli-vis,peel\tplant.of-taro/\tplant.of-banana,remove bad leaves of a taro plant/ outer layers of a banana plant before replanting them,,,,,SN000603,klinimaot wan stampa blong taro/ banana blong planem
+XV000137,bpa,lee ente ma kevyar,lee\ten=te\tma\tkevyar,tree\t$dem=$dem.prox\t$real\tbent,this tree is crooked,,,,,SN000604,wud ia i kruket
+XV000138,bpa,bosi kevyar swa,bosi\tkevyar\tswa,bone\tbent\tone,a crooked bone,,,,,SN000604,bun we i kruket
+XV000139,bpa,ós mwe kin,ós\tmwe\tkin,rain\t$real\tfall,rain is falling down,,,,,SN000615 ; SN002226,ren i foldaon
+XV000140,bpa,temeli nya ente yam du kin myar,temeli\tnya\ten=te\tya=m\tdu\tkin\tmyar,child\t$3d\t$dem=$dem.prox\t$3pl=$real\tstay\tshut\teye,the two children are having a fight,,,,,SN000619,tufala pikinini ia i stap raorao
+XV000141,bpa,nam kisane ngok,na=m\tkisane\tngok,$1sg=$real\tpoint\t$2sg,I point a finger at you,,,,,SN000625,mi poentem yu
+XV000142,bpa,mesean mu du ko,mese=an\tmu\tdu\tko,sick=$nom\t$real\tstay\tspread,the disease is spreading,,,,,SN000636,sik i stap raon
+XV000143,bpa,kone bungun ane,kone\tbung-un\tane,turn\tmouth.of-$3sg.poss\t$trans,twist one's mouth (at someone) to express disapproval,,,,,SN000643 ; SN001895,tonem maot long (wan man) blong soem se i no laekem
+XV000144,bpa,nam koo ane netuk,na=m\tkoo\tane\tnet-uk,$1sg=$real\ttake.care\t$trans\tchild.of-$1sg.poss,I am taking care of my child,,,,,SN000646 ; SN001880,mi luk afta pikinini blong mi
+XV000145,bpa,nam en kop,na=m\ten\tkop,$1sg=$real\teat\tbe.full,I'm full,,,,,SN000647,mi kakae mi fulap
+XV000146,bpa,mwe pwer webung swa mwe kopkop,mwe\tpwer\twebung\tswa\tmwe\tkopkop,$real\tstay\tday\tone\t$real\tentire,it lasted the whole day,,,,,SN000650,em i stap ful de
+XV000147,bpa,kop vyan korkor,ko=p\tvyan\tkorkor,$2sg=$pot\tgo\t$res.hurry,go quickly,,,,,SN000654,go hariap
+XV000148,bpa,"koruuruu mu ruuruu, ós ka we kin.","koruuruu\tmu\truuruu,\tós\tka\twe\tkin.","thunder\t$real\tthunder,\train\t$mod.rel\t$pot\tfall.","it's thundering, there will be rain.",,,,,SN000657 ; SN002226,"tanda i stap tanda, ren bae kam."
+XV000149,bpa,kuane nye,kuane\tnye,home.of\t$1sg,my home,,,,,SN000663,"haos blong mi, kantri blong mi"
+XV000150,bpa,kuku ó,kuku\tó,grate\tcoconut,grate coconut,,,,,SN000666,skrasem kokonat
+XV000151,bpa,yapkukuone,yap-kukuone,hit-$res.good,hit strongly,,,,,SN000667,slapem strong
+XV000152,bpa,kop vyan warkukuone myane ka to i nye sa nam yasane an barar,ko=p\tvyan\twar-kukuone\tmyane\tka\tto\ti\tnye\tsa\tnam\tyasane\tan\tbarar,$2sg=$pot\tgo\tsay-$res.good\twith\t$mod.rel\t$neg.real\t$cop\t$1sg\t$top\t$1sg=$real\tsteal\t$3sg.poss\tpig,persuade him that it wasn't me who stole his pig,,,,,SN000667,yu go talem long hem se i no mi we i bin stilim pig blong hem
+XV000153,bpa,yam kulye metone lisepsep ente,ya=m\tkulye\tmetone\tlisepsep\ten=te,$3pl\tstartle\tfrom\tlisepsep\t$dem=$dem.prox,they got a fright from this lisepsep,,,,,SN000678,oli sek from lisepsep ia
+XV000154,bpa,kuokuo kyu beleem,kuokuo\tkyu\tbeleem,shut\tsurround\tdoor,shut the door,,,,,SN000682,sarem doa
+XV000155,bpa,yes mu kuon,yes\tmu\tkuon,smoke\t$real\tsmoke,smoke is billowing,,,,,SN000683,smok i smok
+XV000156,bpa,em kuon,em\tkuon,house\ttaboo,a house which is taboo,,,,,SN000684,tabu haos
+XV000157,bpa,sim en kuor,si=m\ten\tkuor,1pc.in\teat\t$res.last.time,we eat together for the last time,,,,,SN000687 ; SN001438,yumi kakae las kakae
+XV000158,bpa,webung kuor,webung\tkuor,day\tlast,the last day,,,,,SN000688,las de
+XV000159,bpa,nge mwe kuowilye ka wa sóró Franis,nge\tmwe\tkuowilye\tka\twa\tsóró\tFranis,$3sg\t$real\tknow\t$comp\t$pot\tspeak\tFrench,He can speak French,,,,,SN000689 ; SN001581,Hem i save toktok long Franis
+XV000160,bpa,maa mwe kuowilye na lisepsep mwe ane naten,maa\tmwe\tkuowilye\tna\tlisepsep\tmwe\tane\tnaten,dove\t$real\tknow\t$comp\tlisepsep\t$real\teat\tchild.of-$3sg,the emerald dove knew that the lisepsep had eaten her child,,,,,SN000689,sotleg i save se lisepsep i kakae pikinini blong hem
+XV000161,bpa,lee nyoo yam du kuukuu,lee\tnyoo\tya=m\tdu\tkuu-kuu,tree\t$3pl\t$3pl=$real\tstay\t$redup-move,the trees are moving,,,,,SN000696,ol wud oli stap muvmuv
+XV000162,bpa,kyaate ó,kyaate\tó,scoop.out\tcoconut,scoop out copra,,,,,SN000699,selaotem kopra
+XV000163,bpa,eye kyen swa sa ngetak,eye\tkyen\tswa\tsa\tnge=tak,knife\tsharp\tone\t$top\t3s=$dem.prox,this is a sharp knife,,,,,SN000701 ; SN001613,wan sap naef hem ia
+XV000164,bpa,betuk mwe kyenkyen,bet-uk\tmwe\tkyenkyen,head.of-$1sg\t$real\tsore,my head is hurting,,,,,SN000702,hed blong mi i soa
+XV000165,bpa,apyang mwe en kyenkyen,apyang\tmwe\ten\tkyenkyen,fire\t$real\tburn\tsore,the fire is burning hot,,,,,SN000702,faea i kakae i hot
+XV000166,bpa,meas mwe kyer ten,meas\tmwe\tkyer\tten,cold\t$real\tbite\tvery,"(lit: ""the cold bites"") it is cold",,,,,SN000704,ples i kolkol tumas
+XV000167,bpa,barar mwe kyerkyer,barar\tmwe\tkyer-kyer,pig\t$real\t$redup-bite,the pig bites,,,,,SN000704,pig i save kakae man
+XV000168,bpa,bura mwe kyer,bura\tmwe\tkyer,blood\t$real\tclot,the blood has clotted,,,,,SN000221 ; SN000705,blad i stak
+XV000169,bpa,kom liye mubuo kom kyervine wedelies,ko=m\tliye\tmubuo\tkom\tkyervi=ne\twedelies,$2sg=$real\ttake\tmeat\t$2sg=$real\tmix=$trans\trice,you take some meat and eat it with raes,,,,,SN000710,"yu stikim mit, kakae wetem raes"
+XV000170,bpa,kyervine daa myane Bislama,kyervi=ne\tdaa\tmyane\tBislama,mix=$trans\tvernacular\twith\tBislama,mix the local vernacular with Bislama,,,,,SN000710,mixim lanwij wetem Bislama
+XV000171,bpa,yuk mwe kyeskyes mu vu,yuk\tmwe\tkyes-kyes\tmu\tvu,laplap\t$real\t$redup-sweet\t$real\tgood,the laplap tastes really sweet,,,,,SN000711,laplap i swit gud
+XV000172,bpa,kyeskyes vyaa,kyeskyes\tvyaa,wash\thand,wash hands,,,,,SN000712 ; SN001976,wasem han
+XV000173,bpa,kyeskyes kaleko,kyeskyes\tkaleko,wash\tcloth,"wash a piece of cloth, clothes",,,,,SN000712,wasem kaliko
+XV000174,bpa,em entak barvinye mwe kukyu,em\ten=tak\tbarvinye\tmwe\tku-kyu,house\t$dem=$dem.prox\tgrass\t$real\t$redup-kyu,this house is surrounded by grass,,,,,SN000715,"haos ya, gras i raonem"
+XV000175,bpa,temeli ente mwe laplap,temeli\ten=te\tmwe\tlaplap,child\t$dem=$dem.prox\t$real\twear.loincloth,this child is wearing diapers,,,,,SN000731,pikinini ia i karem nambas
+XV000176,bpa,nam le mo nok,na=m\tle\tmo\tnok,$1sg=$real\tmarry\t$real\tfinish,I am already married,,,,,SN000734,mi mared finis
+XV000177,bpa,nuk mwe lili,n-uk\tmwe\tlili,face.of-$1sg.poss\t$real\tdrunk,"I am drunk (lit. ""my face is drunk"")",,,,,SN000773,mi drong
+XV000178,bpa,nam tease em te gyesliline,na=m\ttease\tem\tte\tgyes-lili=ne,$1sg=$real\tundo\thouse\t$disc\twork-$res.back=$trans,I undid the house and put it back together,,,,,SN000774 ; SN001676,mi karemaot haos afta wokem bakegen
+XV000179,bpa,lilisi ave,lilisi\tave,seed.of\tmountain.apple,stone of the mountain apple,,,,,SN000775,sid blong nakavika
+XV000180,bpa,lilisi da,lilisi\tda,seed.of\tlychee,stone of the native lychee,,,,,SN000775,sid blong nandao
+XV000181,bpa,limyaek na mu vu,limyaek\tna\tmu\tvu,night\t$comp\t$real\tgood,good night,,,,,SN000778,gud naet
+XV000182,bpa,vyaven swa mo kop te vyan ka we lingling,vyaven\tswa\tmo\tkop\tte\tvyan\tka\twe\tlingling,woman\tone\t$real\tfull\t$disc\tgo\t$mod.rel\t$pot\tgive.birth,a woman is pregnant and is going to give birth,,,,,SN000779,wan woman i gat bel afta i go blong bonem
+XV000183,bpa,yam ling daa myane nyoo,ya=m\tling\tdaa\tmyane\tnyoo,$3pl=$real\tput\tword\twith\t3p,"they held council, had a discussion",,,,,SN000781,oli putum toktok wetem olgeta
+XV000184,bpa,temeli bwe lingkilye nye,temeli\tbwe\tlingkilye\tnye,child\t$cont\tput.back\t$1sg,"the child is taking my place, is continuing the family line",,,,,SN000784,pikinini i tekem ples blong mi
+XV000185,bpa,wye mwe lip,wye\tmwe\tlip,water\t$real\tdrip,water is running,,,,,SN000788,"wota i kavsaed, i ron"
+XV000186,bpa,kop lisye vyam te tan we tesi,ko=p\tlisye\tvy-am\tte\ttan\twe\ttesi,$2sg=$pot\trub.clean\thand.of-$2sg\t$disc\tearth\t$pot\tfall,rub your hands together so the earth will come off,,,,,SN000795,bae yu rabem han blong yu bae ol graon bae fulfuldaon
+XV000187,bpa,kop liye buk ente me,ko=p\tliye\tbuk\ten=te\tme,$2sg=$pot\tcarry\tbook\t$dem=$dem.prox\tcome,bring me this book,,,,,SN000800,karem buk ya i kam
+XV000188,bpa,nam liyes mwi towo ten,na=m\tliyes\tmw=i\ttowo\tten,$1sg=$real\tsuffer\t$real=$cop\tbig\tvery,I am suffering greatly,,,,,SN000803 ; SN001795,mi safa plante tumas
+XV000189,bpa,map mwe lop ma ge myane kumala,map\tmwe\tlop\tma\tge\tmyane\tkumala,chestnut\t$real\tsoft\t$real\tbe.like\twith\tsweet.potato,the chestnut is soft like a sweet potato,,,,,SN000810,namambe i soft olsem kumala
+XV000190,bpa,myaa mu lu/lumu,myaa\tmu\tlu/lumu,hunger\t$real\tbe.brutal,there was a famine,,,,,SN000814,hanggri i kilim
+XV000191,bpa,kuli mwe kyer lumu barar,kuli\tmwe\tkyer\tlumu\tbarar,dog\t$real\tbite\tbe.brutal\tpig,the dog bit the pig to pieces,,,,,SN000814,dog i kakae brekbrekem pig
+XV000192,bpa,luwun temeli mu luk,luw-un\ttemeli\tmu\tluk,tooth.of-$3sg\ttemeli\t$real\tgrow,the tooth of the child has grown,,,,,SN000816,tut blong pikini i gru
+XV000193,bpa,ivyo mu luk,ivyo\tmu\tluk,cabbage\t$real\tgrow,the cabbage is old enough for eating,,,,,SN000816,kabis i redi blong kakae
+XV000194,bpa,luusye,luu-sye,root.of-$3.poss,its root,,,,,SN000823,rus blong hem
+XV000195,bpa,luu lewotop,luu\tlewotop,root.of\tbreadfruit.tree,root of the breadfruit tree,,,,,SN000823,rus blong bredfrut tri
+XV000196,bpa,luwun buo,luw-un\tbuo,tooth.of-$3sg\tboar,tooth of a boar,,,,,SN000825,tut blong man pig
+XV000197,bpa,nam bwe luwu biyep,na=m\tbwe\tluwu\tbiyep,$1sg=$real\t$cont\terect\tfence,I'm building a fence,,,,,SN000827,mi stap stanemap fanis
+XV000198,bpa,lusu lóó,lusu\tlóó,root.of\tcoconut.palm,root of a coconut palm,,,,,SN000828,rus blong stampa blong kokonat
+XV000199,bpa,lye vyap myató,lye\tvyap\tmyató,leg.of\tvenerable.woman\told,the leg of an old woman,,,,,SN000832,leg blong olfala woman
+XV000200,bpa,lyen yaapu,ly-en\tyaapu,leg.of-$3sg.poss\tbig.man,male lineage,,,,,SN000831,laen blong man
+XV000201,bpa,nam gumkilye ok belet mwe lyoo,na=m\tgum-kilye\tok\tbelet\tmwe\tlyoo,$1sg=$real\tgrab-$res.miss\t$1sg.poss\tplate\t$real\tbreak,I let my plate fall down and it broke,,,,,SN000836,mi mestem pelet blong mi i brok
+XV000202,bpa,lyunglyung kopkop,lyung-lyung\tkopkop,$redup-wash\tentire,wash the entire body,,,,,SN000837,wasem ful bodi
+XV000203,bpa,maawane ngok,maawane\tngok,spoil\t$2sg,sorry [an expression of empathy],,,,,SN000849,"i spoilem yu, sori long yu"
+XV000204,bpa,myaop mwe maawane ar mees,myaop\tmwe\tmaawane\tar\tmees,volcano\t$real\tspoil\t$1pl.in\tfood,the volcano has spoiled our food,,,,,SN000849,volkeno i spoelem ol kakae blong yumi
+XV000205,bpa,webung mwe vyan ma maga,webung\tmwe\tvyan\tma\tmaga,day\t$real\tgo\t$real\tquick,the days have passed quickly,,,,,SN000852,taem i pas hariap
+XV000206,bpa,myanok ente ka we map wa maga,myanok\ten=te\tka\twe\tmap\twa\tmaga,wound\t$dem=$dem.prox\t$mod.rel\t$pot\theal\t$pot\tquick,this sore will heal quickly,,,,,SN000852 ; SN000865,soa ia bae i gud kwiktaem
+XV000207,bpa,vyam ma meda,vy-am\tma\tmeda,hand.of-$2sg.poss\t$real\tbleed,your hand is bleeding,,,,,SN000884 ; SN001973,han blong yu i blad
+XV000208,bpa,ó ma medap,ó\tma\tmedap,coconut\t$real\tfall,a coconut has fallen down,,,,,SN000885 ; SN002211,kokonat i fuldaon
+XV000209,bpa,sun metan ma medap,sun\tmet-an\tma\tmedap,tear.of\teye.of-$3sg.poss\t$real\tfall,his tears are falling,,,,,SN000885 ; SN001523,wota blong ae blong hem i fuldaon
+XV000210,bpa,lee na ma medar,lee\tna\tma\tmedar,tree\t$comp\t$real\trot,rotten wood,,,,,SN000886,wud we i rot
+XV000211,bpa,ma tavya pelyen meerin,ma\ttavya\tpelyen\tmeerin,$real\tget.up\tmoring\tlong.time,she got up in the early morning,,,,,SN000892,hem i girap long moning eli
+XV000212,bpa,meerin nyoo,meerin\tnyoo,long.time\t$3pl,"the ancients, our ancestors",,,,,SN000892,olgeta blong bifo
+XV000213,bpa,vyanten melipro swa sa ngetak,vyanten\tmelipro\tswa\tsa\tnge=tak,person\tlax\tone\t$top\t$3sg=$dem.prox,this is a restful man,,,,,SN000897,wan slak man hem ia
+XV000214,bpa,"nge mwi vyanten melumlum swa, to pwe oko, pwerpwer kyun","nge\tmw=i\tvyanten\tmelumlum\tswa,\tto\tpwe\toko,\tpwer-pwer\tkyun",$3sg\t$real=$cop\tperson\tquiet\tone\t$neg.real\t$cont\twalk\t$redup-stay\tjust,"He is a restful man, he doesn't walk around, he just stays at home",,,,,SN000901 ; SN001145 ; SN001289,"hem i wan man we i kwaet, i no wokbaot, i stap nomo long haos"
+XV000215,bpa,meuan na nenyu te melumlum,meu=an\tna\tnenyu\tte\tmelumlum,live=$nom\t$comp\tyesterday\t$dist\tquiet,the life of befor was restful,,,,,SN000901 ; SN001670,"laef blong bifo i kwaet, i isi"
+XV000216,bpa,atak ma memeop mu vu nge,atak\tma\tmemeop\tmu\tvu\tnge,her\t$real\teven\t$real\tgood\t$3sg,it's nice and even here,,,,,SN000904,long ples ia i level gud
+XV000217,bpa,vyanten ente ma ka punan swa mwi mena,vyanten\ten=te\tma\tka\tpunan\tswa\tmw=i\tmena,person\t$dem=$dem.med\t$real\tsay\tstory\tone\t$real=$cop\tfunny,this man has told a funny story,,,,,SN000905,man ia i talem wan stori i fani
+XV000218,bpa,vyanten mena swa sa ngetak,vyanten\tmena\tswa\tsa\tnge=tak,person\tfunny\tone\t$top\t$3sg=$dem.prox,this is a funny man,,,,,SN000905,wan fani ma hem ia
+XV000219,bpa,ma sóró yan daa ma mesaa,ma\tsóró\tyan\tdaa\tma\tmesaa,$real\tspeak\ton\tlanguage\t$real\tclear,She speaks the language clearly,,,,,SN000917,hem i toktok long lanwij i klia
+XV000220,bpa,mesaa ne em,mesaa\tne\tem,open.space\t$trans\thouse,the space in front of the entrance of a house,,,,,SN000918,ples long medel afsaed long haos
+XV000221,bpa,degi mwi mesean swa,degi\tmw=i\tmese=an\tswa,dengue\t$real=$cop\tsick=$nom\tone,dengue is a disease,,,,,SN000920,dengue hem i wan sik
+XV000222,bpa,vyanten swa ma liye mesean ente,vyanten\tswa\tma\tliye\tmese=an\ten=te,person\tone\t$real\tcarry\tsick=$nom\t$dem=$dem.med,someone caught that disease,,,,,SN000920,wan man i karem sik ya
+XV000223,bpa,kulye metone,kulye\tmetone,startle\tfrom,get a fright from,,,,,SN000937,sek from
+XV000224,bpa,kuo metone,kuo\tmetone,run\tfrom,run from sth.,,,,,SN000937,ronwe from
+XV000225,bpa,nam ongane ka nap seaa metone ngok,nam\tongane\tka\tna=p\tseaa\tmetone\tngok,$1sg=$real\tfeel\t$comp\t$1sg=$pot\tdisappear\tfrom\t$2sg,I feel that you are going to lose me (I am going to die),,,,,SN000937,mi harem se bae mi lus long yu (bae mi ded)
+XV000226,bpa,apyang mwe en metone lyem,apyang\tmwe\ten\tmetone\tly-em,fire\t$real\teat\tfrom\tleg.of-$2sg.poss,the fire has burned your leg,,,,,SN000937,faea i kakae long leg blong yu
+XV000227,bpa,Kom meu kyun?,Ko=m\tmeu\tkyun?,$2sg=$real\tlive\tjust,(as a greeting) Are you alright?,,,,,SN000939,Yu oraet?
+XV000228,bpa,milisye,mili-sye,place.of-$3.poss,it's place,,,,,SN000944,ples blong hem
+XV000229,bpa,mili mok esye,mili\tm-ok\tesye,place.of\t$cl1-$1sg.poss\tspoon,the place of my spoon,,,,,SN000944,ples blong spun blong mi
+XV000230,bpa,vice president ma liye mili president,vice\tpresident\tma\tliye\tmili\tpresident,vice\tpresident\t$real\tcarry\tplace.of\tpresident,the vice president takes the place of the president,,,,,SN000944,vice president i tekem ples blong president
+XV000231,bpa,teenem mwe pwer milye yan weu,teenem\tmwe\tpwer\tmilye\tyan\tweu,village\t$real\tstay\ton.top\ton\thill,the house is on the mountain,,,,,SN000950,house i stap antap long mountain
+XV000232,bpa,wye ma mimilye,wye\tma\tmimilye,water\t$real\ttasteless,water tastes neutral,,,,,SN000951,wota i no gat test
+XV000233,bpa,kom min ti mo nok?,ko=m\tmin\tti\tmo\tnok?,$2sg=$real\tdrink\ttea\t$real\tfinish?,Have you had tea already / Have you finished breakfast?,,,,,SN000952,Yu dring ti finis?
+XV000234,bpa,miye si?,miye\tsi?,tongue.of\twho?,whose tongue?,,,,,SN000972 ; SN001437,tang blong hu?
+XV000235,bpa,wotop ente mwe pa mwe mokote,wotop\ten=te\tmwe\tpa\tmwe\tmokote,breadfruit\t$dem=$dem.prox\t$real\tbear.fruit\t$real\treally,this breadfruit has really a lot of fruit,,,,,SN000978,bredfrut ia i karem frut i meksave
+XV000236,bpa,vyortutu mwe moos,vyortutu\tmwe\tmoos,stone\t$real\tslippery,the stone is slippery,,,,,SN000986,ston i glis
+XV000237,bpa,mop swa sa mwe tung me te ós ka we kin,mop\tswa\tsa\tmwe\ttung\tme\tte\tós\tka\twe\tkin,cloud\tone\t$top\t$real\tdark\tcome\t$disc\train\t$mod.rel\t$pot\tfall,"a dark cloud is coming, rain will fall",,,,,SN000987 ; SN001820,"wan klaod i dak i kam, bae ren i foldaon"
+XV000238,bpa,or mwe mop,or\tmwe\tmop,place\t$real\tbe.cloudy,it's cloudy,,,,,SN000988,"ples i dak, i gat klaod"
+XV000239,bpa,ebyate mwe mop,ebyate\tmwe\tmop,moon\t$real\tbe.cloudy,the moonlight is dull,,,,,SN000988,mun i no saen gud
+XV000240,bpa,nam moseaa mok em,nam\tmoseaa\tm-ok\tem,$1sg=$real\tfinish\t$cl1-$1sg.poss\thouse,I have finished (building) my house,,,,,SN000989,mi flatem haos blong mi
+XV000241,bpa,nam moseaa sok gyesan,na=m\tmoseaa\ts-ok\tgyes=an,$1sg=$real\tfinish\t$cl3-$1sg.poss\twork=$nom,I have completed my work,,,,,SN000989,mi flatem wok blong mi
+XV000242,bpa,kop motitiye nye,ko=p\tmotitiye\tnye,$2sg=$pot\tforgive\t$1sg,sorry (forgive me),,,,,SN000991,sori (yu fogivim mi)
+XV000243,bpa,mu mu mu,mu\tmu\tmu,quake\t$real\tquake,the earth quakes,,,,,SN000994,graon i sek
+XV000244,bpa,kop vyan mwede?,ko=p\tvyan\tmwede?,$2sg=$pot\tgo\tor?,Are you coming or not?,,,,,SN001004,bae yu go o?
+XV000245,bpa,timyan ka we vyose dom swa mwede wi evis swa,timy-an\tka\twe\tvyose\tdom\tswa\tmwede\twi\tevis\tswa,father.of-$3sg.poss\t$mod.rel\t$pot\tcarry\tyam\tone\tor\t$pot\tbanana.bundle\tone,the father will bring a yam or a banana,,,,,SN001004,tati bae i karem wan yam o bae i wan bandel banana
+XV000246,bpa,vyam na mwei,vy-am\tna\tmwei,hand.of-$2sg\t$comp\tleft,your left hand,,,,,SN001005,lef han blong yu
+XV000247,bpa,vyanten ente vyan mwi mwei,vyanten\ten=te\tvyan\tmw=i\tmwei,person\t$dem=$dem.med\tgo\t$real=$cop\tleft,this man is left-handed,,,,,SN001005,man ia i yusum left han blong raetem
+XV000248,bpa,wedelies mwelili mwe pwer,wedelies\tmwelili\tmwe\tpwer,rice\tsmall\t$real\tstay,there is still a little rice,,,,,SN001006,smol raes i stap
+XV000249,bpa,nam sóró mwelili myane nge,nam\tsóró\tmwelili\tmyane\tnge,$1sg=$real\tspeak\tsmall\twith\t$3sg,I talked a little with her/him,,,,,SN001006 ; SN001581,mi toktok smol wetem
+XV000250,bpa,yam oko mwes kyun saka yan kyu rapa,ya=m\toko\tmwes\tkyun\tsaka\tya=n\tkyu\trapa,$3pl=$real\twalk\t$res.nothing\tjust\t$mod.neg\t$3pl=$neg.real\tsurround\tshoe,"They walk around barefoot, they don't wear shoes.",,,,,SN001008 ; SN001145 ; SN001332 ; SN001358,"oli wokbaot nating, oli no karem raba"
+XV000251,bpa,nam gene mwes kyun,nam\tgene\tmwes\tkyun,$1sg=$real\tdo\t$res.nothing\tjust,I'm not getting anything done here,,,,,SN001008,mi mekem wan samting nating nomo
+XV000252,bpa,to ka ne gyes mwes,to\tka\tne\tgyes\tmwes,$neg.real\tsay\t$neg.pot\twork\t$res.nothing,he's not going to work for free,,,,,SN001008,bae no wok i fri (bae i mas gat mani)
+XV000253,bpa,myaa ma ate nye,myaa\tma\tate\tnye,hunger\t$real\tbite\t$1sg,I'm hungry (lit. `hunger bites me'),,,,,SN001011,mi hanggri
+XV000254,bpa,myadi vis,myadi\tvis,shoot.of\tbanana,banana shoot,,,,,SN001014,sut blong banana
+XV000255,bpa,or mwe myaek,or\tmwe\tmyaek,place\t$real\tbe.night,it is night,,,,,SN001015,"tudak, ples i tudak"
+XV000256,bpa,yen myaek,yen\tmyaek,in\tnight,in the night,,,,,SN001016,long naet
+XV000257,bpa,poo yan myage,poo\tyan\tmyage,climb\ton\tmyage.platform,perform the rite described above (lit. `to go onto the myage platform'),,,,,SN001021 ; SN001258,claem antap long bed ia
+XV000258,bpa,mees myarmyar,mees\tmyar-myar,food\t$redup-be.done,underdone food,,,,,SN001036,kakae we i no dan
+XV000259,bpa,oko myar,oko\tmyar,walk\t$res.aimlessly,wander aimlessly,,,,,SN001038,wokbaot kranki
+XV000260,bpa,nam en mees myar,na=m\ten\tmees\tmyar,$1sg=$real\teat\tfood\trandom,I'm eating this and that / whatever is there,,,,,SN001040,mi kakae olbaot
+XV000261,bpa,vyanten myar swa sa ngetak,vyanten\tmyar\tswa\tsa\tngetak,person\tselfish\tone\t$top\t$3sg=$dem.prox,this is a selfish man,,,,,SN001039,wan man we i selfis hem ia
+XV000262,bpa,tes mwe myas,tes\tmwe\tmyas,sea\t$real\tdry,the tide is low,,,,,SN001045 ; SN001712,solwota i drae
+XV000263,bpa,webir mwe myató,webir\tmwe\tmyató,taro\t$real\told,the taro is old enough to be eaten,,,,,SN001046,taro i redi blong kakae
+XV000264,bpa,vis myen,vis\tmyen,banana\tripe,ripe banana,,,,,SN001048,raef banana
+XV000265,bpa,mwe myor,mwe\tmyor,$real\texact,"that's ok, that's good",,,,,SN001050,i stret
+XV000266,bpa,naarop myali nyoo yam nii,naarop\tmyali\tnyoo\tya=m\tnii,during.the.day\tred.eyed.crab\t$3pl\t$3pl=$real\thide,during the day the red-eye crabs hide,,,,,SN001059,delaet ol red-ae-krab i stap haed
+XV000267,bpa,uluk mwe nek,ul-uk\tmwe\tnek,skin.of-$1sg.poss\t$real\tfear,I'm frightened,,,,,SN001075 ; SN001888,mi fraet
+XV000268,bpa,bósu mwe neknek,bósu\tmwe\tnek-nek,cat\t$real\t$redup-fear,"the cat is shy, afraid of people",,,,,SN001075,"puskat i fraet (long ol man), i wael"
+XV000269,bpa,nuk mwe tetekyer,n-uk\tmwe\tte-tekyer,face.of-$1sg.poss\t$real\t$redup-rough,my face has rough skin (as from drinking kava),,,,,SN001119,fes i brok
+XV000270,bpa,nuk mwe pyó,n-uk\tmwe\tpyó,face.of-$1sg.poss\t$real\twhite,my face is white,,,,,SN001119 ; SN001328,fes i waet
+XV000271,bpa,neti maa,neti\tmaa,child.of\tdove,child of the emerald dove,,,,,SN001081,pikinini blong sotleg
+XV000272,bpa,nin meuan se yaapu,nin\tmeu=an\ts-e\tyaapu,spirit.of\tlive=$nom\t$cl3-$al.s\tbig.man,the spirit of God,,,,,SN001107,speret blong god
+XV000273,bpa,nya syan,nya\tsyan,$3d\tother,the other one,,,,,SN001121,
+XV000274,bpa,nye san taata,nye\ts-an\ttaata,aunt\t$cl3-$3sg.poss\tfather,his father's aunt,,,,,SN001123 ; SN001603,anti blong papa blong hem
+XV000275,bpa,kuli ente mwe nyun ane bósi ne barar,kuli\ten=te\tmwe\tnyun\tane\tbósi\tne\tbarar,dog\t$dem=$dem.prox\t$real\tstartle\t$trans\tbone\t$trans\tpig,the dog was dazzled by the bone of the pig,,,,,SN001129,dog ia i sek long bun blong pig
+XV000276,bpa,nam ongane myar nyup,na=m\tongane\tmyar\tnyup,$1sg=$real\tfeel\teye\tsleep,I feel sleepy,,,,,SN001130,mi wantem silip
+XV000277,bpa,ngivi barar,ngivi\tbarar,skin\tpig,skin a pig,,,,,SN001093,skinim pig
+XV000278,bpa,ngulye lee ne or wa mwelili,ngulye\tlee\tne\tor\twa\tmwelili,cut.to.pieces\ttree\t$trans\tplace\t$pot\tsmall,cutting the trees of a future garden into pieces,,,,,SN001097,katem ol tri long karen i kam smolsmol
+XV000279,bpa,ngulye op,ngulye\top,cut.to.pieces\tfirewood,cut firewood,,,,,SN001097 ; SN001168,katem faeawud
+XV000280,bpa,ok bosi,ok\tbosi,$1sg.poss\tchisel,my copra chisel,,,,,SN001142,skru blong mi
+XV000281,bpa,ma oko yan vyap myató swa te mwe vyan pyan opital,ma\toko\tyan\tvyap\tmyató\tswa\tte\tmwe\tvyan\tpyan\topital,$real\twalk\ton\tfish\tstonefish\tone\t$disc\t$real\tgo\tunder\thospital,he stepped onto a stonefish and went to the hospital,,,,,SN001145 ; SN001148,hem i wokbaot i stanap long wan stonfis afta i go long hospital
+XV000282,bpa,or mwe yuop,or\tmwe\tyuop,place\t$real\tdawn,it's dawn,,,,,SN001170,delaet
+XV000283,bpa,or mwe myaek,or\tmwe\tmyaek,place\t$real\tbe.night,it's dark,,,,,SN001170,ples i dak
+XV000284,bpa,or bwe myaek,or\tbwe\tmyaek,place\t$cont\tbe.night,it's getting dark,,,,,SN001170,ples i stap kam tudak
+XV000285,bpa,or mwe dyu,or\tmwe\tdyu,place\t$real\tbe.empty,there is no one here,,,,,SN001170,i no gat man
+XV000286,bpa,ko bwe gene ormwes kyun ate!,ko\tbwe\tgene\tormwes\tkyun\tate!,$2sg\t$cont\tdo\tnothing\tjust\there,you're just being useless here!,,,,,SN001172,yu stap mekem nating nomo!
+XV000287,bpa,óp ane Anja ma tiye ansi,óp\tane\tAnja\tma\ttiye\tansi,op.feeling\t$trans\tAnja\t$real\thit\t1pc.in,we feel fatigue because Anja left (lit. `the op of Anja is hitting us'),,,,,SN000038 ; SN002225,yu mi harem sori from Anja i go stap long wan narafala ples
+XV000288,bpa,vis mwe pa,vis\tmwe\tpa,banana\t$real\tbear.fruit,the banana palms are bearing fruit,,,,,SN001182 ; SN001953,kakae blong banana i kam aot
+XV000289,bpa,kop pakuli syuksyuk,ko=p\tpakuli\tsyuksyuk,$2sg=$pot\tpick.up\trubbish,pick up the trash,,,,,SN001187 ; SN001575,pikim ap doti
+XV000290,bpa,nam pakuon ane sok too,na=m\tpakuon\tane\tsok\ttoo,$1sg=$real\twork.hard\t$trans$\tcl3-$1sg.poss\tgarden,I work hard in my garden,,,,,SN001188 ; SN001777,mi wok had long garen blong mi
+XV000291,bpa,lee ente mwi pan,lee\ten=te\tmw=i\tpan,tree\t$dem=$dem.prox\t$real=$cop\tforked,this tree branches out,,,,,SN001192,tri ia i fok
+XV000292,bpa,mwe pasane eye bwer yan silee,mwe\tpas=ane\teye\tbwer\tyan\tsilee,$real\tthrust=$trans\tknife\tstay\ton\ttable,he thrust a knife into the table,,,,,SN001196,hem i sperem naef i stanap long tebol
+XV000293,bpa,paskate etep,pas-kate\tetep,thrust-$res.tight\tpost,,,,,,SN001199,"ramem post i go long graon, bae graon i holem"
+XV000294,bpa,"daa na yam yurmiline mo nok, a mwe peirtase","daa\tna\tya=m\tyurmiline\tmo\tnok,\ta\tmwe\tpeir-tase",language\t$comp\t$3pl=$real\tforget\t$real\tfinish\tbut\t$real\tdig.out-$res.again,"the language which they had already forgotten, she digged it out again",,,,,SN001204 ; SN001205 ; SN001649,"lanwij we olgeta i fogetem finis, hem i digim i kam bak bakegen"
+XV000295,bpa,pepelyen na tu vu,pepelyen\tna\ttu\tvu,morning\t$comp\t$dist\tgood,good morning,,,,,SN001213 ; SN001806,gud moning
+XV000296,bpa,nam ongane meas mwe kyer te nam bwe pepyap,na=m\tongane\tmeas\tmwe\tkyer\tte\tna=m\tbwe\tpepyap,$1sg=$real\tfeel\tcold\t$real\tbite\t$disc\t$1sg=$real\t$cont\tshiver,I feel cold so I shiver,,,,,SN001215 ; SN001673,mi harem kolkol ale mi sek
+XV000297,bpa,kom peten,ko=m\tpeten,$2sg=$real\tbe.true,you're right,,,,,SN001226,yu tru
+XV000298,bpa,kop piiane kyesbung swa wi sok,ko=p\tpiiane\tkyesbung\tswa\twi\ts-ok,$2sg=$pot\tperform.magic\tsweetmouth.rite\tone\t$pot\t$cl3-$1sg.poss,please make me a `sweetmouth' (see kyesbung),,,,,SN001230,bae yu mekem wan switmaot blong mi
+XV000299,bpa,Wotop ma pini pwesye nyoo,Wotop\tma\tpini\tpwesye\tnyoo,breadfruit\t$real\tfill\tbranch\t$3pl,All the branches are full of bredfruit,,,,,SN001236,evri han i karem bredfrut
+XV000300,bpa,Mees mwe pini tebol,Mees\tmwe\tpini\ttebol,food\t$real\tfull\ttable,The table is entirely covered with food,,,,,SN001236,Food i kaverem ap evri tebol
+XV000301,bpa,or pirpir,or\tpirpir,place\tslanted,a slope,,,,,SN001238,ples we i no level
+XV000302,bpa,aua mwe pisi lee,aua\tmwe\tpisi\tlee,rope\t$real\tfasten\ttree,the rope is fastened to a tree,,,,,SN001241,rop i fas long wan tri
+XV000303,bpa,"sok sesear mwe sanga ten, sok dep ma pisi","s-ok\tsesear\tmwe\tsanga\tten,\ts-ok\tdep\tma\tpisi","$3cl-$1sg.poss\tclothes\t$real\tbad\tvery,\t$cl3-$1sg.poss\tsnot\t$real\tfasten","my clothes are really bad, my snot sticks to them",,,,,SN001241 ; SN001364,"ol klos blong mi i nogud tumas, wota blong nus blong mi i fas long hem"
+XV000304,bpa,vyanten ente ma popopane san ebe nyoo,vyanten\ten=te\tma\tpopopane\ts-an\tebe\tnyoo,person\t$dem=$dem.med\t$real\tconfess\t$cl3-$3sg.poss\tsin\t$3pl,this man has confessed his sins,,,,,SN001259,man ia i talemaot ol sin blong hem
+XV000305,bpa,nam pupuluk mwe sikya sungavi,nam\tpu-puluk\tmwe\tsikya\tsungavi,$1sg=$real\t$redup-count\t$real\ttouch\tten,I counted to ten,,,,,SN001267 ; SN001441 ; SN001527,mi kaontem kasem ten
+XV000306,bpa,vyap myató nyoo yam vyan ane punguoran etes,vyap\tmyató\tnyoo\tya=m\tvyan\tane\tpunguor=an\tetes,venerable.woman\told\t$3pl\t$3pl=$real\tgo\t$trans\tlook.for.shellfish=$nom\tat.the.sea,the old women are going to collect shellfish on the reef.,,,,,SN001275,ol olfala woman oli go blong wokbaot long rif blong pikimap ol sel mo ol krab
+XV000307,bpa,bankyen mu puo,bankyen\tmu\tpuo,mosquito\t$real\t$be.plentiful,there are many mosquitos,,,,,SN001278,mostik i fulap
+XV000308,bpa,ko bwet me puontak?,ko\tbwet\tme\tpuon=tak?,$2sg\t$cos\tcome\t$fut.again=$dem.prox?,Have you arrived only now? (You are late),,,,,SN001280,yu kam jes nao?
+XV000309,bpa,ma pupuop yuk vis mo nok ka si wane,ma\tpupuop\tyuk\tvis\tmo\tnok\tka\tsi\tw=ane,$real\topen\tlaplap.dish\tbanana\t$real\tfinish\t$mod.rel\t$1pc.in\t$pot=eat,she has already opened the banana laplap for us to eat,,,,,SN001283 ; SN001438,hem i openem laplap banana finis bae yumi kakae
+XV000310,bpa,vyanten puputawye swa sa ngetak,vyanten\tpuputawye\tswa\tsa\tngetak,person\tunreliable\tone\t$top\t$3sg=$dem.prox,this is an unreliable man,,,,,SN001284,wan man we i stap mekem ol samting olbaot hem ia
+XV000311,bpa,gyesan entak mwi medu pwengpwenges,gyes=an\ten=tak\tmw=i\tmedu\tpweng-pwenges,work=$nom\t$dem=$dem.prox\t$real=$cop\tback\t$redup-sore,this work makes the back hurt,,,,,SN001293,"wok ya, bak i save soa"
+XV000312,bpa,nam pwer esi na trak mwe ka,nam\tpwer\tesi\tna\ttrak\tmwe\tka,$1sg=$real\tstay\tlook\t$comp\ttruck\t$real\tfly,I dreamt of a flying truck,,,,,SN001295,mi drim se wan trak i flae
+XV000313,bpa,mwe pwer tevyam,mwe\tpwer\ttevy-am,$real\tstay\tside.of-$2sg.poss,it's up to you,,,,,SN001297 ; SN001728,i stap long yu
+XV000314,bpa,mwe pwerlilye pyan vyanten ente,mwe\tpwerlilye\tpyan\tvyanten\ten=te,$real\tenvision\tunder\tperson\t$dem=$dem.prox,he had a vision of this man,,,,,SN001298,em i drim long man ia
+XV000315,bpa,metas mwe pwese,metas\tmwe\tpwese,spear\t$real\tstand.upright,the spear is standing up,,,,,SN001301,spia i stanap
+XV000316,bpa,pwesye lowotop,pwesye\tlowotop,branch.of\tbreadfruit.tree,branch of a breadfruit tree,,,,,SN001302,branis blong bredfrut
+XV000317,bpa,yam pweli ne vya te pwis,ya=m\tpweli\tne\tvya\tte\tpwis,$3pl=$real\tbake\t$trans\ttimes\t$dist\tbe.plentiful,they baked it many times,,,,,SN001291 ; SN001303 ; SN001670,oli bekem plante taem
+XV000318,bpa,kisim du tas te vyanten ente ma pwisyaa,kisi=m\tdu\ttas\tte\tvyanten\ten=te\tma\tpwisyaa,$1pc.ex=$real\tstay\tsit\t$disc\tperson\t$dem=$dem.prox\t$real\tcome.out,"we three were sitting down, then this man came looking for us",,,,,SN001304 ; SN001646 ; SN001673,"mitrifala i stap sidaon, afta man ya i kamkamaot"
+XV000319,bpa,pyaavep na mu vu,pyaavep\tna\tmu\tvu,afternoon\t$comp\t$real\tgood,good afternoon,,,,,SN001305,gud aftenun
+XV000320,bpa,ka kop pyakane syuksyuk nyoo ente te tungane,ka\tko=p\tpyakane\tsyuksyuk\tnyoo\ten=te\tte\ttungane,$mod.rel\t$2sg=$pot\tgather\trubbish\t$3pl\t$dem=$dem.prox\t$disc\tlay.fire.to,pick up all this rubbish and burn it,,,,,SN001309,pikim ap ol doti ia mo bonem
+XV000321,bpa,kop me dap pyalir we,ko=p\tme\tda=p\tpyalir\twe,$2sg=$pot\tcome\t$1d.in=$pot\tnegotiate\tfirst,come so we can talk among the two of us,,,,,SN001312,yu kam bae yumi diskas festaem
+XV000322,bpa,pyane yan apyang,pyane\tyan\tapyang,roast\ton\tfire,roast on a fire,,,,,SN001316,rusum long faea
+XV000323,bpa,pyane or,pyane\tor,burn\tplace,"(lit: ""burning the place"") burning the previously felled and dried plants in an area of the bush to prepare it for agriculture",,,,,SN001317,bonem ples
+XV000324,bpa,wye pyangpyang,wye\tpyang-pyang,water\t$redup-hot,hot water,,,,,SN001319,wota we i hot
+XV000325,bpa,pyase nesye,pyase\tnesye,give.birth\tits.child,give birth to a child,,,,,SN001323,bonem pikini blong hem
+XV000326,bpa,yam du gene pyooan swa,ya=m\tdu\tgene\tpyoo=an\tswa,$3pl=$real\tstay\tdoo\tmake.ceremony=$nom\tone,they are holding a custom ceremony,,,,,SN001325,oli stap mekem wan kastom seremoni
+XV000327,bpa,kom bwe pyosane nye tevyan sewe?,ko=m\tbwe\tpyos=ane\tnye\ttevyan\tsewe?,$2sg=$real\t$cont\tjoke=$trans\t$1sg\tbecause.of\twhat,Why are you joking with me?,,,,,SN001326,Yu stap ple long mi from wanem?
+XV000328,bpa,yem gene kukyur wi sii,ye=m\tgene\tkukyur\tw=i\tsii,$3d=$real\tdo\tround\t$pot=$cop\tthree,they did three rounds,,,,,SN001330 ; SN001440,oli mekem tri raon
+XV000329,bpa,"koruuruu mwe ruuruu, ós ka we kin.","koruuruu\tmwe\truuruu,\tós\tka\twe\tkin.",thunder\t$real\tthunder\train\t$mod.rel\t$pot\tfall,"it's thundering, there will be rain.",,,,,SN001339,"tanda i stap tanda, ren bae kam."
+XV000330,bpa,uluk mwe sa,ul-uk\tmwe\tsa,skin.of-$1sg.poss\t$real\tshy,I'm embarrased,,,,,SN001341 ; SN001888,mi sem
+XV000331,bpa,saakuokuo waawaa wowo,saakuokuo\twaawaa\twowo,change\tlimbs\tbig,fastening a cow to a different tree,,,,,SN001348,jenisim puluk
+XV000332,bpa,kom sangane nye,ko=m\tsangane\tnye,$2sg=$real\ttreat.badly\t$1sg,you're not treating me well,,,,,SN001365,yu bad fren long mi
+XV000333,bpa,nam dakap me saor kyun,na=m\tdakap\tme\tsaor\tkyun,$1sg=$real\tjust\tcome\tarrive\tjust,I have just arrived,,,,,SN001367,mi jas kam tru nao
+XV000334,bpa,san kekei mwe saor wuk?,s-an\tkekei\tmwe\tsaor\twuk?,$cl3-s.poss\tsmall\t$real\tbe.born\talready,has her child already been born?,,,,,SN001368,pikinini blong hem i bon finis?
+XV000335,bpa,nam saor 1933,nam\tsaor\t1933,$1sg=$real\tbe.born\t1933,I was born in 1933,,,,,SN001368,mi bin bon long 1933
+XV000336,bpa,vyanten swa mwi towo save vyanten syan,vyanten\tswa\tmw=i\ttowo\tsave\tvyanten\tsyan,person\tone\t$real=$cop\tbig\tsurpass\tperson\tother,one man is bigger than the other,,,,,SN001375 ; SN001795,wan man i bigwan bitim narafala man
+XV000337,bpa,kop sayung,ko=p\tsayung,$2sg=$pot\tquiet,be quiet!,,,,,SN001380,stap kwaet!
+XV000338,bpa,eng mwe sayung,eng\tmwe\tsayung,wind\t$real\tquiet,the air is still,,,,,SN001380,win i kwaet
+XV000339,bpa,myantung mwe kukuo save myasyu seaa yen bwili tes,myantung\tmwe\tku-kuo\tsave\tmyasyu\tseaa\tyen\tbwili\ttes,swordfish\t$real\t$redup-run\tsurpass\tfish\tall\tin\thole.of\tsea,the swordfish outraces every other fish in the sea.,,,,,SN001387 ; SN001712,sodfis hem i resis bitim evri narafela fis long solwota
+XV000340,bpa,ok eye ma seaa,ok\teye\tma\tseaa,$1sg.poss\tknife\t$real\tall,"my knife has been lost, I lost my knife",,,,,SN001388,naef blong mi i lus
+XV000341,bpa,vyap myató mwe ongane ma ka wa seaa,vyap\tmyató\tmwe\tongane\tma\tka\twa\tseaa,venerable.woman\told\t$real\tfeel\t$real\t$mod.rel\t$pot\tlose,the old woman felt she was going to die,,,,,SN001388,ofala woman i harem bae i ded
+XV000342,bpa,see lewewo ma kekei,see\tlewewo\tma\tkekei,size.of\tbamboo\t$real\tsmall,the bamboo is small,,,,,SN001394,saes blong bambu i smol
+XV000343,bpa,mees ente buon mwe sek,mees\ten=te\tbu-on\tmwe\tsek,food\t$dem=$dem.prox\tsmell.of-$3sg.poss\t$real\tstink,this food stinks,,,,,SN001398,kakae ia i stink
+XV000344,bpa,seka ivyo,seka\tivyo,harvest\tcabbage,,,,,,SN001399,pinjim kabis
+XV000345,bpa,kop sekate mam em / kop sekate mam tako ane em,ko=p\tsekate\tm-am\tem\t/\tkop\tsekate\tm-am\ttako\tane\tem,$2sg=$pot\tfix\t$cl1-$2sg.poss\thouse\t/\t$2sg=$pot\tfix\t$cl1-$2sg.poss\tbamboo\t$trans\thouse,fix the bamboo beams of your roof,,,,,SN001401,bae yu fasem taet haos blong yu
+XV000346,bpa,"nam sekupane, ma kulye te kuo","nam\tsekupane,\tma\tkulye\tte\tkuo","$1sg=$real\tstartle,\t$real\tbe.startled\t$disc\trun","I startled her/him, he/she got a fright and ran",,,,,SN001404,"mi fraetenem hem, i sek ale ron"
+XV000347,bpa,aua mwe sekur,aua\tmwe\tsekur,rope\t$real\tbe.torn,the rope has snapped,,,,,SN001405,rop i brok
+XV000348,bpa,"bwe kuo vyan, aua mwe sekyu lyen te mu mur","bwe\tkuo\tvyan,\taua\tmwe\tsekyu\tly-en\tte\tmu\tmur",$cont\trun\tgo\trope\t$real\tsurround\tleg.of-$3sg.poss\t$disc\t$real\tfall,"he ran, a liana entangled his leg, he fell",,,,,SN001406,"hem i ron i go, wan rop i raonem leg blong hem afta i foldaon"
+XV000349,bpa,sematye,sema-tye,residue.of-$3.poss,"the residue of it, what's left of it",,,,,SN001412 ; SN001842,makas blong hem
+XV000350,bpa,kasim semyosane sansi pele,kasi=m\tsemyos=ane\ts-ansi\tpele,$1pc.ex=$real\tbe.cheered=$trans\t$cl3-$1pc.ex\tgame,we were praised for our victory,,,,,SN001413,oli presem mifala from gem blong mifala
+XV000351,bpa,sene mesyu,sene\tmesyu,hook\tfish,catch a fish,,,,,SN001414,hukum fis
+XV000352,bpa,temeli man ente mwe sene temeli vyaven swa,temeli\tman\ten=te\tmwe\tsene\ttemeli\tvyaven\tswa,child\tmale\t$dem=$dem.prox\t$real\thook\tchild\tfemale\tone,this boy has illicitly taken a girl,,,,,SN001414,boe ia i stilim wan gel
+XV000353,bpa,sene em,sene\tem,hook\thouse,making thatch slabs to cover a roof,,,,,SN001414,wokem ol taj blong kaverem ap wan ruf
+XV000354,bpa,sene tako yan lewewo myane atótes,sene\ttako\tyan\tlewewo\tmyane\tatótes,hook\tbamboo\ton\tbamboo\twith\trattan,binding thatch slabs to bamboo poles using rattan strings,,,,,SN001414,hukum natanggura i go long bambu wetem loaken
+XV000355,bpa,beleem ma sengap,beleem\tma\tsengap,door\t$real\topen,the door is open,,,,,SN001416,doa i open
+XV000356,bpa,sengave beleem,sengave\tbeleem,open\tdoor,open the door,,,,,SN001417,openem doa
+XV000357,bpa,nam sengelis esi mesean pyan klinik,nam\tsengelis\tesi\tmese=an\tpyan\tklinik,$1sg=$real\tstick.out.head\tsee\tsick=$nom\tunder\tclinic,I went to see a patient at the clinic,,,,,SN001419,mi checkem wan sik man long klinik
+XV000358,bpa,beleem mwe senge,beleem\tmwe\tsenge,door\t$real\tbe.open,the door stands open,,,,,SN001420,doa i open
+XV000359,bpa,kop sepukuone mok vyos,ko=p\tsepukuone\tm-ok\tvyos,$2sg=$pot\tstraighten.out\t$cl1-$1sg.poss\tcoconut,peel my coconut,,,,,SN001425,bae yu skinim kokonas we hem i redi blong mi
+XV000360,bpa,sepukuone metas / pencil,sepukuone\tmetas\t/\tpencil,straighten.out\tspear\t/\tpencil,sharpen a spear / pencil,,,,,SN001425,sapenem spia / pensil
+XV000361,bpa,nge mwe sesa ka wa liye an mees,nge\tmwe\tsesa\tka\twa\tliye\tan\tmees,$3sg\t$real\treach.out\t$mod.rel\t$pot\tcarry\t$3sg.poss\tfood,he/she reached out to get his/her food,,,,,SN001426,hem pusum han blong karem kakae blong hem
+XV000362,bpa,yem sesa myane nyosi,ye=m\tsesa\tmyane\tnyosi,$3d=$real\treach.out\twith\t$3pc,they shake hands with each other,,,,,SN001427,oli sek han wetem olgeta
+XV000363,bpa,nam mur me pyan te bósi ne lik mwe setyup,nam\tmur\tme\tpyan\tte\tbósi\tne\tl-ik\tmwe\tsetyup,$1sg=$real\tfall\tcome\tunder\t$disc\tbone\t$trans\tleg.of-$1sg.poss\t$real\tbreak,I fell and broke my leg,,,,,SN001432,mi foldaon afta bun blong leg blong mi i brok
+XV000364,bpa,tyu bwe sikyene tan,tyu\tbwe\tsikyene\ttan,chicken\t$cont\tscratch\tearth,the chicken is scratching the ground,,,,,SN001444 ; SN001848,faol i stap skrasem doti/graon
+XV000365,bpa,nam ensiline mees,nam\ten-siline\tmees,$1sg=$real\teat-finish\tfood,I ate up all the food,,,,,SN001448,mi flatem kakae
+XV000366,bpa,kop silya sola ka we pirpir,ko=p\tsilya\tsola\tka\twe\tpirpir,$2sg=$pot\tprop.up\tsolar\t$mod.rel\t$pot\tslanted,prop up the solar panel so it will stand aslant,,,,,SN001453,bae yu blokem sola mekem se bae i stanap i no level
+XV000367,bpa,silye diprip,silye\tdiprip,pluck\tcreek.cabbage,pluck the [horizontal] leaves of a fern.,,,,,SN001454,karemaot ol lif blong kabij blong krik
+XV000368,bpa,simsimi bokosin vyaa,simsimi\tbokosin\tvyaa,simsimi\tbokosin\tvyaa,suck on the thumb,,,,,SN001460,susu long fingga blong han
+XV000369,bpa,ma sine ung baa,ma\tsine\tung\tbaa,$real\tput.into.hair\tflower.of\thibiscus,he put a hibiscus flower into his hair,,,,,SN000068 ; SN001461,em i putum wan flaoa blong haebiskus long hea blong hem
+XV000370,bpa,sini lewep,sini\tlewep,thorn.of\tpandanus.tree,thorns of the pandanus,,,,,SN001462,nidil blong stampa blong pandanas
+XV000371,bpa,vyanten ente san sinisye mu vu,vyanten\ten=te\ts-an\tsinisye\tmu\tvu,person\t$dem=$dem.med\t$cl3-$3sg.poss\tmanners\t$real\tgood,this man has good manners,,,,,SN001466,man ia fasen blong hem i gud
+XV000372,bpa,sipa na towo!,sipa\tna\ttowo!,thank.you\t$comp\tbig,thanks a lot!,,,,,SN001472 ; SN001795,bigfala tankyu!
+XV000373,bpa,nam sivi amuk,na=m\tsivi\tam-uk,$1sg=$real\tshave\tbeard.of-$1sg.poss,I have shaved,,,,,SN000023 ; SN001486,mi sevem biad blong mi
+XV000374,bpa,sivi weseevir,sivi\tweseevir,shave\tbroom,"remove the leafy parts from the rib of a coconut leaf, leaving only the rib",,,,,SN001486,klinim stik brum
+XV000375,bpa,yaapu ente ma sivya temeli nyoo ente,yaapu\ten=te\tma\tsivya\ttemeli\tnyoo\ten=te,big.man\t$dem=$dem.med\t$real\texpel\tchild\t$3pl\t$dem=$dem.prox,This man has chased away the children,,,,,SN001488,man ia i outem ol pikinini ia
+XV000376,bpa,kop sivya ó na mwe pyang wu du to,ko=p\tsivya\tó\tna\tmwe\tpyang\twu\tdu\tto,$2sg=$pot\texpel\tcoconut\t$comp\t$real\thot\t$pot\tstay\tlater,push away the hot copra (to make room for new coconut flesh),,,,,SN001488 ; SN001765,bae yu pusum copra we i hot i stap beaen
+XV000377,bpa,yaa mwe siyoo,yaa\tmwe\tsiyoo,sun\t$real\tset,the sun has set,,,,,SN001491,san i go daon
+XV000378,bpa,soluune vyanten,soluu=ne\tvyanten,steam=$trans\tperson,heat so. up for healing,,,,,SN001497,stimim wan man blong hilim
+XV000379,bpa,aa ma ate te mwe sóó,aa\tma\tate\tte\tmwe\tsóó,nettle\t$real\tbite\t$disc\t$real\titch,being hot and itchy after contact with a nettle,,,,,SN000006 ; SN001588,nanggalat i kakae i skras
+XV000380,bpa,aa mwe sóóte Dominique,aa\tmwe\tsóóte\tDominique,aa\t$real\tsóóte\tDominique,a nettle skratched Dominique,,,,,SN000006 ; SN001591,nangalat i skrasem Dominique
+XV000381,bpa,kop suane op,ko=p\tsuane\top,$2sg=$pot\tpush\tfirewood,shove the firewood (into the oven),,,,,SN001168 ; SN001513,yu pusum faea wud
+XV000382,bpa,suku kumala,suku\tkumala,stuff.of\tsweet.potato,scattered sweet potatoes,,,,,SN001516,plante kumala we i stap lae olbaot long graon
+XV000383,bpa,sune wilparo,sune\twilparo,push\twheelbarrow,push a wheelbarrow,,,,,SN001525,pusum wilbaro
+XV000384,bpa,kop sungane sot yen atuwo,ko=p\tsungane\tsot\tyen\tatuwo,$2sg=$pot\tput.into\tshirt\tin\tbasket,put one shirt into the bag,,,,,SN001526,bae yu filim ap set inside long basket
+XV000385,bpa,sutuoane bapan,sutuoane\tbap=an,join\tdance=$nom,join a dance,,,,,SN001531,joenem danis
+XV000386,bpa,dom syan,dom\tsyan,yam\tother,next year,,,,,SN001541,nekis yia
+XV000387,bpa,seli mwe vyan syaor,seli\tmwe\tvyan\tsyaor,road\t$real\tgo\tend,the road leads to a dead end,,,,,SN001543,rod i blok
+XV000388,bpa,bwetuk mwe syaor ane daa entak,bwet-uk\tmwe\tsyaor\tane\tdaa\tentak,head.of-$1sg.poss\t$real\tend\t$trans\tlanguage\tthis,I can't figure this language out,,,,,SN001543,mi no save andastanem lanwij ia
+XV000389,bpa,syepkote vyun,sye-p-kote\tvy-un,cut-$ep-$res.in.two\thair.of-$3sg.poss,cut his/her hair,,,,,SN001545 ; SN001550 ; SN001972,katem hea blong hem
+XV000390,bpa,to i sye tuswa,to\ti\tsye\ttuswa,$neg.real\t$cop\tthing\tone,"it doesn't matter, don't worry",,,,,SN001546,i no wan samting
+XV000391,bpa,temeli vyaven na mwi sye,temeli\tvyaven\tna\tmw=i\tsye,child\tfemail\t$comp\t$real=$cop\tthing,the small girl,,,,,SN001547 ; SN001694,smol gel
+XV000392,bpa,em ente mwi sye kyun,em\ten=te\tmw=i\tsye\tkyun,house\t$dem=$dem.prox\t$real=$cop\tthing\tjust,the house is only small,,,,,SN001547,haos ia i smol nomo
+XV000393,bpa,nam syekpyakilye ok bosi na mu mur yen buu ó,na=m\tsyek-pyakilye\tok\tbosi\tna\tmu\tmur\tyen\tbuu\tó,$1sg=$real\trummage-$res.search\t$1sg.poss\tchisel\t$comp\t$real\tfall\tin\theap.of\tcoconut,I am looking for my chisel which as fallen into a heap of coconuts,,,,,SN000224 ; SN001311 ; SN001549,mi lukaotem sukuru blong mi we i fuldaon long hip kokonas
+XV000394,bpa,tyu mwe syeksyek yen tan/ syekane tan,tyu\tmwe\tsyek-syek\tyen\ttan/\tsyek=ane\ttan,chicken\t$real\t$redup-rummage\tin\tearth/\trummage=$trans\tearth,a chicken is scratching the ground,,,,,SN001549 ; SN001848,faol i stap skrasem graon
+XV000395,bpa,kuli bwe syekpyakilye tomo yen san buluwu,kuli\tbwe\tsyek-pyakilye\ttomo\tyen\ts-an\tbuluwu,dog\t$cont\trummage-$res.search\trat\tin\t$cl3-$3sg.poss\thole,a dog is digging after a rat in its hole,,,,,SN000185 ; SN001311 ; SN001549,dog i stap lukaotem rat long hol blong hem
+XV000396,bpa,eng mwe syoo,eng\tmwe\tsyoo,wind\t$real\tgo.through,the wind is blowing,,,,,SN001567,win i kam
+XV000397,bpa,syooane op vyan yen paep,syoo=ane\top\tvyan\tyen\tpaep,go.through=$trans\tfirewood\tgo\tin\tpipe,push firewood into the opening of a copra oven,,,,,SN001168 ; SN001568,pusum faeawud i go long dram (blong bed blong kopra)
+XV000398,bpa,vyanten entak mwe mene vilye syoten swa,vyanten\ten=tak\tmwe\tme=ne\tvilye\tsyoten\tswa,person\t$dem=$dem.prox\t$real\tcome=$trans\tplace\tfar.away\tone,this man comes from far away,,,,,SN001572,man ia i kam long wan ples we i longwe
+XV000399,bpa,plen mwe syu,plen\tmwe\tsyu,plane\t$real\tland,the plane has landed,,,,,SN001250 ; SN001573,plen i lan
+XV000400,bpa,syuk si?,syuk\tsi?,uncle.of\twho,whose uncle?,,,,,SN001574,angkel blong hu?
+XV000401,bpa,vyan ma syute silee,vy-an\tma\tsyute\tsilee,hand.of-$3sg.poss\t$real\thit\ttable,his hand hit the table,,,,,SN001445 ; SN001577,han blong hem i bangem tebol
+XV000402,bpa,sorousian ente mwe usili bwilya ten tomo,sorousian\ten=te\tmwe\tusili\tbwilya\tt-en\ttomo,story\t$dem=$dem.prox\t$real\tfollow\trail\tand-$3sg.poss\trat,this story is about the rail and the rat,,,,,SN001593,storian ia i folem nambilak wetem rat
+XV000403,bpa,tom si?,t-om\tsi?,and-$2sg.poss\twho,you and who else?,,,,,SN001155 ; SN001593,yu wetem hu?
+XV000404,bpa,takokuone barvinye,takokuone\tbarvinye,clean\tgrass,maw a lawn,,,,,SN001617,klinim gud gras
+XV000405,bpa,takote lee nyoo,ta-kote\tlee\tnyoo,cut-$in.two\twood\t$3pl,fell trees,,,,,SN001596 ; SN001618,katem ol tri i foldaon
+XV000406,bpa,ko mwi ta arve?,ko\tmw=i\tta\tarve?,$2sg\t$real=$cop\tfrom\twhere,where are you from?,,,,,SN001597,yu long wea?
+XV000407,bpa,ta Taya,ta\tTaya,from\tTaya,the people of Pentecost,,,,,SN001597,ol man Pentikos
+XV000408,bpa,pastae,pas-tae,thrust-$res.pierce,,,,,,SN001608,stikim brokem
+XV000409,bpa,kyertae,kyer-tae,bite-$res.pierce,bite a hole into sth.,,,,,SN001608,kakae i brok
+XV000410,bpa,kop takeene eguokuo yan aua,ko=p\ttakeene\teguokuo\tyan\taua,$2sg=$pot\thang\ttowel\tin\trope,hang the towel on the line,,,,,SN001615,hangem taoel long rop
+XV000411,bpa,wii ane tako,wii\tane\ttako,palm.leaf.rib\t$trans\tsago,rib of the leaf of the sago palm,,,,,SN001616,bun blong leaf blong natangura
+XV000412,bpa,temeli ente yuon mwe tap ma maga,temeli\ten=te\tyu-on\tmwe\ttap\tma\tmaga,child\t$dem=$dem.prox\tfeeling.of-$3sg.poss\t$real\tget.conscious\t$real\tfast,the mental abilities of this child have developed rapidly,,,,,SN001643,"pikini ya, tingting blong hem i kam gut hariap."
+XV000413,bpa,vyanten ente yuon to tap,vyanten\ten=te\tyu-on\tto\ttap,person\t$dem=$dem.med\tfeeling.of-$3sg.poss\t$neg.real\tget.conscious,this man is not fully conscious yet.,,,,,SN001643,"man ya, tingting blong hem i no kam klia yet"
+XV000414,bpa,wye mwe tap,wye\tmwe\ttap,water\t$real\tused.up,"the water is used up, none is left",,,,,SN001644,wota i finis
+XV000415,bpa,yam tasane apyang ane abwilyep,ya=m\ttas=ane\tapyang\tane\tabwilyep,$3pl=$real\tsit=$trans\tfire\t$trans\tblack.magic,they are holding a rite of black magic,,,,,SN001646 ; SN001648,oli mekem wan faea blong poison
+XV000416,bpa,Anja mwe vyan taur,Anja\tmwe\tvyan\ttaur,Anja\t$real\tgo\tsome.place,Anja went somewhere and I don't know where she is.,,,,,SN001654,Anja i go sam ples.
+XV000417,bpa,nam pwer vyan te tavya,nam\tpwer\tvyan\tte\ttavya,$1sg=$real\tstay\tgo\t$disc\tget.up,I slept and then got up,,,,,SN001657,"mi silip gogo, afta mi girap"
+XV000418,bpa,ma tavyane sigaret yan gelinyam,ma\ttavyane\tsigaret\tyan\tgeliny-am,$real\tfix.to.head\tsigaret\ton\tear.of-$2sg.poss,he put a cigaret behind his ear,,,,,SN001439 ; SN001658,em i putum wan sigaret long ia blong hem
+XV000419,bpa,tawilisye,tawili-sye,body.of-$3.poss,it's body,,,,,SN001664,bodi blong hem
+XV000420,bpa,tawili levyó,tawili\tlevyó,tawili\ttree.fern,body of a tree fern,,,,,SN001664,bodi blong blak palm
+XV000421,bpa,te vis,te\tvis,cut\tbanana,cut a bundle of banana from a tree,,,,,SN001671,katem banana
+XV000422,bpa,wye to tea we,wye\tto\ttea\twe,water\t$neg.real\tboil\tyet,the water hasn't boiled yet,,,,,SN001675,wota i no boil yet
+XV000423,bpa,ka yap tebwesye yen bili sewe?,ka\tya=p\ttebwesye\tyen\tbili\tsewe?,$mod.fel\t$3pl=$pot\tstart\tin\ttime.of\twhat,when are they going to start?,,,,,SN001433 ; SN001678,oli stat wen?
+XV000424,bpa,ka yap tebweti gyesan bili sewe?,ka\tya=p\ttebweti\tgyes=an\tbili\tsewe?,$mod.rel\t$3pl=$pot\tstart\twork=$nom\ttime.of\twhat,when are they going to start working?,,,,,SN001679,oli statem wok wanem taem?
+XV000425,bpa,un bik mwe tekyer,un\tb-ik\tmwe\ttekyer,skin.of\tbody.of-$1sg.poss\t$real\trough,my skin is rough / scaly,,,,,SN001685 ; SN001893,skin blong mi i brok
+XV000426,bpa,teli buo,teli\tbuo,rope.of\tpig,rope holding a pig,,,,,SN001688,rop blong pig
+XV000427,bpa,ko wi ten ta lee an,ko\tw=i\tten\tta\tlee\tan,$2sg\t$pot=$cop\tassigned.to\tcut\twood\t$nom,you are to cut wood,,,,,SN001596 ; SN001701,yu blong katem wud
+XV000428,bpa,ós mwe tesi,ós\tmwe\ttesi,rain\t$real\tfall.down,rain is falling,,,,,SN001716 ; SN002226,ren i foldaon
+XV000429,bpa,teveni etep,teveni\tetep,bury\tpost,,,,,,SN001723,berem post
+XV000430,bpa,yam teveni vyanten na mwe mer,ya=m\tteveni\tvyanten\tna\tmwe\tmer,$3pl=$real\tbury\tperson\t$comp\t$real\tdie,they bury the dead man,,,,,SN001723,oli berem man we i ded
+XV000431,bpa,yam téé vyan etes te esi na tes mwe myas,ya=m\ttéé\tvyan\tetes\tte\tesi\tna\ttes\tmwe\tmyas,$3pl=$real\tlook\tgo\tat.the.sea\t$disc\tsee\t$comp\tsea\t$real\tdry,they looked to the sea and saw that the tide was low,,,,,SN001862,olgeta i lukluk long solwota afta luk se solwota i drae
+XV000432,bpa,barar téér,barar\ttéér,pig\tpair,a male and a female pig,,,,,SN000086,wan man pig wetem wan woman pig
+XV000433,bpa,wetii mwe tii,wetii\tmwe\ttii,rain.drops\t$real\tneedle,rain drops are falling,,,,,SN001735,ol drop blong ren i fuldaon
+XV000434,bpa,onet mwe tii kyenkyen,onet\tmwe\ttii\tkyenkyen,hornet\t$real\tsting\tsore,a hornet has stung painfully,,,,,SN001735,honet i stikim i soa
+XV000435,bpa,tokta mwe tii nge,tokta\tmwe\ttii\tnge,doctor\t$real\tsting\t$3sg,the doctor gives him an injection,,,,,SN001735 ; SN001771,dokta i stikim hem
+XV000436,bpa,tii tako,tii\ttako,sting\tsago,"stick the ""bone"" of a sago palm leaf through the leaf to fix it to a long piece of bamboo",,,,,SN001735,stikim tako
+XV000437,bpa,etep mwe tii tilya ewewe,etep\tmwe\ttii\ttilya\tewewe,post\t$real\tsting\tbe.together\troof.beams,the post supports the frame of the roof,,,,,SN001740,pos i sapotem frem blong ruf
+XV000438,bpa,yem dimyane ka yep tiltilya,ye=m\tdimyane\tka\tye=p\ttil-tilya,$3d=$real\twant\t$comp\t$3d=$pot\t$redup-take,the two wanted to be together,,,,,SN001739,tufala i wantem se tufala i stap tugeta
+XV000439,bpa,yam titilye ye wep,ya=m\tti-tilye\tye\twep,$3pl=$real\t$redup-tear\tleaf.of\tpandanus,they tear a pandanas leaf into narrow stripes.,,,,,SN001741,oli terem lif pandanas
+XV000440,bpa,timye Kailong,timye\tKailong,father.of\tKailong,Kailong's father,,,,,SN001745,dadi blong Kailong
+XV000441,bpa,timyan barar ente,timy-an\tbarar\ten=te,father.of-$3sg.poss\tpig\t$dem=$dem.prox,the father of this pig,,,,,SN001744,dadi blong pig ya
+XV000442,bpa,tinyen lee,tiny-en\tlee,inside.of-$3sg.poss\ttree,the inner side of a stem cut open,,,,,SN001746 ; SN001748,insaed blong wan tri
+XV000443,bpa,kotitye barar,ko-titye\tbarar,hunt-$res.good\tpig,hunt a pig down without killing it,,,,,SN001758,ronem wan pig be no kilim
+XV000444,bpa,kop lingtitye pelet,ko=p\tling-titye\tpelet,$2sg=$pot\tput-$res.good\tplate,put the plate down carefully,,,,,SN001758,putum gud pelet
+XV000445,bpa,ma tiwiye pwesye lewovya,ma\ttiwiye\tpwesye\tlewovya,$real\tbreak\tbranch.of\tironwood.tree,he broke an ironwood twig,,,,,SN001760,hem i brekem wan smol branis blong burao
+XV000446,bpa,vyanten tolir swa,vyanten\ttolir\tswa,person\tstrange\tone,a stranger,,,,,SN001772,wan strenja
+XV000447,bpa,or mwe tomar,or\tmwe\ttomar,place\t$real\tstill,"it's quiet, no wind is blowing",,,,,SN001773,ples i kwaet
+XV000448,bpa,eng mwe tomar,eng\tmwe\ttomar,eng\t$real\tstill,no wind is blowing,,,,,SN001773,win i no blo
+XV000449,bpa,nam toowe mees ne yevis,nam\ttoowe\tmees\tne\tyevis,$1sg=$real\tcover\tfood\t$trans\tbanana.leaf,I covered the food with banana leafs,,,,,SN001779,mi kaverem ap kakae long lif banana
+XV000450,bpa,toowe temeli ente ne kaleko,toowe\ttemeli\ten=te\tne\tkaleko,cover\tchild\t$dem=$dem.prox\t$trans\tcloth,cover this child with a blanket,,,,,SN001779,kaverem ap piknini ia long kaleko
+XV000451,bpa,kop towane sam dep,ko=p\ttowane\ts-am\tdep,$2sg=$pot\tthrow\t$cl3-$2sg.poss\tsnot,blow your nose,,,,,SN001791,yu bae bloem aot wota blong nus
+XV000452,bpa,towane lewewo,towane\tlewewo,throw\tbamboo,spreading bamboo on the ground before weaving it into walls,,,,,SN001791,sakem bambu i go long graon blong wivim
+XV000453,bpa,towane vyor,towane\tvyor,throw\tstone,throw a stone,,,,,SN001791,sakem wan ston
+XV000454,bpa,towane vyaa,towane\tvyaa,throw\thand,motioning so. to come,,,,,SN001791,sakem han (blong talem wan man se bae i kam)
+XV000455,bpa,vyanten ente mwe towilya pol mu vu,vyanten\ten=te\tmwe\ttowilya\tpol\tmu\tvu,person\t$dem=$dem.med\t$real\tkick\tball\t$real\tgood,this man kicks the ball well,,,,,SN001794,man ia i kikim pol i gud
+XV000456,bpa,tóóve em,tóóve\tem,cover\thouse,cover a house,,,,,SN001874,
+XV000457,bpa,kop tóóve mees ne pelet,ko=p\ttóóve\tmees\tne\tpelet,$2sg=$pot\tcover\tfood\t$trans\tplate,you should cover the food with a plate,,,,,SN001874,bae yu kaverem ap kakae wetem wan plet
+XV000458,bpa,myaop mwe tóp,myaop\tmwe\ttóp,volcano\t$real\terupt,the volcano erupted,,,,,SN001860,volkeno i faerem ap
+XV000459,bpa,vyok mwe tóp,vy-ok\tmwe\ttóp,hand.of-$1sg.poss\t$real\terupt,my hand is inflamed,,,,,SN001860 ; SN001973,han blong mi i faerem ap
+XV000460,bpa,ma tópkate em,ma\ttópkate\tem,$real\tshield\thouse,he covered the house (with a roof),,,,,SN001861,em i blokem haos (lo wan ruf)
+XV000461,bpa,kop tópkate buk,ko=p\ttópkate\tbuk,$2sg=$pot\tshield\tboook,put sth. onto the book (to weigh the pages down),,,,,SN001861,bae yu putum wan hevi samting an tap lo buk (mekem se ol pepa i no save muv)
+XV000462,bpa,tukate ver,tukate\tver,nail.down\twall,nailing sheets of woven bamboo to the wooden frame of a hut to serve as walls,,,,,SN001813,nilim wol
+XV000463,bpa,tukate lewewo,tukate\tlewewo,nail.down\tbamboo,nailing bamboo poles (to a house),,,,,SN001813,nilim ol bambu
+XV000464,bpa,tulup ane em,tulup\tane\tem,ridge\t$trans\thouse,ridge (of a house),,,,,SN001816,
+XV000465,bpa,Jisas ma sengane tumuoan myane timyan,Jisas\tma\tsengane\ttumuo=an\tmyane\ttimy-an,Jesus\t$real\tgive\tsacrifice=$nom\twith\tfather.of-$3sg.poss,Jesus made a sacrifice to his father,,,,,SN001818,Jisas i mekem sakrifaes i givim long tati blong hem
+XV000466,bpa,yaa mwe tung,yaa\tmwe\ttung,sun\t$real\tshine,the sun is shining,,,,,SN001819,san i saen
+XV000467,bpa,tungane apyang,tungane\tapyang,lay.fire.to\tfire,lay a fire,,,,,SN001825,laetem faea
+XV000468,bpa,tung lee,tung\tlee,hole.of\ttree,hole in a tree,,,,,SN001823,hol long wan tri
+XV000469,bpa,tung vyor,tung\tvyor,hole.of\tstone,a seawater basin made of stones,,,,,SN001823,hol long sam ston (solwota i stap long hem)
+XV000470,bpa,barar ma tutur pwer,barar\tma\ttutur\tpwer,big\t$real\tfastened\tstay,the pig is fastened (to a tree),,,,,SN001831,pig i fas i stap
+XV000471,bpa,kop tuwa vyor ente,ko=p\ttuwa\tvyor\ten=te,$2sg=$pot\tbreak\tstone\t$dem=$dem.prox,break this stone,,,,,SN001834,brekem ston ia
+XV000472,bpa,tuwa ó,tuwa\tó,break\tcoconut,break a coconut in half,,,,,SN001834,brekem kokonas long tu pis
+XV000473,bpa,tuwa lewewo,tuwa\tlewewo,break\tbamboo,break bamboo,,,,,SN001834,brekem bambu
+XV000474,bpa,buonip bwe tyoo yaa,buonip\tbwe\ttyoo\tyaa,brown.lizard\t$cont\tbask.in\tsun,the brown lizard is basking in the sun,,,,,SN001846,braon lised i stap hot long san
+XV000475,bpa,yam du tyoo apyang,ya=m\tdu\ttyoo\tapyang,$3pl=$real\tstay\tbask.in\tfire,they are warming themselves by the fire,,,,,SN001846,oli stap hot long faea
+XV000476,bpa,u tamat,u\ttamat,vine.of\ttomato,tomato vine,,,,,SN001624 ; SN001875,rop blong tomato
+XV000477,bpa,ulisye,uli-sye,skin.of-$3sg.poss,it's skin,,,,,SN001881,skin blong hem
+XV000478,bpa,uli vis,uli\tvis,skin.of\tbanana,banana peel,,,,,SN001881,skin blong banana
+XV000479,bpa,uli nye,uli\tnye,skin.of\t$1sg,my skin,,,,,SN001881,skin blong mi
+XV000480,bpa,uni san maa,uni\ts-an\tmaa,nest\t$cl3-$al.p\tdove,nest of an emerald dove,,,,,SN001905,haos blong sotleg
+XV000481,bpa,ung baa,ung\tbaa,flower.of\thibiscus,hibiscus flower,,,,,SN001908,flaoa blong haebiskis
+XV000482,bpa,ung betivyo,ung\tbetivyo,flower.of\tisland.cabbage,flower of island cabbage,,,,,SN001899,flaoa blong aelan kabis
+XV000483,bpa,ur ane kuli,ur\tane\tkuli,louse\t$trans\tdog,dog louse,,,,,SN001909,laus blong dog
+XV000484,bpa,ma usi Wuro,ma\tusi\tWuro,$real\tstudy\tWuro,he studies at Wuro,,,,,SN001915,hem i skul long Wuro
+XV000485,bpa,uti wetye,uti\twetye,seed.of\tits.fruit,seeds of it's fruit,,,,,SN001918,ol sid blong frut blong hem
+XV000486,bpa,uti tamat,uti\ttamat,seed.of\ttomato,tomato seeds,,,,,SN001624 ; SN001918,ol sid blong tamat
+XV000487,bpa,utisye,uti-sye,seed.of-$3poss,its seeds,,,,,SN001918,ol sid blong hem
+XV000488,bpa,vevyos ane nye,vevyos\tane\tnye,hear\t$trans\t$1sg,my heart,,,,,SN001939,hat blong mi
+XV000489,bpa,yem vyan visyaa bwili wye,ye=m\tvyan\tvisyaa\tbwili\twye,$3d=$real\tgo\tside.of\thole.of\twater,they went to a pond,,,,,SN001960,oli go long saed blong wan pul blong wota
+XV000490,bpa,yam me visyaa teenem,ya=m\tme\tvisyaa\tteenem,$3pl=$real\tcome\tside.of\tvillage,they came to the village,,,,,SN001961,oli kam long saed blong vilij
+XV000491,bpa,mu vu ten,mu\tvu\tten,$real\tgood\tvery,it's very good,,,,,SN001967,i gud tumas
+XV000492,bpa,vya sii,vya\tsii,times\tthree,three times,,,,,SN001440 ; SN001974,tri taem
+XV000493,bpa,ko mwi vyaakyen,ko\tmw=i\tvyaakyen,$2sg\t$real=$cop\tlazy,you are lazy,,,,,SN001977,yu les
+XV000494,bpa,mwe vyae uli san myanok,mwe\tvyae\tuli\ts-an\tmyanok,$real\ttear\tskin.of\t$cl3-s.poss\twound,He tore off the loose skin from around the wound,,,,,SN001979,hem i karemaot skin blong soa blong hem
+XV000495,bpa,vyase tee,vyase\ttee,handle.of\taxe,axe handle,,,,,SN001681 ; SN001979 ; SN001991,handel blong akis
+XV000496,bpa,vyate ding,vyate\tding,weave\tmat,weave a mat,,,,,SN001992,wifim mat
+XV000497,bpa,sok vyaven,s-ok\tvyaven,$cl3-$1sg.poss\twoman,my wife,,,,,SN001993,waef blong mi
+XV000498,bpa,kop vyose op,ko=p\tvyose\top,$2sg=$pot\tcarry\tfirewood,bring some firewood,,,,,SN002002,bae yu karem faewud
+XV000499,bpa,vyote yuk,vyote\tyuk,take.out\tlaplap.dish,take a slice of laplap out from the leaves that cover it up,,,,,SN002003,karemaot laplap
+XV000500,bpa,war tevyan tan,war\ttevyan\ttan,argue\tabout\tearth,argue about property,,,,,SN002019,rao from graon
+XV000501,bpa,san gini mu vu te ram warsyosi,s-an\tgini\tmu\tvu\tte\tra=m\twarsyosi,$cl3-s.poss\tway\t$real\tgood\t$disc\t$1pl.in=$real\trevere,his behavior is good so we revere him,,,,,SN001329 ; SN002020,"fasen blong hem i gud, yumi sapotem"
+XV000502,bpa,vyaven waswas swa sa ngetak,vyaven\twaswas\tswa\tsa\tngetak,woman\tskinny\tone\t$top\t$3sg=$dem.prox,this is a skinny woman,,,,,SN002022,hem ia wan woman we i bunbun
+XV000503,bpa,we tamat,we\ttamat,fruit.of\ttomato,tomato (the fruit),,,,,SN001624 ; SN002026,frut blong tomato
+XV000504,bpa,we vis,we\tvis,fruit.of\tbanana,banana (the fruit),,,,,SN002026,frut blong banana
+XV000505,bpa,ram du yen webung vyor,ra=m\tdu\tyen\twebung\tvyor,$1pl=$real\tstay\tin\tday\tstone,we are in the dark,,,,,SN002032,yumi stap long dak ples
+XV000506,bpa,welili ne ngok,welili\tne\tngok,chest\t$trans\t$2sg,your chest,,,,,SN002042,chest blong yu
+XV000507,bpa,vyanten entak mwe welwel ane sye ente,vyanten\ten=tak\tmwe\twelwel\tane\tsye\ten=te,person\t$dem=$dem.prox\t$real\trefuse\t$trans\tthing\t$dem=$dem.med,this man has said no to this,,,,,SN002043,man ya i no wantem samting ya
+XV000508,bpa,wesa luu wedrame,wesa\tluu\twedrame,pound\troots.of\tkava,pound kava roots,,,,,SN002051,ramem ol rus blong kava
+XV000509,bpa,nam wese na ka nap me doma,nam\twese\tna\tka\tna=p\tme\tdoma,$1sg=$real\tenough\t$comp\t$mod.rel\t$1sg=$pot\tcome\ttoday,I can come today,,,,,SN002055,mi save kam tede
+XV000510,bpa,wye wisewe wu puo,wye\twisewe\twu\tpuo,water\tprobably\t$pot\tbe.plentiful,there is probably a lot of water,,,,,SN002079,wota ating i fulap
+XV000511,bpa,"Nyoo na yam du gomu bor ente saka tuswa ne lye , wisewe bor ente to kuowilye ka nu kuu","Nyoo\tna\tya=m\tdu\tgomu\tbor\tente\tsaka\ttuswa\tne\tlye,\twisewe\tbor\ten=te\tto\tkuowilye\tka\tnu\tkuu",$3pl\t$comp\t$3pl=$real\tstay\tgrab\tclub\t$dem=$dem.med\t$mod.rel.neg\tone\t$neg.pot\topen.eye\tprobably\tclub\t$dem=$dem.prox\t$neg.real\tknow\t$comp\t$neg.pot\tmove,"Of those who are holding the club, not one may open their eyes, otherwise this club cannot move",,,,,SN002080,"Olgeta we oli holem wud ia, wan i no save openem ae, sipos no be wud ia i no save muv"
+XV000512,bpa,trak wowo,trak\twowo,truck\tbig,big trucks,,,,,SN002086,bigfala trak
+XV000513,bpa,wuveni apyang,wu-veni\tapyang,blow-kill\tfire,blow out a fire,,,,,SN001927 ; SN002088,bloem faea i ded
+XV000514,bpa,wulyakate atótes,wulyakate\tatótes,cut\trattan,cut ropes from rattan,,,,,SN000059 ; SN002092,katem loa ken blong i kam wan rop
+XV000515,bpa,wulyakate vis,wulyakate\tvis,cut\tbanana,peel a banana,,,,,SN002092,pilim banana
+XV000516,bpa,wuo buk,wuo\tbuk,open\tbook,open a buk,,,,,SN002095,openem buk
+XV000517,bpa,wuo mees,wuo\tmees,open\tfood,unfold the leaves that cover food,,,,,SN002095,openem kakae
+XV000518,bpa,wuo ó,wuo\tó,heap.of\tcoconut,,,,,,SN002096,hip blong kokonas
+XV000519,bpa,wuo vyanten,wuo\tvyanten,heap.of\tperson,a lot of people,,,,,SN002096,fulap man
+XV000520,bpa,nye nam wuor ane sok metoo,nye\tnam\twuor\tane\tsok\tmetoo,$1sg\t$1sg=$real\ttaboo\t$trans\t$cl3-$1sg.poss\tkin.relation,I am taboo to my uncle/nephew,,,,,SN002100,mimi tabu long angel blong mi
+XV000521,bpa,tuutu wuor,tuutu\twuor,kin.relation\ttaboo,a taboo relative,,,,,SN002100,abu we i tabu
+XV000522,bpa,sóró wuowuop,sóró\twuowuop,talk\tsleepwalk,talk while sleeping,,,,,SN002104,toktok mo silip sem taem
+XV000523,bpa,wusi mees,wusi\tmees,sprinkle.with.cream\tfood,spread coconut cream on food,,,,,SN002108,melekem kakae
+XV000524,bpa,okoan na mwi syoten mwi ya pwengpwenges,oko=an\tna\tmw=i\tsyoten\tmw=i\tya\tpweng-pwenges,walk=$nom\t$comp\t$real=$cop\tfar.away\t$real=$cop\tleg\t$redup-sore,a long walk makes the legs hurt,,,,,SN002114,wokbaot we em i longwe hem i blong leg i soa
+XV000525,bpa,sikya mesean ne ya bóó,sikya\tmese=an\tne\tya\tbóó,touch\tsick=$nom\t$trans\taffected.by\telephantiasis,get elephantiasis,,,,,SN001441 ; SN002119,kasem sik blong bigleg
+XV000526,bpa,sivi bwe ya,sivi\tbwe\tya,lorikeet\t$cont\ttwitter,the lorikeet is twittering,,,,,SN001485 ; SN002116,nasivuru i stap singaot
+XV000527,bpa,nam esi buk mwe yaa kyun,nam\tesi\tbuk\tmwe\tyaa\tkyun,$1sg=$real\tsee\tbook\t$real\tbe.half\tjust,I only read part of the book,,,,,SN002122,mi ridim haf blong buk nomo
+XV000528,bpa,yaa mwe en mwe yas ten,yaa\tmwe\ten\tmwe\tyas\tten,sun\t$real\teat\t$real\tstrong\tvery,the sun is shining strongly,,,,,SN002124,san i saen i strong tumas
+XV000529,bpa,yaa mwe mer,yaa\tmwe\tmer,sun\t$real\tdie,the sun is covered by clouds,,,,,SN002124,klaod i kaverem ap san
+XV000530,bpa,yaa swa,yaa\tswa,sun\tone,"once, one day",,,,,SN002125,"wan taem, wan de"
+XV000531,bpa,am yaa mwi sewe?,am\tyaa\tmw=i\tsewe?,$2sg.poss\tsun\t$real=$cop\twhat,what's the time?,,,,,SN002125,wanem taem blong yu?
+XV000532,bpa,sok yaa mwe myor ane ka nap min kava,s-ok\tyaa\tmwe\tmyor\tane\tka\tna=p\tmin\tkava,$cl3-$1sg.poss\tsun\t$real\tright\t$trans\t$comp\t$1sg=$real\tdrink\tkava,lit: my time is right for me to drink kava,,,,,SN002125,hem ya raet taem blong mi blong dring kava
+XV000533,bpa,lik mwe yaa,l-ik\tmwe\tyaa,leg.of-$1sg.poss\t$real\thurt,my leg hurts,,,,,SN002126,leg blong mi i soa
+XV000534,bpa,nge mwe yaase nge,nge\tmwe\tyaase\tnge,$3sg\t$real\tturn\t$3sg,he/she turns round,,,,,SN002129,hem i tonem raon
+XV000535,bpa,ekukuo mwe yaase Baiap,ekukuo\tmwe\tyaase\tBaiap,truck\t$real\tturn\tBaiap,the truck turns round to Baiap,,,,,SN002129,trak i tonem long Baiap
+XV000536,bpa,kom yaase wye myane suka,ko=m\tyaase\twye\tmyane\tsuka,$2sg=$real\tmix\twater\twith\tsugar,you mixed the water with some sugar,,,,,SN002130,yu mixim wota wetem suka
+XV000537,bpa,yas kuli,yas\tkuli,mother.of\tdog,mother of a dog,,,,,SN002146,mama blong dog
+XV000538,bpa,eng mwe yas ten,eng\tmwe\tyas\tten,wind\t$real\tstrong\tvery,the wind is very strong,,,,,SN002147,win i strong tumas
+XV000539,bpa,Kom yas kyun?,Ko=m\tyas\tkyun?,$2sg=$real\tstrong\tjust,How are you?,,,,,SN002148,Yu oraet?
+XV000540,bpa,meuan mwe yas,meu=an\tmwe\tyas,live=$nom\t$real\tstrong,life is hard,,,,,SN002148,laef i had
+XV000541,bpa,kop lingi sok is ye temeli ente,ko=p\tlingi\ts-ok\tis\tye\ttemeli\ten=te,$2sg=$pot\tput\t$cl3-$1sg.poss\tname\tto\tchild\t$dem=$dem.prox,give my name to this child,,,,,SN002156,bae yu putum nem blong mi long pikinini ia
+XV000542,bpa,ye lóó,ye\tlóó,line.of\tcoconut.palms,"a row of coconuts, a small coconut plantation",,,,,SN002158,line kokonat
+XV000543,bpa,yeli lóó,yeli\tlóó,inside.of\tcoconut.palm,the inside of a coconut palm,,,,,SN002168,insaed blong wan stampa blong kokonas
+XV000544,bpa,yen pelet,yen\tpelet,in\tplate,on the plate,,,,,SN002170,long plet
+XV000545,bpa,yen tes,yen\ttes,in\tsea,on the sea,,,,,SN002170,long solwota
+XV000546,bpa,yes ane apyang,yes\tane\tapyang,smoke\t$trans\tfire,smoke of a fire,,,,,SN002172,smok blong faea
+XV000547,bpa,yesukuo mwe pwis,yesukuo\tmwe\tpwis,leaves\t$real\tbe.plentiful,there are many leaves,,,,,SN002177,fulap lif
+XV000548,bpa,kop sengane yewilyar swa,ko=p\tsengane\tyewilyar\tswa,$2sg=$pot\tgive\tbanknote\tone,(please) give me 200 Vatu,,,,,SN002184,bae yu givim 200 Vatu long me
+XV000549,bpa,yuon mwe kyeskyes ane temeli vyaven ente,yu-on\tmwe\tkyes-kyes\tane\ttemeli\tvyaven\ten=te,feeling.of-$3sg.poss\t$real\t$redup-sweet\t$trans\tchild\tfemale\t$dem=$dem.prox,"he has tender feelings for this girl, he is in love with this girl (lit. `his feeling is sweet towards this girl')",,,,,SN001694 ; SN002194,hem i laekem gel ia
+XV000550,bpa,yuon mwe pyane ngok,yu-on\tmwe\tpyane\tngok,feeling.of-$3sg.poss\t$real\troast\t$2sg,he/she is mad at you,,,,,SN001160 ; SN002194,hem i kros long yu
+XV000551,bpa,nam yurmiline sam is,na=m\tyurmiline\ts-am\tis,$1sg=$real\tforget\t$cl3-$2sg.poss\tname,I forgot your name,,,,,SN002208,mi fogetem nem blong yu
+XV000552,bpa,vyanten ente ma mokote man em,vyanten\tente\tma\tmokote\tm-an\tem,person\tthis\t$real\treally\t$cl3-$3sg.poss\thouse,this man made his house really well.,,,,,SN000978,man ia i mekem gud haos blong hem
+XV000553,bpa,bwilin pam,bwilin\tp-am,cavity.of\tmouth.of-$2sg.poss,your mouth,,,,,SN000270,maot blong yu
+XV000554,bpa,Wuo vyanten nyoo yam tas du or mo bor,Wuo\tvyanten\tnyoo\tya\t-m\ttas\tdu\tor\tmo\tbor,heap\tman\t$3pl\t$3pl\t-$real\tsit\tstay\tplace\t$real\tquiet,Many people were sitting there in silence,,,,,SN001127,
+XV000555,bpa,kip tas tene nye atak ka na vyan liye ok bosi we wet kuoli me te ar ra wet vyan,ki\t-p\ttas\ttene\tnye\ta\t-tak\tka\tna\tvyan\tliye\tok\tbosi\twe\twet\tkuoli\tme\tte\tar\tra\twet\tvyan,$2pl\t-$pot\tsit\twait\t$1sg\t$loc.dem\t-$dem.prox\t$mod\t$1sg\tgo\ttake\t$1sg.poss\tcopra.chisel\tfirst\tonly.then\treturn\tcome\t$disc\t$1pl.in\t$3pl.in\tonly.then\tgo,"you wait for me here and I go get my chisel first, and then I will come back and we will go.",,,,,SN000800,
+XV000556,bpa,mwe liye an bosi,mwe\tliye\tan\tbosi,$real\ttake\t$3sg.poss\tcopra.chisel,He took his copra chisel.,,,,,SN001003,
+XV000557,bpa,mwe ongane yuon mwe yaa tevyan na mwe is usili nyoo te ya to tas tene,mwe\tongane\tyu\t-on\tmwe\tyaa\ttevy\t-an\tna\tmwe\tis\tusili\tnyoo\tte\tya\tto\ttas\ttene,$real\thear\tfeeling\t-$3sg.poss\t$real\thurt\tside.of\t-$3sg.poss\t$comp\t$real\tcall\tfollow\t$3pl\t$disc\t$3pl\t$neg.real\tsit\twaut,He felt angry because he had called after them but they had not waited.,,,,,SN000553,
+XV000558,bpa,te ka ka: nam ka kip tas tene nye te ki to tas,te\tka\tka:\tna\t-m\tka\tki\t-p\ttas\ttene\tnye\tte\tki\tto\ttas,$disc\tsay\tsay\t$1sg\t-$real\tsay\t$2pl\t-$pot\tsit\twait\t$1sg\t$disc\t$2pl\t$neg.real\tsit,"He said: I told you to wait, but you didn't wait.",,,,,SN001122,
+XV000559,bpa,"bili na yam du pweli map, te vyanten swa mwe nii pwer yen booli lee,","bili\tna\tya\t-m\tdu\tpweli\tmap,\tte\tvyanten\tswa\tmwe\tnii\tpwer\tyen\tbooli\tlee",time\t$comp\t$3pl\t-$real\tstay\tbake\tT.chestnut\t$disc\tman\tone\t$real\thide\tstay\tin\thole\ttree,"When they were baking chestnuts, someone was hiding in the hole of a tree,",,,,,SN000123,
+XV000560,bpa,nge mwe pwer yen booli lee ente te,nge\tmwe\tpwer\tyen\tbooli\tlee\tente\tte,$3sg\t$real\tstay\tin\thole\ttree\tthis\t$disc,"He stayed inside the hole of this tree and,",,,,,SN000422 ; SN001674,
+XV000561,bpa,"te vyanten nyoo ente yam téé vyan etes, te esi na tes mwe myas","te\tvyanten\tnyoo\tente\tya\t-m\ttéé\tvyan\tetes,\tte\tesi\tna\ttes\tmwe\tmyas",$disc\tman\t$3pl\tthis\t$3pl\t-$real\tlook\tgo\tat.the.sea\t$disc\tsee\t$comp\tsea\t$real\tdry,then the men looked to the sea and they saw that the tide was low.,,,,,SN001674,
+XV000562,bpa,"ka ka mwe vu, ar rap pwelitase map, rap pwelitase buluwu map tuswa mon","ka\tka\tmwe\tvu,\tar\tra\t-p\tpweli\t-tase\tmap,\tra\t-p\tpweli\t-tase\tbuluwu\tmap\ttuswa\tmon",say\tsay\t$real\tgood\t$1pl.in.sb\t$1pl.in\t-$pot\tbake\t-again\tT.chestnut\t$1pl.in\t-$pot\tbake\t-again\tstone.oven\tT.chestnut\tone\talso,"They said, fine, let's bake chestnuts again, let's bake another hole [full] of chestnuts.",,,,,SN000187,
+XV000563,bpa,"Lisepsep mwe tuwuli esi ka we kuo, tevyan na yam sekate vyun mu du yen buluwu","Lisepsep\tmwe\ttuwuli\tesi\tka\twe\tkuo,\ttevy\t-an\tna\tya\t-m\tsekate\tvy\t-un\tmu\tdu\tyen\tbuluwu",lisepsep\t$real\ttry\tsee\t$mod\t$pot\trun\tside.of\t-$3sg.poss\t$comp\t$3pl\t-$real\tfix\thair\t-3s.poss\t$real\tstay\tin\thole,"The lisepsep tried (in vain) to run away, because they had fastened his hair inside the hole.",,,,,SN000792 ; SN001003,
+XV000564,bpa,nam penin esi dom entak te to pyang,na\t-m\tpenin\tesi\tdom\ten\t-tak\tte\tto\tpyang,$1sg\t-$real\troast.pl\tsee\tyam\t$dem\t-$dem.prox\t$disc\t$neg.real\tdone,"I tried to roast this yam, but it does not become done.",,,,,SN000422,
+XV000565,bpa,te ka mene ka kop banga banga banga vu vu,te\tka\tmyane\tka\tko\t-p\tbanga\tbanga\tbanga\tvu\tvu,$disc\tsay\twith\t$mod\t$2sg\t-$pot\topen.mouth\topen.mouth\topen.mouth\tgood\tgood,"she said to him, open your mouth, open your mouth, open it good",,,,,SN000075,
+XV000566,bpa,to vu ne ka nan te ne venek te kaakilye bwilinpam,to\tvu\tne\tka\tna\t-n\tte\tne\tvenek\tte\tkaa\t-kilye\tbwilinp\t-am,$neg.real\tgood\t$trans\t$mod\t$1sg\t-$neg.pot\tcut\t$neg.pot\tcome\t$disc\tbend\t-$res.miss\topening.of.mouth\t-$2.poss,it would not be good if I cut it now and then miss your open mouth.,,,,,SN000270,
+XV000567,bpa,vyan mwe myor ten ane bwilinpwe lisepsep,vyan\tmwe\tmyor\tten\tane\tbwilinpwe\tlisepsep,go\t$real\texact\tvery\t$trans\topening.of.mouth\tlisepsep,it went directly into the mouth of the lisepsep.,,,,,SN000035,
+XV000568,bpa,bweti vyor mwe vyan sa yen bwilinpan vyan a bweti vyor ente mwe erér pipili mwe vu,bweti\tvyor\tmwe\tvyan\tsa\tyen\tbwilinp\t-an\tvyan\ta\tbweti\tvyor\tente\tmwe\terér\tdup2-\tpili\tmwe\tvu,stem\tstone\t$real\tgo\t$top\tin\tbuccal.cave\t-$3sg.poss\tgo\tand\tstem\tstone\tthis\t$real\twarm\t$redup-\tred\t$real\tgood,"the stone, it went inside his mouth and this stone was red hot",,,,,SN000259,
+XV000569,bpa,temeli man mwi swa kemyas kyun ten san naana yem du,temeli\tman\tmw-\ti\tswa\tkemyas\tkyun\tt\t-en\ts-\tan\tnaana\tye\t-m\tdu,kid\tmale\t$real-\t$cop\tone\tonly\tjust\tand\t-$3sg.poss\t$cl3-\t$3sg.poss\tmother\t$3d\t-$real\tstay,The boy was alone with his mother,,,,,SN001693,
+XV000570,bpa,ma poo vyan te vyan bweti leave ka te vyan bweti leave milye barar swa mu kuo me,ma\tpoo\tvyan\tte\tvyan\tbweti\tle-\tave\tka\tte\tvyan\tbweti\tle-\tave\tmilye\tbarar\tswa\tmu\tkuo\tme,$real\tclimb\tgo\t$disc\tgo\tstem\tstem.of-\tmountain.apple\t$mod\t$past\tgo\tstem\tstem.of-\tmountain.apple\ton.top\tpig\tone\t$real\trun\tcome,"He climbed onto an apple tree, when he went onto the apple tree, a pig came running",,,,,SN000062,
+XV000571,bpa,naana kop gene apyang tuswa,naana\tko\t-p\tgene\tapyang\ttuswa,mother\t$2sg\t-$pot\tmake\tfire\tone,"Mother, make a fire!",,,,,SN000048,
+XV000572,bpa,yem ane mees ente mo nok te,ye\t-m\tane\tmees\ten\t-te\tmo\tnok\tte,$3d\t-$real\teat\tfood\t$dem\t-$dem.md\t$real\tfinish\t$disc,"When they had eaten this food,",,,,,SN000033,
+XV000573,bpa,te usi ane nyoo na ka yam du téé aa mees,te\tusi\tane\tnyoo\tna\tka\tya\t-m\tdu\ttéé\taa\tmees,$disc\task\t$trans\t$3pl\t$comp\t$mod\t$3pl\t-$real\tstay\tlook\t$3pl.poss\tfood,They teach them to look for their food,,,,,SN000005 ; SN000035,
+XV000574,bpa,"byaa ma ka medó, nge ma ka mwe yas save","byaa\tma\tka\tmedó,\tnge\tma\tka\tmwe\tyas\tsave",hawk\t$real\tfly\tbe.slow\t$3sg\t$real\tfly\t$real\tbe.strong\tsurpass,the hawk flies slowly but it [the other one] flies faster,,,,,SN000287,
+XV000575,bpa,mwi speret se yaapu na towo,mw-\ti\tsperet\ts-\te\tyaapu\tna\ttowo,$real-\t$cop\tspirit\t$cl3-\t$al.e\tgod\t$comp\tbig,the spirit of the Great Lord,,,,,SN002128,
+XV000576,bpa,"ale ka wet tilya nesye nyoo, te bwe téé aa mees","ale\tka\twet\ttilya\tne\t-sye\tnyoo,\tte\tbwe\ttéé\taa\tmees",well\t$mod\tonly.then\ttake\tchild\t-$3sg.poss\t$3pl\t$disc\t$cont\tlook\t$3pl.poss\tfood,So she takes her children and then looks for their food.,,,,,SN000021,
+XV000577,bpa,sivi te bwe bangbang myane nya na ene,sivi\tte\tbwe\tbangbang\tmyane\tnya\tna\tene,lorikeet\t$past\t$cont\tplay\twith\t$3d\t$comp\t$dem,"Lorikeet used to play with the two others,",,,,,SN000076,
+XV000578,bpa,"nye ka na vyan nii pwer aran, nam dimyane ten ka nap syokuwu ekaakaa","nye\tka\tna\tvyan\tnii\tpwer\tar\t-an,\tna\t-m\tdimyane\tten\tka\tna\t-p\tsyo\t-kuwu\tekaakaa",$1sg\t$mod\t$comp\tgo\thide\tstay\tplace\t-$3sg.poss\t$1sg\t-$real\twant\tvery\t$mod\t$1sg\t-$pot\ttake\t-$res.out\tclothes,"As for me, I will hide there, I really want to take the clothes",,,,,SN001122,
+XV000579,bpa,mwe syokuwu san ekaakaa te lingi mwe du,mwe\tsyo\t-kuwu\tsan\tekaakaa\tte\tlingi\tmwe\tdu,$real\ttake\t-$res.out\t$3sg.poss\tclothes\t$disc\tput\t$real\tstay,He undressed and left his clothes there.,,,,,SN000782,
+XV000580,bpa,"mwe vyan yen bwili wye, ka yet vyan du lyunglyung ti kitak","mwe\tvyan\tyen\tbwili\twye,\tka\tye\t-t\tvyan\tdu\tdup4-\tlyung\tt-\ti\tki\t-tak",$real\tgo\tin\thole\twater\t$mod\t$3d\t-$past\tgo\tstay\t$redup-\tbathe\t$past-\t$cop\tlike\t-$dem.prox,"he went to the pool, and while the two were swimming like this",,,,,SN001982,
+XV000581,bpa,te sivi mwe dyunga me yas ane ekaakaa se boyep,te\tsivi\tmwe\tdyunga\tme\tyas\tane\tekaakaa\ts-\te\tboyep,$disc\tlorikeet\t$real\tfinally\tcome\tsteal\t$trans\tclothes\t$cl3-\t$al.e\tpheasant.dove,and the sivi could finally steal the clothes of the Boyep,,,,,SN000035,
+XV000582,bpa,boyep mwe vyan te vyan téétééane san ekaakaa na ti pyas te mwe seaa,boyep\tmwe\tvyan\tte\tvyan\tdup3-\ttéé\t-ane\tsan\tekaakaa\tna\tt-\ti\tpyas\tte\tmwe\tseaa,pheasant.dove\t$real\tgo\t$disc\tgo\t$redup-\tlook\t-trans\t$3sg.poss\tclothes\t$comp\t$past-\t$cop\tsplendid\t$disc\t$real\tdisappear,The Boyep went looking for his fancy clothes but they were lost,,,,,SN001982,
+XV000583,bpa,"syan sa mwe pwer tevesye, syan pwe tevesye","syan\tsa\tmwe\tpwer\tteve\t-sye,\tsyan\tpwe\tteve\t-sye",other\t$top\t$real\tstay\tside.of\t-$3sg.poss\tother\t$cont\tside.of\t-$3sg.poss,"One to one side, the other one to the other side,",,,,,SN001541,
+XV000584,bpa,apyaló ma lingi nyoo Baiap atak,apyaló\tma\tlingi\tnyoo\tBaiap\ta\t-tak,ship\t$real\tput\t$3pl\t$name\t$loc.dem\t-$dem.prox,a ship brought them here to Baiap,,,,,SN000045 ; SN000782,
+XV000585,bpa,yem tilya aua ne pandó an,ye\t-m\ttilya\taua\tne\tpandó\tan,$3pc\t-$real\ttake\trope\t$trans\tto.fish\t$nm.inf,They took their fishing lines,,,,,SN000060,
+XV000586,bpa,bili na yem sene mesyu me,bili\tna\tye\t-m\tsene\tmesyu\tme,time\t$comp\t$3pc\t-$real\thook\tfish\tcome,"While they were catching fish,",,,,,SN000927,
+XV000587,bpa,bili na yem pipine ma tilya an mesyu kyun te pwe ane,bili\tna\tye\t-m\tpipine\tma\ttilya\tan\tmesyu\tkyun\tte\tpwe\tane,time\t$comp\t$3pc\t-$real\tshare\t$real\ttake\t$3sg.poss\tfish\tafter\t$disc\t$cont\teat,"When they were sharing them, he took his fish and he ate them",,,,,SN000123,
+XV000588,bpa,ma ane mesyu nyoo ente vyan ka te en seaa te mu nungse san bivian,ma\tane\tmesyu\tnyoo\tente\tvyan\tka\tte\ten\tseaa\tte\tmu\tnungse\tsan\tbivian,$real\teat\tfish\t$3pl\tthis\tgo\t$mod\t$dist\teat\tevery\t$disc\t$real\task.for.food\t$3sg.poss\tfriend,"He ate these fish and when he had eaten them, he asked his friend for food.",,,,,SN000927,
+XV000589,bpa,na to liye wa mesaa na teenem na enbe sa vyanten nya ente yem gene bivian a yem du panpandó,na\tto\tliye\twa\tmesaa\tna\tteenem\tna\ten\t-be\tsa\tvyanten\tnya\ten\t-te\tye\t-m\tgene\tbivian\ta\tye\t-m\tdu\tdup3-\tpandó,$1sg\t$neg.real\ttake\t$pot\tsmooth\t$comp\thome\t$comp\t$dem\t-which\t$top\tman\t$3d\t$dem\t-$dem.md\t$3pc\t-$real\tmake\tfriend\tand\t$3pc\t-$real\tstay\t$redup-\tto.fish,I haven't clarified in which village the two men were friends and went fishing,,,,,SN000100,
+XV000590,bpa,yem vyan vyan ma getak kyun te punguo ne butantan swa,ye\t-m\tvyan\tvyan\tma\tge\t-tak\tkyun\tte\tpunguo\tne\tbutantan\tswa,$3d\t-$real\tgo\tgo\t$real\tlike\t-$dem.prox\tjust\t$disc\tgo.up\t$trans\thill\tone,They kept going and then they went up a hill,,,,,SN000223,
+XV000591,bpa,meerin nya yem mwi bivian na mu vu ten,meerin\tnya\tye\t-m\tmw-\ti\tbivian\tna\tmu\tvu\tten,long.time\t$3d\t$3d\t-$real\t$real-\t$cop\tfriend\t$comp\t$real\tgood\tvery,"before, they were good friends",,,,,SN001702 ; SN001967,
+XV000592,bpa,yap myató yam ka san is mwi Buwu,yap\tmyató\tya\t-m\tka\tsan\tis\tmw-\ti\tBuwu,old.man\told\t$3pl\t-$real\tsay\t$3sg.poss\tname\t$real-\t$cop\t$name,"One old man, his name is Buwu",,,,,SN000554,
+XV000593,bpa,bili na mo go vyan bili na ka we bwis pyan emyu,bili\tna\tmo\tgo\tvyan\tbili\tna\tka\twe\tbwis\tpyan\temyu,time\t$comp\t$real\tcrawl\tgo\ttime\t$comp\t$mod\t$pot\tpass.under\tunder\tnakamal,"While he was crawling, when he was about to go into the tabu house,",,,,,SN001313,
+XV000594,bpa,"ma ka, `e, mu vu kyun, nap kueli vyan pwe pyan mok em kyun, apyang we me ane nye'","ma\tka,\t`e,\tmu\tvu\tkyun,\tna\t-p\tkueli\tvyan\tpwe\tpyan\tm\t-ok\tem\tkyun,\tapyang\twe\tme\tane\tnye'",$real\tsay\they\t$real\tgood\tjust\t$1sg\t-$pot\treturn\tgo\t$cont\tunder\t$cl1\t-$1sg.poss\thouse\tjust\tfire\t$pot\tcome\teat\t$1sg,"He said, well, fine, I will go back into my house and the fire will consume me.",,,,,SN000048,
+XV000595,bpa,"mu kukyu, apyang mwe vyan pyan te","mu\tku-kyu,\tapyang\tmwe\tvyan\tpyan\tte",$real\t$redup-surround\tfire\t$real\tgo\tunder\t$disc,"it surrounded him, the fire died down.",,,,,SN001314,
+XV000596,bpa,em me Buwu mwe pwer kyun.,em\tm\t-e\tBuwu\tmwe\tpwer\tkyun.,house\t$cl1\t-$al\t$name\t$real\tstay\tjust,Buwu's house was still there.,,,,,SN001294,
+XV000597,bpa,saka temeli tuswa ne vyan ar an,saka\ttemeli\ttuswa\tne\tvyan\tar\tan,$mod.neg\tkid\tone\t$neg.pot\tgo\tplace\t$def,no child can go there,,,,,SN001690,
+XV000598,bpa,yam gene mwi atyo mo nok te yam me luwane,ya\t-m\tgene\tmw-\ti\tatyo\tmo\tnok\tte\tya\t-m\tme\tluwa\t-ne,$3pl\t-$real\tmake\t$real-\t$cop\trope\t$real\tfinish\t$disc\t$3pl\t-$real\tcome\tfasten\t-$trans,"When they had made it into a rope, they fastened it",,,,,SN000058,
+XV000599,bpa,"tuswa to wet syokilyene. Sóróusian mwermwer mo nok ma gete kyun, sipa.","tuswa\tto\twet\tsyokilyene.\tSóróusi\t-an\tdup4-\tmwer\tmo\tnok\tma\tge\t-te\tkyun,\tsipa.",one\t$neg.real\tonly.then\tfind\ttalk\t-$nm\t$redup-\tshort\t$real\tfinish\t$real\tbe.like\t-$dem.med\tjust\tthank.you,"No one has found it. The story is short like this, thank you.",,,,,SN002059,
+XV000600,bpa,vyan te webung swa yem tilya saya pisya nyoo te yem vyan visyaa bwili wye,vyan\tte\twebung\tswa\tye\t-m\ttilya\ts-\taya\tpisya\tnyoo\tte\tye\t-m\tvyan\tvisyaa\tbwili\twye,go\t$disc\tday\tone\t$3d\t-$real\ttake\t$cl3-\t$3d.poss\tpaint\t$3pl\t$disc\t$3d\t-$real\tgo\tside\thole\twater,So one day they took their colours and they went to a pond.,,,,,SN001739,
+XV000601,bpa,ko pisya nye wi mo we nok te nye na wet pisya ngok wi to,ko\tpisya\tnye\tw-\ti\tmo\twe\tnok\tte\tnye\tna\twet\tpisya\tngok\tw-\ti\tto,$2sg\tpaint\t$1sg\t$pot-\t$cop\tfirst\t$pot\tfinish\t$disc\t$1sg\t$1sg\tonly.then\tpaint\t$2sg\t$pot-\t$cop\tlater,paint me first and then I will paint you afterwards,,,,,SN002059,
+XV000602,bpa,"yem du sanga ne nya, ye to vu ne nya","ye\t-m\tdu\tsanga\tne\tnya,\tye\tto\tvu\tne\tnya",$3pc\t-$real\tstay\tbad\t$trans\t$3d\t$3pc\t$neg.real\tbe.good\t$trans\t$3d,"they were bad to each other, they were not good to each other.",,,,,SN000367,
+XV000603,bpa,mwi mesyu swa sa mwe kukuo save myasyu seaa yen bwili tes,mw-\ti\tmesyu\tswa\tsa\tmwe\tdup2-\tkuo\tsave\tmesyu\tseaa\tyen\tbwili\ttes,$real-\t$cop\tfish\tone\t$top\t$real\t$redup-\trun\tsurpass\tfish\tevery\tin\thole.of\tsea,it is a fish that is faster than all the other fish in the sea,,,,,SN000927,
+XV000604,bpa,te yem vyan yen too se tomo wuk,te\tye\t-m\tvyan\tyen\ttoo\ts-\te\ttomo\twuk,$disc\t$3d\t-$real\tgo\tin\tgarden\t$cl3-\t$al.e\trat\talready,They first went to the field of the rat.,,,,,SN001774 ; SN002090,
+XV000605,bpa,tomo mwe ka nge wuk ka we vyan nii,tomo\tmwe\tka\tnge\twuk\tka\twe\tvyan\tnii,rat\t$real\tsay\t$3sg\talready\t$mod\t$pot\tgo\thide,The rat said it wanted to hide first.,,,,,SN002090,
+XV000606,bpa,mwe liye etatakéé me takééne yan beleem,mwe\tliye\tetatakéé\tme\ttakééne\tyan\tbeleem,$real\ttake\tlock\tcome\thang\tat\tdoor,he took the lock and hung it on the dóór,,,,,SN000108,
+XV000607,bpa,yem pwer a du bunguo a du liye eng,ye\t-m\tpwer\ta\tdu\tbunguo\ta\tdu\tliye\teng,$3d\t-$real\tstay\tand\tstay\tsnort\tand\tstay\ttake\twind,they were snoring and snorting,,,,,SN000205,
+XV000608,bpa,"lebekuu ente wye mwe pwer yen, te yam vyan te du minmin","lebekuu\tente\twye\tmwe\tpwer\tyen,\tte\tya\t-m\tvyan\tte\tdu\tdup3-\tmin",palmtree\tthis\twater\t$real\tstay\tin\t$disc\t$3pl\t-$real\tgo\t$disc\tstay\t$redup-\tdrink,"This palmtree, water was inside and they went and they drank.",,,,,SN000367,
+XV000609,bpa,mwe ane te to kyerveni mwe en kopkop ane kyun,mwe\tane\tte\tto\tkyer\t-veni\tmwe\ten\tdup3-\tkop\tane\tkyun,$real\teat\t$disc\t$neg.real\tbite\t-$res.dead\t$real\teat\t$redup-\tbe.full\t$trans\tjust,"he ate him but he did not bite him dead, he just swallowed him entirely.",,,,,SN000420,
+XV000610,bpa,mo nok te nya ka yep tiye barar swa,mo\tnok\tte\tnya\tka\tye\t-p\ttiye\tbarar\tswa,$real\tfinish\t$disc\t$3d\t$mod\t$3d\t-$pot\tkill\tpig\tone,"Then the two [parents] will kill a pig,",,,,,SN001761,
+XV000611,bpa,"as mwi mesyu swa mu vu, yam sensene ne string, yam ane, yam sene yen net","as\tmw-\ti\tmesyu\tswa\tmu\tvu,\tya\t-m\tdup3-\tsene\tne\tstring,\tya\t-m\tane,\tya\t-m\tsene\tyen\tnet",garfish\t$real-\t$cop\tfish\tone\t$real\tgood\t$3pl\t-$real\t$redup-\thook\t$trans\tline\t$3pl\t-$real\teat\t$3pl\t-$real\thook\tin\tchild,"The garfish is a good fish, they catch it with a fishing line, they eat it, they catch in with the net.",,,,,SN000054,
+XV000612,bpa,"nyoo ente yam ane nyoo, yam du yen vyor","nyoo\ten\t-te\tya\t-m\tane\tnyoo,\tya\t-m\tdu\tyen\tvyor",$3pl\t$dem\t-$dem.md\t$3pl\t-$real\teat\t$3pl\t$3pl\t-$real\tstay\tin\tstone,"Those, they eat them, they live in the stones.",,,,,SN000367,
+XV000613,bpa,ap lasup an mwe kyes,ap\tlasup\tan\tmwe\tkyes,shore.crab\tsoup\t$def\t$real\tsweet,the broth of the shore crab is sweet.,,,,,SN000043,
+XV000614,bpa,Unites mu du pyan vyor,Unites\tmu\tdu\tpyan\tvyor,rock.lobster\t$real\tstay\tunder\tstone,The rock lobsters live under the stones,,,,,SN001313,
+XV000615,bpa,"bowop ente kaen mu puo. Entak, sinisye mwe dyanga","bowop\ten\t-te\tkaen\tmu\tpuo.\tEn\t-tak,\tsini\t-sye\tmwe\tdyanga",box.fish\t$dem\t-$dem.md\tkind\t$real\tbe.plentiful\t$dem\t-$dem.prox\tthorn\t-$3sg.poss\t$real\tlack,There are very many kinds of box fish. This one doesn't have spikes.,,,,,SN000175,
+XV000616,bpa,"bisya, bisya oltaem mwi lóló","bisya,\tbisya\toltaem\tmw-\ti\tdup2-\tló",rabbitfish\trabbitfish\talways\t$real-\t$cop\t$redup-\ttwo,The rabbitfish are always in pairs,,,,,SN000135,
+XV000617,bpa,Yaapu swa ma tilya an kuli nyoo yem vyan du ko barar ma getak,Yaapu\tswa\tma\ttilya\tan\tkuli\tnyoo\tye\t-m\tvyan\tdu\tko\tbarar\tma\tge\t-tak,big.man\tone\t$real\ttake\t$3sg.poss\tdog\t$3pl\t$3pc\t-$real\tgo\tstay\trace\tpig\t$real\tbe.like\t-$dem.prox,A man took his dogs and they went to hunt a pig,,,,,SN001739,
+XV000618,bpa,te san tuutu mwe liye baséé ente te yem kueli teenem,te\ts-\tan\ttuutu\tmwe\tliye\tbaséé\tente\tte\tye\t-m\tkueli\tteenem,$disc\t$cl3-\t$3sg.poss\tgrandparent\t$real\ttake\tbird\tthis\t$disc\t$3d\t-$real\treturn\thome,Then his grandfather took this bird and they went back home,,,,,SN001682,
+XV000619,bpa,saa nidil mwe pwer yan bwityoo nyoo,saa\tnidil\tmwe\tpwer\tyan\tbwity\t-oo\tnyoo,$3pl.poss\tthorn\t$real\tstay\ton\tass\t-$3pl.poss\t$3pl,They have thorns on their butts. [about ants],,,,,SN000281,
+XV000620,bpa,es sa ma ate ngok ne bungun,es\tsa\tma\tate\tngok\tne\tbung\t-un,black.ant\t$top\t$real\tbite\t$2sg\t$trans\tmouth\t-3s.poss,the black ant bites you with its mouth,,,,,SN000056,
+XV000621,bpa,te nyoo yam duru yan lee na ma medar,te\tnyoo\tya\t-m\tdu-ru\tyan\tlee\tna\tma\tmedar,$disc\t$3pl\t$3pl\t-$real\t$redup-stay\ton\ttree\t$comp\t$real\trot,"so they live on rotten trees,",,,,,SN000740 ; SN000886,
+XV000622,bpa,diwi mwe pwer vyan kyun me te i bankyen kyun te ka,diwi\tmwe\tpwer\tvyan\tkyun\tme\tte\ti\tbankyen\tkyun\tte\tka,mosquito.larva\t$real\tstay\tgo\tafter\tcome\t$disc\t$cop\tmosquito\tafter\t$disc\tfly,After a while the larvae become mosquitos and fly,,,,,SN000078,
+XV000623,bpa,mwe toowe kyu te yung pwer ma gete kyun te saakuokuo te me i bwii,mwe\ttoowe\tkyu\tte\tyung\tpwer\tma\tge\t-te\tkyun\tte\tsaakuokuo\tte\tme\ti\tbwii,$real\tcover\tsurround\t$disc\tquiet\tstay\t$real\tbe.like\t-$dem.md\tjust\t$disc\tchange\t$disc\tcome\t$cop\tbutterfly,it covers itself up and it stays quiet like this and then it changes and becomes a butterfly.,,,,,SN000260,
+XV000624,bpa,"te dap kuoli vyan teenem, da vyan te da me i bivian","te\tda\t-p\tkuoli\tvyan\tteenem,\tda\tvyan\tte\tda\tme\ti\tbivian",$disc\t$1d.in\t-$pot\treturn\tgo\thome\t$1d.in\tgo\t$disc\t$1d.in\tcome\t$cop\tfriend,Then we go home and we are going to be friends.,,,,,SN000138,
+XV000625,bpa,yem du sukuo vyan te yem dimyane ka yep tiltilya nya,ye\t-m\tdu\tsukuo\tvyan\tte\tye\t-m\tdimyane\tka\tye\t-p\tdup3-\ttilya\tnya,$3d\t-$real\tstay\tbe.together\tgo\t$disc\t$3d\t-$real\twant\t$mod\t$3d\t-$pot\t$redup-\ttake\t$3d,they were together and they wanted to be a couple,,,,,SN000333,
+XV000626,bpa,ka we pwer a ko mwe kiikuwu luu lee ente,ka\twe\tpwer\ta\tko\tmwe\tkii\t-kuwu\tluu\tlee\tente,$mod\t$pot\tstay\tand\t$2sg\t$real\tdig\t-$res.out\troot\ttree\tthis,leave it there and dig out the roots of this tree,,,,,SN000740 ; SN000823,
+XV000627,bpa,Nam dimyane ka nap sengane punan tuswa mon.,Na\t-m\tdimyane\tka\tna\t-p\tsenga\t-ne\tpun\t-an\ttuswa\tmon.,$1sg\t-$real\twant\t$mod\t$1sg\t-$pot\tgive\t-$trans\ttell\t-$nm\tone\talso,I want to tell another story.,,,,,SN000333,
+XV000628,bpa,te mwe pwer ma bungus pyak,te\tmwe\tpwer\tma\tbungus\tpyak,$disc\t$real\tstay\t$real\tsmell\t$res.look.for,And he sniffed the air exploringly.,,,,,SN000206,
+XV000629,bpa,yam kolir ane bwye an,ya\t-m\tkolir\tane\tbwye\tan,$3pl\t-$real\tsing\t$trans\tsong\t$def,They sing a song,,,,,SN000284,
+XV000630,bpa,bili na lee mu kuu te vyanten nyoo yam vyan tas kikyu,bili\tna\tlee\tmu\tkuu\tte\tvyanten\tnyoo\tya\t-m\tvyan\ttas\tkikyu,time\t$comp\ttree\t$real\tmove\t$disc\tman\t$3pl\t$3pl\t-$real\tgo\tsit\tsurround,"When the stick moves, the man sit around it",,,,,SN000740,
+XV000631,bpa,vyanten nya na yem gomu lee ente yam tinyo te yam tu tan te gene te lee mwe sap,vyanten\tnya\tna\tye\t-m\tgomu\tlee\tente\tya\t-m\ttinyo\tte\tya\t-m\ttu\ttan\tte\tgene\tte\tlee\tmwe\tsap,person\t$3d\t$comp\t$3d\t-$real\tgrab\ttree\tthis\t$3pl\t-$real\tstand\t$disc\t$3pl\t-$real\thit\tground\t$disc\tmake\t$disc\ttree\t$real\tdance,"the two men who hold this tree, they are pounding the earth so that the tree dances.",,,,,SN001629,
+XV000632,bpa,"yam ka mwi bengaó ne lee na mwe sap, na mwe baa myane vyanten","ya\t-m\tka\tmw-\ti\tbengaó\tne\tlee\tna\tmwe\tsap,\tna\tmwe\tbaa\tmyane\tvyanten",$3pl\t-$real\tsay\t$real-\t$cop\ttrick\t$trans\ttree\t$comp\t$real\tdance\t$comp\t$real\tfight\twith\tman,"They say this is the magic ritual of the dancing tree, the tree which fights with man.",,,,,SN000112,
+XV000633,bpa,bowa ente yam ka san is mwi vyar,bowa\ten\t-te\tya\t-m\tka\tsan\tis\tmw-\ti\tvyar,worm\t$dem\t-$dem.md\t$3pl\t-$real\tsay\t$3sg.poss\tname\t$real-\t$cop\twood.borer,These maggots are called woodborers,,,,,SN000174,
+XV000634,bpa,"yam gene byar ane ó, yam te towane nyoo yan","ya\t-m\tgene\tbyar\tane\tó,\tya\t-m\tte\ttowane\tnyoo\tyan",$3pl\t-$real\tmake\tplatform\t$trans\tcoconut\t$3pl\t-$real\tcut\tthrow\t$3pl\ton,"They make a copra oven from it, and cut and throw them on it.",,,,,SN000291,
+XV000635,bpa,"yam gomu lisepsep, pisi, pisi mwe ge myane barar","ya\t-m\tgomu\tlisepsep,\tpisi,\tpisi\tmwe\tge\tmyane\tbarar",$3pl\t-$real\tgrab\tlisepsep\ttie\ttie\t$real\tlike\twith\tpig,they grabbed the lisepsep and tied him up like a pig,,,,,SN000489 ; SN001028,
+XV000636,bpa,vyan te ko wesi tes mursi kuon te kinye me te wet lingliline ngok,vyan\tte\tko\tw-\tesi\ttes\tmursi\tkuon\tte\tkinye\tme\tte\twet\tling\t-lili\t-ne\tngok,go\t$disc\t$2sg\t$pot-\tsee\tsea\ta.bit\tafter\t$disc\t$1pl.ex\tcome\t$disc\tonly.then\tput\t-$res.back\t-$trans\t$2sg,then you will see the sea a bit and then we will bring you back,,,,,SN001094,
+XV000637,bpa,te yam takote bwenges ente,te\tya\t-m\ttakote\tbwenges\ten\t-te,$disc\t$3pl\t-$real\tcut.loose\tbranch\t$dem\t-$dem.md,they cut this branch,,,,,SN000245,
+XV000638,bpa,yam tu mwi ló ma sukuo te yam tataraa yan belor nyoo,ya\t-m\ttu\tmw-\ti\tló\tma\tsukuo\tte\tya\t-m\ttataraa\tyan\tbelor\tnyoo,$3pl\t-$real\thit\t$real-\t$cop\ttwo\t$real\tbe.together\t$disc\t$3pl\t-$real\tslide\ton\tslope\t$3pl,They nail two together and then they slide down a hill.,,,,,SN000111,
+XV000639,bpa,mwe kyaate ó an mwe vyan yen byaek mwi mani,mwe\tkyaate\tó\tan\tmwe\tvyan\tyen\tbyaek\tmw-\ti\tmani,$real\tscoop.out\tcoconut\t$def\t$real\tgo\tin\tbag\t$real-\t$cop\tmoney,They scoop out copra and put it into the bag to make money.,,,,,SN000288,
+XV000640,bpa,"kom ongane ka ti wee swa ti minyes a wee, we tuwu kyun","ko\t-m\tongane\tka\tt-\ti\twee\tswa\tti\tminyes\ta\twee,\twe\ttuwu\tkyun",$2sg\t-$real\thear\t$mod\t$past-\t$cop\tfruit\tone\t$past\tdifferent\tand\tfruit\tfruit\tbush.nut\tjust,"it tastes like a different fruit, but it's just the tuwu fruit.",,,,,SN001162,
+XV000641,bpa,yam kii kii mwe gete vyan te mwe ongane ka wa lingi san kekei,ya\t-m\tkii\tkii\tmwe\tge\t-te\tvyan\tte\tmwe\tongane\tka\twa\tlingi\tsan\tkekei,$3pl\t-$real\tdig\tdig\t$real\tlike\t-$dem.md\tgo\t$disc\t$real\thear\t$mod\t$pot\tput\t$3sg.poss\tbaby,"they were digging on and on, then she felt that she would give birth to her baby",,,,,SN001162,
+XV000642,bpa,temweli mwe yas mwe wese ka we te vislee te mwe te mu vu,temeli\tmwe\tyas\tmwe\twese\tka\twe\tte\tvislee\tte\tmwe\tte\tmu\tvu,kid\t$real\tstrong\t$real\tenough\t$mod\t$pot\tcut\tbow.and.arrow\t$disc\t$real\t$disc\t$real\tgood,the boy was strong enough to make a bow and arrows and he cut them well,,,,,SN002024,
+XV000643,bpa,"te yasen mwe ka, u, a ngok ko bwe ka sewe","te\tyas\t-en\tmwe\tka,\tu,\ta\tngok\tko\tbwe\tka\tsewe",$disc\tmother\t-$3sg.poss\t$real\tsay\t$intj\tand\t$2sg\t$2sg\t$cont\tsay\twhat,"then her mother said, uh, what are you talking about?",,,,,SN001094,
+XV000644,bpa,bili na ó mwe vyan yan byar mo nok te me pyane,bili\tna\tó\tmwe\tvyan\tyan\tbyar\tmo\tnok\tte\tme\tpyane,time\t$comp\tcoconut\t$real\tgo\ton\tplatform\t$real\tfinish\t$disc\tcome\troast,"When the coconuts are on the oven, he roasts them",,,,,SN002134,
+XV000645,bpa,sye kekevene ne vilye yen too,sye\tdup2-\tkevene\tne\tvilye\tyen\ttoo,something\t$redup-\tevery\t$trans\tplace\tin\tgarden,all the things of the garden,,,,,SN001949,
+XV000646,bpa,te vyanten mwe vyan tilya mees me teenem tevyan ka wet naknak ane pyan bwinyap,te\tvyanten\tmwe\tvyan\ttilya\tmees\tme\tteenem\ttevy\t-an\tka\twet\tnaknak\tane\tpyan\tbwinyap,$disc\tman\t$real\tgo\ttake\tfood\tcome\thome\tside.of\t-$3sg.poss\t$mod\tonly.then\tready\t$trans\tunder\tkitchen,the man goes to take the food home to prepare it in the kitchen hut.,,,,,SN000277,
+XV000647,bpa,"Yan wuoswa, yam kuowilye ka yap bivili yan apyang tevyan ka we gaó wa maga.","Yan\twuoswa,\tya\t-m\tkuowilye\tka\tya\t-p\tbivili\tyan\tapyang\ttevy\t-an\tka\twe\tgaó\twa\tmaga.",on\tsome\t$3pl\t-$real\tknow\t$mod\t$3pl\t-$pot\tsmoke\ton\tfire\tside.of\t-$3sg.poss\t$mod\t$pot\tdry\t$pot\tbe.fast,"Sometimes, they may place it over a fire to make it dry fast.",,,,,SN000140,
+XV000648,bpa,mwe me i ding na vyanten mo kuowilye ka we tas yan mwede we pwer yan.,mwe\tme\tme\ti\tding\tna\tvyanten\tmo\tkuowilye\tka\twe\ttas\tyan\tmwede\twe\tpwer\tyan.,$real\tcome\tcome\t$cop\tmat\t$comp\tman\t$real\tknow\t$mod\t$pot\tsit\ton\tor\t$pot\tstay\ton,it becomes a mat which people can sit down on or sleep on.,,,,,SN002134,
+XV000649,bpa,bwe bun yan lee milye,bwe\tbun\tyan\tlee\tmilye,$cont\tcoo\ton\ttree\ton.top,it was cooing on the tree.,,,,,SN002134,
+XV000650,bpa,"Mesyu an na lóan, sa nge","Mesyu\tan\tna\tló\t-an,\tsa\tnge",fish\t$def\t$comp\ttwo\t-$nm\t$top\there,The second fish is here.,,,,,SN001342,
+XV000651,bpa,vyan ma tuuli ne san apyaló ten te moseaa,vyan\tma\ttuuli\tne\tsan\tapyaló\tten\tte\tmoseaa,go\t$real\ttry\t$trans\t$3sg.poss\tship\tnative\t$disc\tfinish,He kept working on his canoe and then finished it.,,,,,SN000046,
+XV000652,bpa,"apyang ente to me yen botingis nyoo, bwe me yen bwilin pan barar","apyang\ten\t-te\tto\tme\tyen\tbotingis\tnyoo,\tbwe\tme\tyen\tbwilin\tp\t-an\tbarar",fire\t$dem\t-$dem.md\t$neg.real\tcome\tin\tfirebrand\t$3pl\t$cont\tcome\tin\tbuccal.cave\tmouth\t-$3sg.poss\tpig,"This fire didn't come from a torch, it came from the mouth of a pig.",,,,,SN000171,
+XV000653,bpa,mo nok te ma dimyane ka we kuowilye na si sa bwe téétéépuon apyang ente,mo\tnok\tte\tma\tdimyane\tka\twe\tkuowilye\tna\tsi\tsa\tbwe\tdup3-\ttéépuon\tapyang\ten\t-te,$real\tfinish\t$disc\t$real\twant\t$mod\t$pot\tknow\t$comp\twho\t$top\t$cont\t$redup-\tguard\tfire\t$dem\t-$dem.md,he wanted to know who was guarding this fire.,,,,,SN001342,
+XV000654,bpa,nye sa nam luwuo barar ente,nye\tsa\tna\t-m\tluwuo\tbarar\ten\t-te,$1sg\t$top\t$1sg\t-$real\tfeed\tpig\t$dem\t-$dem.md,`I am feeding this pig here.',,,,,SN000084 ; SN001342,
+XV000655,bpa,te sopsop te yeskuon bwe kuon yen bwilin pan barar,te\tsopsop\tte\tyeskuon\tbwe\tkuon\tyen\tbwilin\tp\t-an\tbarar,$dist\tbreath.heavily\t$disc\tsmoke\t$cont\tsmoke\tin\tbuccal.cave\tmouth\t-$3sg.poss\tpig,"When it was breathing heavily, smoke was rising from the pig's mouth",,,,,SN000084,
+XV000656,bpa,"vyan, mwe kueli vyan webung swa tetes","vyan,\tmwe\tkueli\tvyan\twebung\tswa\ttetes",go\t$real\treturn\tgo\tday\tone\tagain,"he came back, on another day",,,,,SN002031,
+XV000657,bpa,a nge mwe me pwer teenem yen pukuo,a\tnge\tmwe\tme\tpwer\tteenem\tyen\tpukuo,and\t$3sg\t$real\tcome\tstay\thome\tin\thot.springs,And he stayed at the village at the hot springs.,,,,,SN000875,
+XV000658,bpa,Yen dom na mo nok ten me yen dom na mo nok,Yen\tdom\tna\tmo\tnok\tten\tme\tyen\tdom\tna\tmo\tnok,in\tyear\t$comp\t$real\tfinish\tvery\tcome\tin\tyear\t$comp\t$real\tfinish,In the year before last year and last year,,,,,SN001113,
+XV000659,bpa,"mwe yan bweti tes aryuk, mwe kuowilye webung na yam du gene bapan te bwe me me yen","mwe\tyan\tbweti\ttes\tar\t-yuk,\tmwe\tkuowilye\twebung\tna\tya\t-m\tdu\tgene\tbap\t-an\tte\tbwe\tme\tme\tyen",$real\tat\tstem\tsea\tplace\t-dem.long.dist\t$real\tknow\tday\t$comp\t$3pl\t-$real\tstay\tmake\tdance\t-$nm\t$disc\t$cont\tcome\tcome\tin,"He was at the bay there, he knew the day on which they made a dance he came there.",,,,,SN002031,
+XV000660,bpa,webung swa wuk mwe me vyan sutuoane bapan,webung\tswa\twuk\tmwe\tme\tvyan\tsutuoane\tbap\t-an,day\tone\talready\t$real\tcome\tgo\tjoin\tdance\t-$nm,Another day he went again to join a dance.,,,,,SN000875 ; SN002031,
+XV000661,bpa,"mwe ka, e, na bwe téépyakilye sukuk swa","mwe\tka,\te,\tna\tbwe\ttéé\t-pyakilye\tsuk\t-uk\tswa",$real\tsay\they\t$1sg\t$cont\tlook\t-$res.search\tstuff\t-$1sg.poss\tone,"he said, well, I am looking for something that belongs to me",,,,,SN001515,
+XV000662,bpa,bili na temeli vyaven nya ente ka yet kuoli me teenem te,bili\tna\ttemeli\tvyaven\tnya\tente\tka\tye\t-t\tkuoli\tme\tteenem\tte,time\t$comp\tkid\twoman\t$3d\tthis\t$mod\t$3d\t-$dist\treturn\tcome\thome\t$disc,"when the women went back home,",,,,,SN000664,
+XV000663,bpa,bili na temeli man san naana bwe oko ka we me bun beleem te yem ongane tan mwe kuu mwe yas,bili\tna\ttemeli\tman\tsan\tnaana\tbwe\toko\tka\twe\tme\tbun\tbeleem\tte\tye\t-m\tongane\ttan\tmwe\tkuu\tmwe\tyas,time\t$comp\tchild\tmale\t$3sg.poss\tmother\t$cont\twalk\t$mod\t$pot\tcome\tnext.to\tdoor\t$disc\t$3d\t-$real\thear\tground\t$real\tmove\t$real\tstrong,"when the boy's mother came to the door, they felt the ground moving heavily.",,,,,SN001629,
+XV000664,bpa,"barar téér wuoswa yam saa vyan Ambae, saa vyan sikya vilye Maalo","barar\ttéér\twuoswa\tya\t-m\tsaa\tvyan\tAmbae,\tsaa\tvyan\tsikya\tvilye\tMaalo",pig\tpair\tsome\t$3pl\t-$real\tfloat\tgo\t$name\tfloat\tgo\ttouch\tplace\t$name,"some of the paired pigs floated to Ambae, they reached Maalo",,,,,SN001949,
+XV000665,bpa,"Kinyem esi ma gete te kinyem du, kinyem ongane ma sanga kyun a kinyem yung du","Kinyem\tesi\tma\tge\t-te\tte\tkinyem\tdu,\tkinyem\tongane\tma\tsanga\tkyun\ta\tkinyem\tyung\tdu",$1pl.ex\tsee\t$real\tbe.like\t-$dem.md\t$disc\t$1pl.ex\tstay\t$1pl.ex\thear\t$real\tbad\tjust\tbut\t$1pl.ex\tquiet\tstay,"We see it like this, but we stay, we feel bad, but we just stay quiet.",,,,,SN001162,
+XV000666,bpa,"sye swa mon bwe ko yene, nye nam pwe aran mo nok","sye\tswa\tmon\tbwe\tko\tyene,\tnye\tna\t-m\tpwe\tar\t-an\tmo\tnok",something\tone\talso\t$cont\tspread\tnow\t$1sg\t$1sg\t-$real\tstay\tplace\t-$3sg.poss\t$real\tfinish,"something else happened then, I was already there",,,,,SN000983,
+XV000667,bpa,Te mwe me yan vilye san vi nyoo entak mwede?,Te\tmwe\tme\tyan\tvilye\ts-\tan\tvi\tnyoo\ten\t-tak\tmwede?,$disc\t$real\tcome\ton\tplace\t$cl3-\t$3sg.poss\twhite.man\t$3pl\t$dem\t-$dem.prox\tor,"So does it come from the place of the white men, or what?",,,,,SN001949,
+XV000668,bpa,te gene na da an mu kuo mwi towo ten,te\tgene\tna\tda\tan\tmu\tkuo\tmw-\ti\ttowo\tten,$disc\tmake\t$comp\tblood\t$def\t$real\trun\t$real-\t$cop\tbig\tvery,So that a huge lot of blood was running.,,,,,SN000680,
+XV000669,bpa,"Mwi nius kekei ente na nap sengane mo nok, mo nok ate","Mw-\ti\tnius\tkekei\ten\t-te\tna\tna\t-p\tsenga\t-ne\tmo\tnok,\tmo\tnok\tate",$real-\t$cop\tnews\tsmall\t$dem\t-$dem.md\t$comp\t$1sg\t-$pot\tgive\t-$trans\t$real\tfinish\t$real\tfinish\tbite,"It's a small piece of news which I wanted to tell and it's finished, it ends here.",,,,,SN001113,
+XV000670,bpa,or we yuop te ka we gyes tetes we nok te ka we wet kuoli me teenem,or\twe\tyuop\tte\tka\twe\tgyes\ttetes\twe\tnok\tte\tka\twe\twet\tkuoli\tme\tteenem,bush\t$pot\tbe.dawn\t$disc\t$mod\t$pot\twork\tagain\t$pot\tfinish\t$disc\t$mod\t$pot\tonly.then\treturn\tcome\thome,"At dawn, she would work again and only then would she go back home.",,,,,SN000875 ; SN001113 ; SN001719,
+XV000671,bpa,nyoo na yam du teenem yam ongane te,nyoo\tna\tya\t-m\tdu\tteenem\tya\t-m\tongane\tte,$3pl\t$comp\t$3pl\t-$real\tstay\thome\t$3pl\t-$real\thear\t$disc,"Those who were at the village, they heard her and,",,,,,SN000367,
+XV000672,bpa,mwe vyan te pwe kyepyakilye san bivian syanan,mwe\tvyan\tte\tpwe\tkye\t-pyakilye\tsan\tbivian\tsyan\t-an,$real\tgo\t$disc\t$cont\tcall\t-$res.search\t$3sg.poss\tfriend\tother\t-$3sg.poss,he went and he was calling for his friend.,,,,,SN000138,
+XV000673,bpa,te mwe gene na temyar yuon mwe pyane ngok,te\tmwe\tgene\tna\ttemyar\tyu\t-on\tmwe\tpyane\tngok,$disc\t$real\tmake\t$comp\tdemon\tfeeling\t-$3sg.poss\t$real\troast\t$2sg,it made the demon angry with you.,,,,,SN000499,
+XV000674,bpa,saka kon wet kuoli tetes vyan aran,saka\tko\t-n\twet\tkuoli\ttetes\tvyan\tar\t-an,$mod.neg\t$2sg\t-$neg.pot\tonly.then\treturn\tagain\tgo\tplace\t-$3sg.poss,Do not go back to the place.,,,,,SN001719,
+XV000675,bpa,kuli ma óte puskat swa,kuli\tma\tóte\tpuskat\tswa,dog\t$real\thunt\tcat\tone,the dog hunted a cat,,,,,SN000846,
+XV000676,bpa,yap myató ne sok nasara yam du yam bya dom,yap\tmyató\tne\ts-\tok\tnasara\tya\t-m\tdu\tya\t-m\tbya\tdom,old.man\told\t$trans\t$cl3-\t$1sg.poss\tnasara\t$3pl\t-$real\tstay\t$3pl\t-$real\tplant\tyam,The old ones of my nasara used to plant yam.,,,,,SN000286,
+XV000677,bpa,te yap myató ente mwe bwis pyan usye nyoo vyan bwe guwuo barvinye guguone vyan,te\tyap\tmyató\tente\tmwe\tbwis\tpyan\tu\t-sye\tnyoo\tvyan\tbwe\tguwuo\tbarvinye\tdup2-\tguone\tvyan,$disc\told.man\told\tthis\t$real\tpass.under\tunder\tstalk\t-$3sg.poss\t$3pl\tgo\t$cont\tpull\tgrass\t$redup-\tclean\tgo,"This old man passed under their stalks and pulled [out] grass, clearing the place.",,,,,SN000090,
+XV000678,bpa,te mu tyup barar mon vyan ngabak,te\tmu\ttyup\tbarar\tmon\tvyan\tngabak,$disc\t$real\tbattle\tpig\talso\tgo\tstill,he kills still more pigs,,,,,SN000983 ; SN001851,
+XV000679,bpa,"Mo nok, vyan vyan, vyanten mwe dyanga mon ka ne vyan milye, mo nok pwe yan mal kyun","Mo\tnok,\tvyan\tvyan,\tvyanten\tmwe\tdyanga\tmon\tka\tne\tvyan\tmilye,\tmo\tnok\tpwe\tyan\tmal\tkyun",$real\tfinish\tgo\tgo\tman\t$real\tlack\talso\t$mod\t$neg.pot\tgo\ton.top\t$real\tfinish\t$cont\ton\tseventh.rank\tjust,"Then, there is no one (rank) anymore to go further up, it just ends with the Mal.",,,,,SN000983,
+XV000680,bpa,tomo bwe kukuo yan tan,tomo\tbwe\tdup2-\tkuo\tyan\ttan,rat\t$cont\t$redup-\trun\ton\tground,the rat was running on the ground,,,,,SN000680,
+XV000681,bpa,sye ente kyun sa nam ka myane ngok,sye\tente\tkyun\tsa\tna\t-m\tka\tmyane\tngok,something\tthis\tjust\t$top\t$1sg\t-$real\tsay\twith\t$2sg,this is exactly what I told you.,,,,,SN000716 ; SN001546,
+XV000682,bpa,bwilya mwe kuo vyan te vyan tavya metone tan te ka,bwilya\tmwe\tkuo\tvyan\tte\tvyan\ttavya\tmetone\ttan\tte\tka,rail\t$real\trun\tgo\t$disc\tgo\tget.up\tfrom\tground\t$disc\tfly,The rail ran away and then took off from the ground and flew.,,,,,SN000275 ; SN000565 ; SN001629 ; SN001657,
+XV000683,bpa,yem kuo kuo kuo vyan te tomo mwe vyan mwe tumtum ane bon,ye\t-m\tkuo\tkuo\tkuo\tvyan\tte\ttomo\tmwe\tvyan\tmwe\ttumtum\tane\tb\t-on,$3pc\t-$real\trun\trun\trun\tgo\t$disc\trat\t$real\tgo\t$real\tright\t$trans\thole\t-$3sg.poss,"They kept running, then the rat went straight to his hole",,,,,SN000066,
+XV000684,bpa,te mwe vyan gene tamake,te\tmwe\tvyan\tgene\ttamake,$disc\t$real\tgo\tmake\tmask,So he made a mask.,,,,,SN000499,
+XV000685,bpa,bwilya mwe kuoli vyan te ka: ka nap gene sewe?,bwilya\tmwe\tkuoli\tvyan\tte\tka:\tka\tna\t-p\tgene\tsewe?,rail\t$real\treturn\tgo\t$disc\tsay\t$mod\t$1sg\t-$pot\tmake\twhat,The rail went back and said: What should I do?,,,,,SN000499,
+XV000686,bpa,"sóróusian na nam sóróusili te, gili sóróusian mo nok mwe gete kyun","sóróusi\t-an\tna\tna\t-m\tsóró\t-usili\tte,\tgili\tsóróusi\t-an\tmo\tnok\tmwe\tge\t-te\tkyun",talk\t-$nm\t$comp\t$1sg\t-$real\ttalk\t-$res.follow\t$disc\tend\ttalk\t-$nm\t$real\tfinish\t$real\tlike\t-$dem.md\tjust,"The story I wanted to tell, the end of the story ends like this.",,,,,SN000716,
+XV000687,bpa,"or mwe yuop te mwe ka, mwe kuoli me te ka","or\tmwe\tyuop\tte\tmwe\tka,\tmwe\tkuoli\tme\tte\tka",place\t$real\tdawn\t$disc\t$real\tsay\t$real\treturn\tcome\t$disc\tsay,"it was dawning and he said, he came back and said,",,,,,SN001170,
+XV000688,bpa,ko to gene gyesan tuswa nu vu mursi teenem doma,ko\tto\tgene\tgyes\t-an\ttuswa\tnu\tvu\tmursi\tteenem\tdoma,$2sg\t$neg.real\tmake\twork\t-$nm\tone\t$neg.pot\tgood\ta.bit\thome\ttoday,You haven't done the slightest bit of good work at home today.,,,,,SN000499 ; SN000999 ; SN001116 ; SN001763 ; SN001830,
+XV000689,bpa,saka nan téétase ngok or tuswa,saka\tna\t-n\ttéé\t-tase\tngok\tor\ttuswa,$mod.neg\t$1sg\t-$neg.pot\tlook\t-again\t$2sg\tplace\tone,I shall not see you anywhere,,,,,SN001170,
+XV000690,bpa,"tomo nge to liye mees tuswa, yam vyan gyes gyes vyan te","tomo\tnge\tto\tliye\tmees\ttuswa,\tya\t-m\tvyan\tgyes\tgyes\tvyan\tte",rat\t$3sg\t$neg.real\ttake\tfood\tone\t$3pl\t-$real\tgo\twork\twork\tgo\t$disc,"The rat did not bring any food, they went to work",,,,,SN001763,
+XV000691,bpa,kyun te tomo amun mwe luk kyun sikya yene,kyun\tte\ttomo\tam\t-un\tmwe\tluk\tkyun\tsikya\tyene,just\t$disc\trat\tbeard\t-3s.poss\t$real\tgrow\tjust\ttouch\tnow,And so rats grow whiskers to this day.,,,,,SN000023,
+XV000692,bpa,"sipa, sok yaapu mwe me tetes mon","sipa,\tsok\tyaapu\tmwe\tme\ttetes\tmon",thank.you\t$1sg.poss\tbig.man\t$real\tcome\tagain\talso,"thank you, my husband has come again",,,,,SN000983,
+XV000693,bpa,vyaven to sóró yem ka yep kuoli vyan teenem,vyaven\tto\tsóró\tye\t-m\tka\tye\t-p\tkuoli\tvyan\tteenem,woman\t$neg.real\ttalk\t$3d\t-$real\tsay\t$3d\t-$pot\treturn\tgo\thome,"the woman did not speak, they were going back home",,,,,SN001993,
+XV000694,bpa,te usi ka: vyanten swa san is sa Reprepmalao to pwer atak?,te\tusi\tka:\tvyanten\tswa\tsan\tis\tsa\tReprepmalao\tto\tpwer\ta\t-tak?,$disc\task\tsay\tman\tone\t$3sg.poss\tname\t$top\t$name\t$neg.real\tstay\t$loc.dem\t-$dem.prox,"he asked: a man, his name is Reprepmalao, does he not live here?",,,,,SN001534,
+XV000695,bpa,"mwe pyaos vyan ka te vyan or te timyan temeli ente, Reprepmalao, bwe me etes","mwe\tpyaos\tvyan\tka\tte\tvyan\tor\tte\ttimy\t-an\ttemeli\tente,\tReprepmalao,\tbwe\tme\tetes",$real\trow\tgo\t$mod\t$disc\tgo\tshore\t$disc\tfather.of\t-$3sg.poss\tkid\tthis\t$name\t$cont\tcome\tat.the.sea,"he rowed again, when he came to the shore, the father of this boy, of Reprepmalao, came to the sea",,,,,SN001171,
+XV000696,bpa,sye kevene nyoo sa mwe naknak tak mo nok,sye\tkevene\tnyoo\tsa\tmwe\tnaknak\ttak\tmo\tnok,something\tevery\t$3pl\t$top\t$real\tready\t$dem.prox\t$real\tfinish,all these things are ready here,,,,,SN001546,
+XV000697,bpa,yem me teenem te yaapu an te pwer yen or to kuowilye na yem me teenem,ye\t-m\tme\tteenem\tte\tyaapu\tan\tte\tpwer\tyen\tor\tto\tkuowilye\tna\tye\t-m\tme\tteenem,$3d\t-$real\tcome\thome\t$disc\tbig.man\t$def\t$disc\tstay\tin\tbush\t$neg.real\tknow\t$comp\t$3d\t-$real\tcome\thome,"they went to the house, the man was in the bush, he did not know that they came to the house",,,,,SN001169,
+XV000698,bpa,sóróusian mwe usili vyap myató swa myane mebyun swa,sóróusi\t-an\tmwe\tusili\tvyap\tmyató\tswa\tmyane\tmeby\t-un\tswa,talk\t-$3sg.poss\t$real\tfollow\told.woman\told\tone\twith\tgrandchild\t-3s.poss\tone,the story is about an old woman and her grandchild,,,,,SN001534,
+XV000699,bpa,temweli myane san tuutu vyaven yem ongane koliran te,temeli\tmyane\tsan\ttuutu\tvyaven\tye\t-m\tongane\tkolir\t-an\tte,child\twith\t$3sg.poss\tgrandparent\twoman\t$3d\t-$real\thear\tsing\t-$nm\t$disc,the boy and his grandmother heard the singing and,,,,,SN001028 ; SN001162,
+XV000700,bpa,"mwi baséé sa mo kuowilye ka we ka, ma sóró myane vyanten","mw-\ti\tbaséé\tsa\tmo\tkuowilye\tka\twe\tka,\tma\tsóró\tmyane\tvyanten",$real-\t$cop\tbird\t$top\t$real\tknow\t$mod\t$pot\tsay\t$real\ttalk\twith\tman,"it's a bird which can talk, it talks to people.",,,,,SN001028,
+XV000701,bpa,Sóróusian swa mwe usili seebwiyo ten tomo,Sóróusi\t-an\tswa\tmwe\tusili\tseebwiyo\tten\ttomo,talk\t-$3sg.poss\tone\t$real\tfollow\tkingfisher\tand\trat,A story which is about the kingfisher and the rat.,,,,,SN001916,
+XV000702,bpa,te yem esi vilye kekei swa pwer mwe gete,te\tye\t-m\tesi\tvilye\tkekei\tswa\tpwer\tmwe\tge\t-te,$disc\t$3d\t-$real\tsee\tisland\tsmall\tone\tstay\t$real\tlike\t-$dem.md,Then they saw a small island (which was there like this),,,,,SN000448 ; SN000596,
+XV000703,bpa,te yem dimyane ka ye-p vyan myane saya apyaló ten tuswa.,te\tye\t-m\tdimyane\tka\tye\t-p\tvyan\tmyane\ts-\taya\tapyaló\tten\ttuswa.,$disc\t$3d\t-$real\twant\t$mod\t$3d\t-$pot\tgo\twith\t$cl3-\t$3d.poss\tship\tnative\tone,So they wanted to go in a canoe.,,,,,SN001830 ; SN002128,
+XV000704,bpa,yem du saa vyan saa vyan te mwe en tetes.,ye\t-m\tdu\tsaa\tvyan\tsaa\tvyan\tte\tmwe\ten\ttetes.,$3d\t-$real\tstay\tfloat\tgo\tfloat\tgo\t$disc\t$real\teat\tagain,They kept floating on and on and he ate again.,,,,,SN001982,
+XV000705,bpa,"tomo mwe saasaa yan wotop an vi ente vyan te vyan esi bimesyu, bimesyu swa","tomo\tmwe\tsaasaa\tyan\twotop\tan\tvi\tente\tvyan\tte\tvyan\tesi\tbimesyu,\tbimesyu\tswa",rat\t$real\tmove\tat\tbreadfruit\t$3sg.poss\twhite.man\tthis\tgo\t$disc\tgo\tsee\tshark\tshark\tone,Rat was clinging to the pawpaw and then he saw a shark.,,,,,SN000127,
+XV000706,bpa,"Mwe ka, ee, to wese ka nan liye ngok","Mwe\tka,\tee,\tto\twese\tka\tna\t-n\tliye\tngok",$real\tsay\tno\t$neg.real\tenough\t$mod\t$1sg\t-$neg.pot\ttake\t$2sg,"He said: No, I can't carry you.",,,,,SN001054 ; SN001056,
+XV000707,bpa,na to demyan ka nan tas yan madum,na\tto\tdemyane\tka\tna\t-n\ttas\tyan\tmad\t-um,$1sg\t$neg.real\twantem\t$mod\t$1sg\t-$neg.pot\tsit\tat\tback\t-2s.poss,I don't want to sit on your back.,,,,,SN001054 ; SN001056,
+XV000708,bpa,"polo pwer yan lee te ka: yevyo, yevyo, tangtang yan batom","polo\tpwer\tyan\tlee\tte\tka:\tyevyo,\tyevyo,\ttangtang\tyan\tbat\t-om",climb\tstay\tat\ttree\t$disc\tsay\tturtle\tturtle\thermit.crab\tat\thead\t-$2sg.poss,"he climbed onto a tree and said: turtle, turtle, touch your head.",,,,,SN000096,
+XV000709,bpa,nam dimye ente kyun mwi seli ane na vyanten mwe wuor,na\t-m\tdimye\ten\t-te\tkyun\tmw-\ti\tseli\tane\tna\tvyanten\tmwe\twuor,$1sg\t-$real\tthink\t$dem\t-$dem.md\tjust\t$real-\t$cop\troad\t$trans\t$comp\tman\t$real\ttaboo,I think this is the way of how people are taboo,,,,,SN001056,
+XV000710,bpa,vilye syan an ka we me tilya san vyanten nyoo,vilye\tsyan\tan\tka\twe\tme\ttilya\tsan\tvyanten\tnyoo,place\tother\t$def\t$mod\t$pot\tcome\ttake\t$3sg.poss\tman\t$3pl,The other village will bring their men,,,,,SN000875,
+XV000711,bpa,mebyuneli mwe ongane mwe sanga kyun te mwe poo usili vityop ane maya em,meby\t-un\t-eli\tmwe\tongane\tmwe\tsanga\tkyun\tte\tmwe\tpoo\tusili\tvityop\tane\tmaya\tem,grandchild\t-3s.poss\t-$dim\t$real\thear\t$real\tbad\tjust\t$disc\t$real\tclimb\tfollow\troof\t$trans\t$3d.poss\thouse,her grandson felt bad and he climbed onto the roof of their house.,,,,,SN001916,
+XV000712,bpa,mwe nyurnyur usili vyan te ka na an barar mwe dyanga,mwe\tdup4-\tnyur\tusili\tvyan\tte\tka\tna\tan\tbarar\tmwe\tdyanga,$real\t$redup-\tthink\tfollow\tgo\t$disc\t$mod\t$comp\t$3sg.poss\tpig\t$real\tlack,"He thought about it for a while, but he didn't have pigs.",,,,,SN001916,
+XV000713,bpa,tamadu sa buluwu an sa bwe bistuwo atak,tamadu\tsa\tbuluwu\tan\tsa\tbwe\tbistuwo\ta\t-tak,tamadu\t$top\thole\t$def\t$top\t$cont\tmiddle\t$loc.dem\t-$dem.prox,The hole of the tamadu is here in the middle.,,,,,SN000134,
+XV000714,bpa,tis swa san is sa aatawa,tis\tswa\ts-\tan\tis\tsa\taatawa,drawing\tone\t$cl3-\t$3sg.poss\tname\t$top\taatawa,a drawing called `aatawa',,,,,SN000009,
+XV000715,bpa,"mo nok kyun te, awes mwi aua swa na meerin yap myató nyoo yat ka yap gene vislee","mo\tnok\tkyun\tte,\tawes\tmw-\ti\taua\tswa\tna\tmeerin\tyap\tmyató\tnyoo\tya\t-t\tka\tya\t-p\tgene\tvislee",$real\tfinish\tafter\t$disc\tliana\t$real-\t$cop\trope\tone\t$comp\tlong.time\told.man\told\t$3pl\t$3pl\t-$past\tsay\t$3pl\t-$pot\tmake\tbow.and.arrow,"So, the awes is a vine which they used to make arrows long ago.",,,,,SN000063,
+XV000716,bpa,te tevesye mwi ló yam sungane yam sungane vyan yen atuwo,te\ttevesye\tmw-\ti\tló\tya\t-m\tsung\t-ane\tya\t-m\tsung\t-ane\tvyan\tyen\tatuwo,$disc\ton.other.side\t$real-\t$cop\ttwo\t$3pl\t-$real\tput.into\t-$trans\t$3pl\t-$real\tput.into\t-$trans\tgo\tin\tbag,so it has two halves and they put them into a basket,,,,,SN000057,
+XV000717,bpa,vilye na yem du te yem du baa tevyan mur tan na ló tak,vilye\tna\tye\t-m\tdu\tte\tye\t-m\tdu\tbaa\ttevy\t-an\tmur\ttan\tna\tló\ttak,place\t$comp\t$3d\t-$real\tstay\t$disc\t$3d\t-$real\tstay\tfight\tside.of\t-$3sg.poss\tpiece\tground\t$comp\ttwo\t$dem.prox,"the place where they lived, they were fighting about these two pieces of land.",,,,,SN000067,
+XV000718,bpa,mwe getak te mwe me lingsene ebyaon mwe du yen borsyuk nyoo,mwe\tge\t-tak\tte\tmwe\tme\tlingsene\tebyaon\tmwe\tdu\tyen\tborsyuk\tnyoo,$real\tlike\t-$dem.prox\t$disc\t$real\tcome\thide.sth\twing\t$real\tstay\tin\trubbish.heap\t$3pl,"like this, then he came and hid her wings in a rubbish heap.",,,,,SN000162,
+XV000719,bpa,yem vyan teenem te ma tilya ebyaon te lingsene vyan yen bototo,ye\t-m\tvyan\tteenem\tte\tma\ttilya\tebya\t-on\tte\tlingsene\tvyan\tyen\tbototo,$3d\t-$real\tgo\thome\t$disc\t$real\ttake\twing\t-$3sg.poss\t$disc\thide.sth\tgo\tin\tabandoned.field,"they went home, and took the wings and hid them in an old garden.",,,,,SN000172,
+XV000720,bpa,ka kop téé yan bwee dangdang ente te ko mwesi ma ge myane yesukuo ma lingi mwi bii du ne,ka\tko\t-p\ttéé\tyan\tbwee\tdangdang\ten\t-te\tte\tko\tmw-\tesi\tma\tge\tmyane\tyesukuo\tma\tlingi\tmw-\ti\tbii\tdu\tne,$mod\t$2sg\t-$pot\tlook\ton\tcontainer\tcocoon\t$dem\t-$dem.md\t$disc\t$2sg\t$real-\tsee\t$real\tbe.like\twith\tleaves\t$real\tput\t$real-\t$cop\tstick\tstay\t$trans,"And when you look at this cocoon, it looks like leaves are sticking to it",,,,,SN000119,
+XV000721,bpa,Barar ente mwe me i towo te vyap myató ente ma lingi barar ente yen biyep.,Barar\tente\tmwe\tme\ti\ttowo\tte\tvyap\tmyató\tente\tma\tlingi\tbarar\tente\tyen\tbiyep.,pig\tthis\t$real\tcome\t$cop\tbig\t$disc\told.woman\told\tthis\t$real\tput\tpig\tthis\tin\tfence,This pig became big and then the venerable woman put it into a pen.,,,,,SN000141 ; SN000782,
+XV000722,bpa,A yaapu mwe me esi na sa to i naten,A\tyaapu\tmwe\tme\tesi\tna\tsa\tto\ti\tnat\t-en,and\tbig.man\t$real\tcome\tsee\t$comp\t$top\t$neg.real\t$cop\tchild\t-$3sg.poss,And the man saw that it wasn't his child.,,,,,SN002128,
+XV000723,bpa,Ka te pwe sensene ti kitak te bungse buon,Ka\tte\tpwe\tdup3-\tsene\tt-\ti\tki\t-tak\tte\tbungse\tbu\t-on,$mod\t$past\t$cont\t$redup-\thook\t$past-\t$cop\tlike\t-$dem.prox\t$disc\tsmell\tsmell\t-$3sg.poss,"When she was tugging them like this, she smelled the stink.",,,,,SN000204,
+XV000724,bpa,te webung swa ma ka we vyan te an vis,te\twebung\tswa\tma\tka\twe\tvyan\tte\tan\tvis,$disc\tday\tone\t$real\tsay\t$pot\tgo\tcut\t$3sg.poss\tbanana,Then one day he wanted to go and cut down the bananas,,,,,SN001534,
+XV000725,bpa,yam gene bwii an swa mwi san vyaven nyoo seaa,ya\t-m\tgene\tbwii\tan\tswa\tmw-\ti\ts-\tan\tvyaven\tnyoo\tseaa,$3pl\t-$real\tmake\tsay.grace\t$nm.inf\tone\t$real-\t$cop\t$cl3-\t$al.p\twoman\t$3pl\t$res.every,held a prayer,,,,,SN001127,
+XV000726,bpa,ka bwii an te vyan te nok te yam en sukuo ka te nok te vyaven nyoo yam kolir gene bangbang an mwe pwis,ka\tbwii\tan\tte\tvyan\tte\tnok\tte\tya\t-m\ten\tsukuo\tka\tte\tnok\tte\tvyaven\tnyoo\tya\t-m\tkolir\tgene\tbangbang\tan\tmwe\tpwis,$mod\tsay.grace\t$nm.inf\t$past\tgo\t$past\tfinish\t$disc\t$3pl\t-$real\teat\tbe.together\t$mod\t$past\tfinish\t$disc\twoman\t$3pl\t$3pl\t-$real\tsing\tmake\tplay\t$nm.inf\t$real\tbe.plentiful,"When the prayer had ended and they had eaten together, the women sang and spent time with many leisure activities.",,,,,SN000262,
+XV000727,bpa,Wuoswa yam duru byun,Wuoswa\tya\t-m\tdu-ru\tby\t-un,some\t$3pl\t-$real\t$redup-stay\tbody\t-$3sg.poss,Some live in the depths,,,,,SN000295,
+XV000728,bpa,na wenen myane ngok laswan,na\twe\t-n\t-en\tmyane\tngok\tlaswan,$1sg\t$pot\t-$neg.$pot\teat\twith\t$2sg\tlast,I will eat with you for the last time.,,,,,SN000733,
+XV000729,bpa,apas na mo an mwi timyan,apas\tna\tmo\tan\tmw-\ti\ttimy\t-an,pig.post\t$att\tfirst\t$nm\t$real-\t$cop\tfather.of\t-$nm,The first tree for fastening a pig is for her father,,,,,SN000044 ; SN000975,
+XV000730,bpa,Bili na sa yam gene mwi mo te ti san vyap myat'o nyoo,Bili\tna\tsa\tya\t-m\tgene\tmw-\ti\tmo\tte\tt-\ti\ts-\tan\tvyap\tmyat'o\tnyoo,time\t$comp\t$top\t$3pl\t-$real\tmake\t$real-\t$cop\t$real\t$disc\t$dist-\t$cop\t$cl3-\t$3sg.$poss\told.woman\tright\t$3pl,"When they first made it, it belonged to the women.",,,,,SN000975 ; SN001594,
+XV000731,bpa,Te nge ma tinyo mo ne nye vyan to,Te\tnge\tma\ttinyo\tmo\tne\tnye\tvyan\tto,$disc\t$3sg\t$real\tstand\tfirst\t$trans\t$1sg\tgo\tlater,And he was before me and I went behind,,,,,SN000975 ; SN001751 ; SN001765,
+XV000732,bpa,or mwi pepelyen,or\tmw-\ti\tdup2-\tpelyen,place\t$real-\t$cop\t$redup-\ttomorrow,It is morning.,,,,,SN001213,
+XV000733,bpa,"or te pwe yuop pepelyen meerin te kom esi ma punguo, mwi misyu swa ma punguo me milye arte","or\tte\tpwe\tyuop\tdup2-\tpelyen\tmeerin\tte\tko\t-m\tesi\tma\tpunguo,\tmw-\ti\tmisyu\tswa\tma\tpunguo\tme\tmilye\tar\t-te",place\t$dist\t$cont\tbe.dawn\t$redup-\ttomorrow\tlong.time\t$disc\t$2sg\t-$real\tsee\t$real\tgo.up\t$real-\t$cop\tstar\tone\t$real\tgo.up\tcome\ton.top\tplace\t-$medial,"when it's dawn very early you can see it go up, it's a star that goes up over there",,,,,SN001213 ; SN001274,
+XV000734,bpa,webung na pelyen ka ya wet veskuwu ngur,webung\tna\tpelyen\tka\tya\twet\tves\t-kuwu\tngur,day\t$att\ttomorrow\t$mod\t$3pl\tonly.then\tstep\t-$res.$out\tpalm.leaf.fence,on the next day they will kick in the fence,,,,,SN001208 ; SN001931,
+XV000735,bpa,"pyan em ane san kuokuo an or mwe pyangpyang kyun pwer, to wese meas ne ate taem tuswa, tevyan mwe saa pwer milye","pyan\tem\tane\tsan\tkuokuo\tan\tor\tmwe\tdup4-\tpyang\tkyun\tpwer,\tto\twese\tmeas\tne\tate\ttaem\ttuswa,\ttevy\t-an\tmwe\tsaa\tpwer\tmilye",under\thouse\t$trans\t$3sg.$poss\tshut\t$nm\tplace\t$real\t$redup-\thot\tjust\tstay\t$neg.$real\tenough\tcold\t$neg.$pot\tbite\ttime\tone\tside.of\t-$3sg.$poss\t$real\thang\tstay\ton.top,"inside its cocoon, it's warm, it can never be cold, because it hangs up high",,,,,SN001315 ; SN001345,
+XV000736,bpa,"kinyem vyan, punguo vyan yan wap vyan pyan em","kinye\t-m\tvyan,\tpunguo\tvyan\tyan\twap\tvyan\tpyan\tem",$1pl.$ex\t-$real\tgo\tgo.up\tgo\ton\tcave\tgo\tunder\thouse,"We went, we went up to the cave, and went inside.",,,,,SN001274 ; SN001315,
+XV000737,bpa,"te vyanten nyoo ente yam t'e'e vyan etes, te esi na tes mwe myas","te\tvyanten\tnyoo\tente\tya\t-m\tt'e'e\tvyan\tetes,\tte\tesi\tna\ttes\tmwe\tmyas",$disc\tman\t$3pl\tthis\t$3pl\t-$real\tlook\tgo\tat.the.sea\t$disc\tsee\t$comp\tsea\t$real\tdry,then the men looked to the sea and they saw that the tide was low.,,,,,SN001057,
+XV000738,bpa,nam dimyane ten ka nap syokuwu ekaakaa na boyep mwe sesear ane.,na\t-m\tdimyane\tten\tka\tna\t-p\tsyo\t-kuwu\tekaakaa\tna\tboyep\tmwe\tsesear\tane.,$1sg\t-$real\twant\tvery\t$mod\t$1sg\t-$pot\ttake\t-$res.$out\tclothes\t$comp\tpheasant.dove\t$real\twear\t$trans,"As for me, I will hide there, I really want to take the clothes which Dove wears.",,,,,SN000178 ; SN001057 ; SN001565,
+XV000739,bpa,ekaakaa,e-kaa-kaa,$instr-$redup-wear,clothes,,,,,SN000389,
+XV000740,bpa,egiikii,e-gii-kii,$instr-$redup-grind,key,,,,,SN000389,
+XV000741,bpa,etastas,e-tas-tas,$instr-$redup-sit,chair,,,,,SN000389,
+XV000742,bpa,bwe 'ote eya taem kevene tevyan na yuon mwe pyane,bwe\t'ote\teya\ttaem\tkevene\ttevy\t-an\tna\tyu\t-on\tmwe\tpyane,$cont\thunt\twhite-eye\ttime\tevery\tside.of\t-$3sg.$poss\t$comp\tfeeling\t-$3sg.$poss\t$real\troast,He chases White-eye every time because he is mad at him,,,,,SN001610,
+XV000743,bpa,ye mwesi na ka we pwer yen taem na ka mees ka we du,ye\tmw-\tesi\tna\tka\twe\tpwer\tyen\ttaem\tna\tka\tmees\tka\twe\tdu,$3d\t$real-\tsee\t$comp\t$mod\t$pot\tstay\tin\ttime\t$comp\t$mod\tfood\t$mod\t$pot\tstay,They see to it that it will be in a period in which there is food,,,,,SN001609,
+XV000744,bpa,"unites, taem an mwe pwer a bung ti miyaa ebyate te pwe tavya te taem ane unites","unites,\ttaem\tan\tmwe\tpwer\ta\tbung\tt-\ti\tmiyaa\tebyate\tte\tpwe\ttavya\tte\ttaem\tane\tunites",rock.lobster\ttime\t$def\t$real\tstay\tand\tmoon\t$dist-\t$cop\tshine\tmoon\t$dist\t$cont\tget.up\t$disc\ttime\t$trans\trock.lobster,"The rock lobster, it has its time. When the moon shines when the moon is rising then is the time of the rock lobster.",,,,,SN001594 ; SN001609 ; SN001906,
+XV000745,bpa,"Mwe ka, 'e'e, to wese ka nan liye ngok","Mwe\tka,\t'e'e,\tto\twese\tka\tna\t-n\tliye\tngok",$real\tsay\tno\t$neg.$real\tenough\t$comp\t$1sg\t-$neg.$pot\ttake\t$2sg,"He said: No, I can't carry you.",,,,,SN000566,
+XV000746,bpa,nye nam kuowilye ka na vyan tiye suwuk kyun,nye\tna\t-m\tkuowilye\tka\tna\tvyan\ttiye\tsuw\t-uk\tkyun,$1sg\t$1sg\t-$real\tknow\t$mod\t$1sg\tgo\tkill\t$ref.$pron\t-$1sg.$poss\tjust,but I can beat him by myself,,,,,SN001532,
+XV000747,bpa,vyanten swa mwe pwerpwer suwun yen d'o'or,vyanten\tswa\tmwe\tdup4-\tpwer\tsuw\t-un\tyen\td'o'or,man\tone\t$real\t$redup-\tstay\t$ref.$pron\t-$3sg.poss\tin\tdark.bush,A man lived in the bush by himself,,,,,SN001532,
+XV000748,bpa,"vyae tevesye mwi l'o ma giye, yam vyate, yam sene mwi em, yam ger kyu em ane","vyae\tteve\t-sye\tmw-\ti\tl'o\tma\tgiye,\tya\t-m\tvyate,\tya\t-m\tsene\tmw-\ti\tem,\tya\t-m\tger\tkyu\tem\tane",tear\tside.of\t-$3sg.$poss\t$real-\t$cop\ttwo\t$real\tlike.this\t$3pl\t-$real\tweave\t$3pl\t-$real\thook\t$real-\t$cop\thouse\t$3pl\t-$real\tcover\tsurround\thouse\twith,"They tear it into two equal halfs, they weave it, they fasten them to make a house, they make the walls of a house out of it,",,,,,SN000034,
+XV000749,bpa,"esetye mwe pwer te vyanten ma liye me, ma mu kuowilye na mwe tewes syuksyuk ane mwi etewes","ese\t-tye\tmwe\tpwer\tte\tvyanten\tma\tliye\tme,\tma\tmu\tkuowilye\tna\tmwe\ttewes\tsyuksyuk\tane\tmw-\ti\tetewes",fruit.branch\t-of.it\t$real\tstay\t$disc\tman\t$real\ttake\tcome\t$real\t$real\tknow\t$comp\t$real\tsweep\trubbish\twith\t$real-\t$cop\tbroom,it contains the branches to which the coconuts were attached and people take it and one can sweep away rubbish with it as a broom.,,,,,SN000034,
+XV000750,bpa,kom syepwesa livis te ko mwesi bwe ne livis,ko\t-m\tsye\t-p\t-wesa\tlivis\tte\tko\tmw-\tesi\tbwe\tne\tlivis,$2sg\t-$real\tcut\t-$ep\t-clean\tbanana.plant\t$disc\t$2sg\t$real-\tsee\t$cont\t$trans\tbanana.plant,You cut off the dead leaves of a banana and you see it on the banana plant.,,,,,SN002052,
+XV000751,bpa,yem tinyo du wedewer ane wye na yem lyung ane,ye\t-m\ttinyuo\tdu\twedewer\tane\twye\tna\tye\t-m\tlyung\tane,$3d\t-$real\tstand\tstay\tdrip\twith\twater\t$comp\t$3d\t-$real\tswim\twith,"they were standing there, dripping with the water in which they had swum",,,,,SN002036 ; SN002110,tufala stap stanap i dropdrop long wota we tufala bin swim long hem
+XV000752,bpa,wye na yem bwe lyung ane bwe tiitii aya,wye\tna\tye\t-m\tbwe\tlyung\tane\tbwe\ttiitii\taya,water\t$comp\t$3d\t-$real\t$cont\tswim\twith\t$cont\tdrip\t$3d.poss,the water in which the two had swum was dripping down from them,,,,,SN001736 ; SN002110,wota we tufala i bin swim long hem i stap dropdrop long tufala
+XV000753,bpa,saya no mwe syokuwu ngir vis swa te sengane myane nya,s-\taya\tno\tmwe\tsyo\t-kuwu\tngir\tvis\tswa\tte\tsengane\tmyane\tnya,$cl3-\t$3d.poss\taunt\tPOSS\ttake\t-$res.out\tring.of\tbanana\tone\t$disc\tgive\twith\t$3d,their aunt took one ring of bananas and gave it to them,,,,,SN001092 ; SN001562 ; SN001953,anti blong tufala i karemaot wan ring blong banana afta givim long tufala
+XV000754,bpa,Nam me yan seli eng mu wu vyuluk nyoo te ma sinsinyo ma ge -te.,Na\t-m\tme\tyan\tseli\teng\tmu\twu\tvyul\t-uk\tnyoo\tte\tma\tsinsinyo\tma\tge\t-te,$1sg\t-$real\tcome\ton\tway\twind\t$real\tblow\thair.of\t-$1sg.poss\t$3pl\t$disc\t$real\tmessy\t$real\tbe.like\t-$medial,"I was on my way, the wind blew through my hair and now they're messy like this.",,,,,SN002088,"Mi go long rod, win i blu long hea blong mi ale i stap stanap olbaot olsem ia."
+XV000755,bpa,luw -un mwe ta,luw\t-un\tmwe\tta,tooth.of\t-$3sg\t$real\tgrow.in.bone,its tusks have grown back into the bone,,,,,SN000825,tut blong hem i go fas long bun
+XV000756,bpa,yaa mwe pyang yan tali os,yaa\tmwe\tpyang\tyan\ttali\tos,sun\t$real\twarm\ton\tafter\train,the sun was warm after the rain,,,,,SN001620,san i hot afta long ren
+XV000757,bpa,Yen myaek ente te ngok ka kop maa sewe?,Yen\tmyaek\ten\t-te\tte\tngok\tka\tko\t-p\tmaa\tsewe?,in\tnight\t$dem\t-$medial\t$disc\t$2sg\t$asr\t2SG\t-POT\tdo\twhat,What are you going to do tonight?,,,,,SN000848,Tede long naet bae yu mekem wanem?
+XV000758,bpa,"Meri mwe pwe i wua mo nok, bwe myato","Meri\tmwe\tbwe\ti\twua\tmo\tnok,\tbwe\tmyato",Mary\t$real\t$cont\t$cop\t$white.haired\t$real\tfinish\t$cont\told,"Mary was already getting gray, she was getting old",,,,,SN002089,"Mary, hea blong hem i stap kam waet finis, hemi stap kam olfala"
+XV000759,bpa,ka te pwe me mwe save em kekei te mwe kaatevyase gur op ente swa mu mur kyu seli te mur pwer.,ka\tte\tpwe\tme\tmwe\tsave\tem\tkekei\tte\tmwe\tkaa\t-tevyase\tgur\top\ten\t-te\tswa\tmu\tmur\tkyu\tseli\tte\tmur\tpwer.,$comp\t$dist\t$cont\tcome\t$real\tpass\thouse\tsmall\t$disc\t$real\tbend\t-$res.miss\tpiece\tfirewood\t$dem\t-$medial\tone\t$real\tfall\tblock\tway\t$disc\tfall\tstay,"When he passed by the outhouse, he lost a log of firewood, it fell down on the way and stayed there.",,,,,SN000536 ; SN000567,"taem we hemi pasem klosis, hemi mestem wan pis faiawud ia i fuldaon i stap blokem rod ale hemi fuldaon i stap"
+XV000760,bpa,ta vyaven,ta\tvyaven,chicken\tfemale,hen,,,,,SN001599,woman faol
+XV000761,bpa,ta man,ta\tman,chicken\tmale,rooster,,,,,SN001599,man faol

@@ -31,7 +31,7 @@ def run(args):
     if p.suffix == '.json' and p.exists():
         cldf_ds = Dataset.from_metadata(p)
         ds = None
-    else:
+    else:  # pragma: no cover
         ds = get_dataset(args)
         cldf_ds = ds.cldf_reader()
 
@@ -42,12 +42,12 @@ def run(args):
 
     default_page_size = 100
     while default_page_size < count_p and default_page_size < 600:
-        default_page_size += 100
+        default_page_size += 100  # pragma: no cover
 
     #  max_returned_rows            Maximum rows that can be returned from a table
     #                               or custom query (default=1000)
 
-    if not args.db_path:
+    if not args.db_path:  # pragma: no cover
         args.db_path = pathlib.Path('{0}.sqlite'.format(ds.id if ds else 'cldf_db'))
 
     if not args.db_path.exists():

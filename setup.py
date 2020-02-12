@@ -26,7 +26,7 @@ setup(
         "datasette>=0.32",
         'datasette-template-sql',
         'datasette-cluster-map',
-        'pycldf',
+        'pycldf>=1.11.0',
         'cldfbench',
         'clldutils',
         'jinja2',

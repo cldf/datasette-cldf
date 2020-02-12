@@ -1,0 +1,2230 @@
+ID,Description,Entry_ID,Antonym,Comment,Concepticon_ID,Gloss,Media_IDs,Scientific_Name,Semantic_Domain,Synonym,alt_translation1
+SN000001,[local demonstrative],a,,,,$loc.dem,,,,,
+SN000002,but,a_1,,,,but,,,,,be
+SN000003,and ; and,a_1,,,AND [1577],and,,,,,mo
+SN000004,[interjection],a_2,,,,$intj,,,,,
+SN000005,[third person possessive],aa,,,,$3pl.poss,,,,,
+SN000006,nettle,aa_1,,,NETTLE [33],nettle,,,plants,,nanggalat
+SN000007,[third person plural possessive],-aa,,,,$3p,,,,,
+SN000008,jellyfish (literally: 'nettle of the sea'),aa_ne_tes,,,,,,,fauna ; aquatic creatures,,nanggalat blong solwota
+SN000009,name of a ceremonial sand drawing,aatawa,,,,aatawa.sanddrawing,,,custom,,nem blong wan sandroing
+SN000010,one kind of liana,aba,,,,liana.species,,,plants,,wan rop
+SN000011,(black) magician; sorcerer,abwilyep_1,,,SORCERER [823] ; MAGICIAN [2137],,,,,,poson man
+SN000012,poisonous,abwilyep_2,,,POISONOUS [888],poisonous,,,,,poson
+SN000013,[first person dual inclusive],ada,,,,$1d.in,,,,,
+SN000014,[first person dual inclusive possessive],adaa,,,,$1d.in.poss,,,,,
+SN000015,a liana which only grows close to the sea,adoprop,,,LIANA [2388],liana,,,plants,,rop blong solwota
+SN000016,"a wind from South East, which blows in december and cools the climate",adu,,,,adu.wind,,,climate,,"South East win, hem i stap mekem ples i kolkol mo i fres long manis Disemba"
+SN000017,victory leaf; ti plant,ae,,,,victory.leaf,,"Codyline terminalis, Codiaeum variegatum",plants,,nanggaria
+SN000018,island,aelan,,,ISLAND [622],island,,,,,
+SN000019,a liana species,akrep,,,,liana.species,bffd530fd16727714b8300fd0d879017,,plants,,wan kaen rop
+SN000020,cross,akuor,,,,cross,,,,,krosem
+SN000021,well,ale,,,,well,,,,,
+SN000022,[second person singular possessive],am,,,,$2sg.poss,,,,,
+SN000023,beard,am_1,,,BEARD [678],beard,,,body,,
+SN000024,[second person singular possessive],-am,,,,$2sg.poss,,,,,
+SN000025,[second person dual possessive],amaa,,,,$2d.poss,,,,,
+SN000026,[second person paucal possessive],amsi,,,,$2pc.poss,,,,,
+SN000027,beard; moustache; fringes (of a mat or similar),amu,,,BEARD [678] ; MOUSTACHE [1165],beard,,,body,,mustas
+SN000028,[third person singular possessive],an,,,,$3sg.poss,,,,,
+SN000029,[nominalizer],an_1,,,,$nom,,,,,
+SN000030,[definite article],an_2,,,,$def,,,,,
+SN000031,"[attributive linker, plural]",an_3,,,,$al.p,,,,,
+SN000032,[third person singular possessive],-an,,,,$3sg.poss,,,,,
+SN000033,eat,ane,,,EAT [1336],eat,,,food,,kakae
+SN000034,with (an instrument),ane_1,,,,with,,,,,"wetem, yusum"
+SN000035,[transitivizer],-ane,,this is a clitic that may attach more or less closely with the preceding predicate and is often written as individual word,,$trans,,,,,
+SN000036,animal,animol,,,ANIMAL [619],animal,,,fauna,,
+SN000037,answer,ansa,,,ANSWER [1275],answer,,,,,
+SN000038,[first person paucal inclusive],ansi,,,,$1pc.in,,,,,
+SN000039,[first person paucal possessive],anyemsi,,,,$1pc.ex.poss,,,,,
+SN000040,yes,ao,,,YES [1268],yes,,,,,yes
+SN000041,hour,aoa,,,HOUR [1353],hour,,,,,
+SN000042,leave,aot,,,LEAVE [1752],leave,,,,,
+SN000043,shore crab,ap,,,,shore.crab,,,fauna ; aquatic creatures,,blak krab
+SN000044,a tree or post for fastening a pig for a ceremony,apas,,,,pig.post,,,custom,,tri blong fasem pig long hem
+SN000045,"ship, boat",LX000001,,,SHIP [740],ship,,,,,sip
+SN000046,"canoe, lit. native boat",LX000002,,,CANOE [1970],,,,craft ; custom,,kenu
+SN000047,1000 Vatu note,LX000002,,,,,,,,,pepa blong 1000 Vatu
+SN000048,fire,apyang,,,FIRE [221],fire,,,food,,faea
+SN000049,bush fire,apyang_evin,,,,bush.fire,,,climate,,bus faea
+SN000050,taboo fire,apyang_yu,,,,,,,,,tabu faea
+SN000051,place,ar,,,PLACE (POSITION) [723],place,,,,,ples
+SN000052,[first person plural inclusive (subject)],ar_1,,,,$1pl.in.sb,,,,,
+SN000053,[first person plural inclusive],-ar,,,,$1pl.in,,,,,
+SN000054,garfishes; crocodile needlefish and similar,as,,,,garfish,,"Family Hemilramphidae, Tylosaurus crocodilus",fauna ; aquatic creatures,,longmaot
+SN000055,[third person paucal possessive],asi,,,,$3pc.poss,,,,,
+SN000056,bite,ate,,,BITE [1403],bite,,,food,,kakae
+SN000057,bag; basket,atuwo,,,BAG [2468] ; BASKET [1539],bag,,,craft,,basket
+SN000058,rope,atyo,,,ROPE [1218],rope,,,craft,,rop (we oli tanem)
+SN000059,lawyer cane; rattan,LX000003,,,RATTAN [2497],rattan,,,plants ; house,,"loaken, navula"
+SN000060,"vine, rope, liana, line",aua,,,,vine,,,plants,,rop blong wan plan
+SN000061,ghost crab,aup,,,,ghost.crab,,,fauna ; aquatic creatures,,waet krab
+SN000062,mountain apple,ave,,,,mountain.apple,,,plants ; food,,nakavika
+SN000063,a liana,awes,,,LIANA [2388],liana,,,plants,,wan rop
+SN000064,[third person dual possessive],aya,,,,$3d.poss,,,,,
+SN000065,brain,ayup,,,BRAIN [1583],brain,,,body,,bren
+SN000066,hole inhabited/ created by (the possessor),b,,,HOLE [1667],hole,,,,,
+SN000067,fight,baa,,,FIGHT [1423],fight,,,,,faetem
+SN000068,hibiscus,baa_1,,,,hibiscus,,,plants,,haebiskus
+SN000069,a small melon,baakorkor,,,,small.melon,,,plants,,smol frut blong melen
+SN000070,fight; battle,baan,,,BATTLE [579],fight,,,,,faet
+SN000071,strong; courageous man ; strong.man,balip_1,,,,strong.man,,,family,,man we i strong
+SN000072,policeman,balip_1,,,,,,,,,polis
+SN000073,strong; brave,balip_2,,,BRAVE [3] ; STRONG [785],,,,,,strong
+SN000074,pumpkin,bamken,,,PUMPKIN [864],pumpkin,,,plants,,bamken
+SN000075,open one's mouth,banga,,,,open.mouth,,,body,,openem maot
+SN000076,play; have a good time; engage in leisure activities,bangbang,,,PLAY [1413],play,,,,,pleple
+SN000077,whirlwind,bangyap,,,,whirlwind,,,climate,,wael win
+SN000078,mosquito,bankyen,,,MOSQUITO [1509],mosquito,,,fauna,,moskito
+SN000079,banner,bannar,,,,banner,,,,,
+SN000080,"hull of the coconut palm, which contains its fruits as long as they are small",bao,,,,coconut.hull,,,,,pat blong kokonas we i kaverem ap ol yang frut blong hem
+SN000081,dance,bapan,,,,dance,,,custom,,danis
+SN000082,spotted grouper,bapmoro,,,,spotted.grouper,,Epinephelus magniscuttis,fauna ; aquatic creatures,,spot los
+SN000083,shoulder,bar_vyaa,,,SHOULDER [1482],shoulder,,,body,,solda
+SN000084,pig,barar,,,PIG [1337],pig,,,fauna,,pig
+SN000085,female pig,barar_ten,,,,,,,fauna,,woman pig
+SN000086,(of pigs) be a couple of a male and a female,LX000004,,,,pair,,,fauna,,wan man (pig) wetem wan woman (pig)
+SN000087,scorpionfish or lionfish,LX000005,,,,scorpionfish,,,fauna ; aquatic creatures,,stonfis
+SN000088,starfruit,barbatin,,,,starfruit,,Averrhoa carambola,plants,,faefkona
+SN000089,kava indigenous to Pentecost,barokor,,,,,,,plants ; food,,kava blong Pentikos
+SN000090,grass,barvinye,,,GRASS [606],grass,,,plants,,gras
+SN000091,grouper (fish of the family Serranidae),baryevikye,,,,grouper,,,fauna ; aquatic creatures,,los (wan kaen fis)
+SN000092,a body with good proportions,bas-,,,,strong.body,,,,,"(gudfala) saes, bodi"
+SN000093,base,basis,,,BASE [831],base,,,,,
+SN000094,banded grouper,basmir,,,,banded.grouper,,Epinephelus morhua,fauna ; aquatic creatures,,banded los
+SN000095,"bird, flying animal",LX000006,,,BIRD [937],bird,,,fauna ; birds,,pijin
+SN000096,his/ her/ its head,bat,,,HEAD [1256],head,,,body,,hed blong hem
+SN000097,skull (literally: 'demon's head'),baten_temyar,,,SKULL [1605],,,,body,,skal (hed blong devil)
+SN000098,a long-leaved grass,batever,,loan,,grass,,,plants,,grin gras
+SN000099,a sacred place which can only be accessed by authorized persons,LX000007,,,,taboo.place,,,custom,,tabu ples
+SN000100,which,-be,,,WHICH [727],which,,,,,
+SN000101,flash; lightning,bee_1,,,LIGHTNING [1654],lightning,,,climate,,laetning
+SN000102,flash,bee_2,,,FLASH (VERB) [2377],,,,,,i laetning
+SN000103,"chin and cheeks, the potentially bearded area of the face",bees,,,CHIN [1510],chin,,,body,,jin
+SN000104,twig,beke,,,BRANCH [1531],twig,,,plants,,han
+SN000105,ash,bel,,,ASH [646],ash,,,,,asis
+SN000106,the fireplace inside a kitchen hut,bel,,,,,,,,,ples blong faea long kijen
+SN000107,soot,beleebung,,,SOOT [830],soot,,,,,"jakol, blak asis"
+SN000108,door,beleem,,,DOOR [1567],door,,,house,,doa
+SN000109,do somthing you shouldn't; commit the crime of doing something,belik,,,,commit.crime.of,,,,,i gat strong tingting blong hem blong mekem
+SN000110,dust,belisokop,,,DUST [2],dust,,,climate,,das
+SN000111,slope,belor,,,,slope,,,,,saed blong hil blong go daon
+SN000112,trick; magic,LX000008,,,,trick,,,custom,,"trik, majik"
+SN000113,node,bepane,,,,node,,,plants,,ples long wan plan we yu save brekem ol lif
+SN000114,guide,beti,,,LEAD (GUIDE) [43],guide,,,,,gaed
+SN000115,island cabbage,betivyo,,,,island.cabbage,,,plants ; food,,aelan kabis
+SN000116,plant,bevyap,,,PLANT (SOMETHING) [1486],plant,,,plants ; house,,"kaverem, planem"
+SN000117,beach,bewuon,,,,beach,,,climate,,sanbij
+SN000118,body of,bi-,,,BODY [1480],body.of,,,,,
+SN000119,stick,bii,,,STICKING [254],stick,,,,,i fas long wan samting
+SN000120,a tree species with edible leaves,bii_1,,,,bii.tree,,Polyscias scutellaria,plants ; food,,nalaslas
+SN000121,stick something onto something else,biite,,,,stick,,,,,plasterem
+SN000122,time of,bili,,,,time.of,,,,,taem
+SN000123,when,bili_na,,,WHEN [1238],when,,,,,taem we
+SN000124,when?,LX000009,,,WHEN [1238],when,,,,,wanem taem?
+SN000125,"a species of tree close to Ficcus gibbosa, with edible leaves",bilip,,,,bilip.tree,,,plants,,"brata blong nambalanggo, oli kakae"
+SN000126,"a plant similar to \emph{Ficus gibbosa}, with inedible leaves",bilye,,,,fig.plant,,,plants,,brata blong nambalanggo (oli no kakae lif blong hem)
+SN000127,shark,bimesyu,,,SHARK [1110],shark,,,fauna ; aquatic creatures,,sak
+SN000128,body,bip,,,BODY [1480],body,,,body,,bodi
+SN000129,"laziness, tiredness",bip_mermer_1,,,,laziness,,,,,bodi i les
+SN000130,die,bip_mermer_2,,,DIE [1494],,,,,,i ded
+SN000131,Bislama,Bislama,,,,Bislama,,,,,
+SN000132,bishop,bisop,,,,bishop,,,,,
+SN000133,middle,bistuwo_1,,,MIDDLE [1093],middle,,,,,medel
+SN000134,in the middle,bistuwo_2,,,MIDDLE [1093],,,,,,long medel
+SN000135,rabbitfish,bisya,,,,rabbitfish,,,fauna ; aquatic creatures,,piko
+SN000136,surpass,bitim,,,SURPASS [402],surpass,,,,,
+SN000137,"(his, her) buttocks",bity,,,BUTTOCKS [834],buttocks,,,body,,ass (blong hem)
+SN000138,"brother, friend",bivian,,,FRIEND [1325] ; BROTHER (OF MAN) [559],brother ; friend,,,family,,"brata, fren"
+SN000139,two-lined bream,bivian_se_merwowo,,,,,,,fauna ; aquatic creatures,,wan kaen snapa wetem tufala straep long saed blong bodi blong hem
+SN000140,place something (e.g. leaves) over a fire to dry it,bivili,,,,smoke,,,,,sakem long faea blong i kam sopsop
+SN000141,"fence; pen (area surrounded by a fence, e.g. to keep pigs)",biyep,,,FENCE [1690],fence,,,house,,fanis
+SN000142,deaf,biyo,,,DEAF [996],deaf,,,body,,sora fas
+SN000143,blanket,blanket,,,BLANKET [806],blanket,,,,,
+SN000144,whimbrel,boa,,,,whimbrel,,Numenius phaeopus,fauna ; birds,,wan pijin blong solwota wetem longfala maot
+SN000145,digit,bokosin,,,,digit,,,body,,fingga
+SN000146,toe,bokosin_lye,,,TOE [1389],toe,,,body,,fingga blong leg
+SN000147,finger,bokosin_vyaa,,,FINGER [1303],finger,,,body,,fingga blong han
+SN000148,snake bean,bolip,,,,snake.bean,,,food ; plants,,snek bin
+SN000149,"window, gate",boloor,,,WINDOW [1375],window,,,house,,"windo, get"
+SN000150,gap,bolor,,,,gap,,,,,hol
+SN000151,hole,bon,,,HOLE [1667],hole,,,climate,,hol (blong hem)
+SN000152,pimple,bong,,complex noun,PIMPLE [1809],pimple,,,body,,lam
+SN000153,tuna,bonit,,,,tuna,,,fauna ; aquatic creatures,,bonito
+SN000154,(of a limb) be deformed by elephantiasis,boo,,,,deformed.by.elephantiasis,,,body,,solap blong sik blong bigleg
+SN000155,hole in,booli,,,,hole.in,,,,,hol
+SN000156,boat,boot,,,BOAT [1844],boat,,,,,
+SN000157,club; cudgel,bor_1,,,CLUB [1763],club,,,craft ; custom,,wan wud blong stonem wan samting
+SN000158,quiet,bor_2,,,QUIET [1314],quiet,,,,,kwaet
+SN000159,rain cloud; dark cloud,bor_bor_mirmir,,check English,,rain.cloud,,,climate,,dak klaod
+SN000160,a fire for roasting a large amount of food,borapyang,,,,,,,,,wan bigfala faea blong rusum plante kakae
+SN000161,wisdom teeth,borep,,,,wisdom.teeth,,,,,--
+SN000162,rubbish heap; the proper place to dispose of rubbish,borsyuk,,,,rubbish.heap,,,space,,hip blong doti
+SN000163,striped surgeonfish,borvi,,,,str.surgeonfish,,,fauna ; aquatic creatures,,renbofis (strongskin)
+SN000164,a traditional cudgel which is carried on a string over the shoulder,borwemedaa,,,,club,,,custom,,nalnal we yu hangem long solda
+SN000165,bone ; bone,bosi_1,,,BONE [1394],bone,,,body,,bun
+SN000166,tool for scooping a coconut out of its shell; copra chisel ; copra.chisel,bosi_1,,,,copra.chisel,,,coconut,,skru
+SN000167,bone of,bosi_2,,,,bone.of,,,,,
+SN000168,boss,boss,,,,boss,,,,,
+SN000169,cat,bosu,,,CAT [1208],cat,,,fauna,,puskat
+SN000170,boat,bot,,,BOAT [1844],boat,,,,,
+SN000171,firebrand; piece of burning wood,botingis,,,,firebrand,,,food,,stik faea
+SN000172,an abandoned field; an old garden,bototo,,,,abandoned.field,,,,,wan garen we i olfala finis
+SN000173,southern strikebill,bowa,,,,,,,fauna ; birds,,wan kaen pijin
+SN000174,worm; insect,bowa_1,,,INSECT [620],worm,,,fauna,,bebet
+SN000175,box fish and similar,bowop,,,,box.fish,,,fauna ; aquatic creatures,,bokis fis
+SN000176,bury,bowop_1,,,BURY [1719],bury,,,,,berem
+SN000177,porcupinefish,bowop_sini_wemu,,,,porcupinefish,,,fauna ; aquatic creatures,,"balongfis, nilfis"
+SN000178,pheasant dove,boyep,,,,pheasant.dove,,,fauna ; birds,,wan kaen pijin: longfala tel
+SN000179,brown,braon,,check ps!,BROWN [2409],brown,,,,,
+SN000180,hurricane,brongis,,,,hurricane,,,climate,,ariken
+SN000181,smell,bu,,,,smell,,,,,smel (blong hem)
+SN000182,back of,bu_1,teve,,BACK (PART) [2323],back.of,,,,,baksaed blong hem
+SN000183,book,buk,,,BOOK [963],book,,,,,
+SN000184,cattle,buluk,,,CATTLE [1153],cattle,,,,,
+SN000185,hole ; hole,buluwu,,,HOLE [1667],hole,,,space,,hol
+SN000186,lavabed,buluwu,,,,,,,,,krik
+SN000187,ring of stones inside which laplap is prepared ; stone.oven,buluwu,,check oven and revise glosses,,stone.oven,,,food,,hol blong laplap
+SN000188,grunt ; grunt,bun,,,,grunt,,,,,"(wan puluk, pig etc) i singaot"
+SN000189,coo ; coo,bun,,,,coo,,,fauna ; birds,,mekem saon we nawimba i stap mekem
+SN000190,joint,bun_1,,,JOINT [999],joint,,,body,,ni
+SN000191,next to; at,bun_2,,,AT [1461],next.to,,,,,kolosap
+SN000192,knee,bun_lye,,,KNEE [1371],knee,,,body,,ni
+SN000193,eyebrow,bun_myar,,,EYEBROW [1173],eyebrow,,,body,,aebro
+SN000194,elbow,bun_vyaa,,,ELBOW [981],elbow,,,body,,elbo
+SN000195,buff-bellied fly catcher,bunbun,,,,fly.catcher,,,fauna ; birds,,wan smol pidjin wetem yelo bel
+SN000196,mouth ; mouth,bung_1,,,MOUTH [674],mouth,,,body,,maot
+SN000197,cape,bung_1,,,CAPE [1662],,,,,,poen
+SN000198,soot,bung_2,,,SOOT [830],soot,,,food,,jakol
+SN000199,moon,bung_miyaa,,,MOON [1313],moon,,,,,mun i saen
+SN000200,be unconscious; be without a mind ; be.unconscious,bungbung,,childrens' play,,be.unconscious,,,,,i no save wan samting
+SN000201,be bewitched or cursed in a way that one cannot utter a word or sound,bungbung,,first given as lun mwe bungbung,,,,,,,i no save toktok from poison
+SN000202,triggerfish,bungbweetuwu,,also: bungbungbweetuwu,,triggerfish,,,fauna ; aquatic creatures,,sanpepafis
+SN000203,coal,bungmerip,,probably coal,COAL [2658],coal,,,food,,"jakol, kol"
+SN000204,smell,bungse,,,SMELL (PERCEIVE) [1586],smell,,,body,bungus,smelem
+SN000205,snort; snore; breath noisily while sleeping,bunguo,,,SNORE [1983],snort,,,body,,mekem noise blong pulum win (long silip)
+SN000206,smell,bungus,,,,smell,,,,bungse,smel
+SN000207,"several species of fish, comprising bigeye and soldierfish",bunkyen,,,,bigeye,,,fauna ; aquatic creatures,,"sam kaen fis olsem bigae, redfis"
+SN000208,boar,buo,,,BOAR [1348],boar,,,fauna,,man pig
+SN000209,stink,buo_1,,,SMELL (STINK) [1587],stink,,,,,sting
+SN000210,non-castrated pig,buo_lisyu_1,,,,non.castrated.pig,,,fauna,,pig we i gat bol yet
+SN000211,a boar which has not been castrated,buo_lisyu_2,,,,not.castrated,,,fauna,,pig we i gat bol yet
+SN000212,castrated pig,buo_ten,,,,castrated.pig,,,fauna,,pig we i nomo gat bol
+SN000213,red mat,buonbuon,,,,red.mat,,,,,red mat
+SN000214,black lizard,buonip,,,,black.lizard,,,fauna,,blak lised
+SN000215,mushroom,buoo,,,MUSHROOM [641],mushroom,,,plants ; food,,"masrum, sompiniong"
+SN000216,sponge,buoo_ne_tes,,,,sponge,,,plants,,sponj
+SN000217,short,buorwur,,,SHORT [1645],short,,,,,sot
+SN000218,tumble,bup,,,,tumble,,,,,"tanem, i kavsaed"
+SN000219,convict surgeonfish,buperper,,,,surgeonfish,,,fauna ; aquatic creatures,,strongskin
+SN000220,unable to speak; dumb,bur,,,DUMB [1492],dumb,,,body,,nambut
+SN000221,clotted blood,bura,,,BLOOD [946],blood,,,body,,"blad we i strong, i no save ron"
+SN000222,bush,bush,,,BUSH [1683],bush,,,,,
+SN000223,hill,butantan,,,HILL [614],hill,,,,,hil
+SN000224,heap; pile,buu,,,,heap.of,,,,,hip
+SN000225,be broken,buu_1,,,,be.broken,,,,,i brok
+SN000226,stink,bu-wuo,,,,$redup-stink,,,,,
+SN000227,[continuos aspect marker],bwe,,,,$cont,,,,,
+SN000228,mark,bwe_1,,,,mark,,,,,"mak, point"
+SN000229,"swear, curse",bweak,,,,swear,,,,,swea
+SN000230,hairy parts of a plant ; treefern.hair,bweang,,,,treefern.hair,,,plants,,hea blong wan plan
+SN000231,the first rank; the rank of the carpenter ; carpenter.rank,bweang,,,,carpenter.rank,,,custom,,"fes rang, rang blong kapenta"
+SN000232,container; vessel,bwee,,,,container,,,,,"olgeta samting we yu save fulum ap samting insaed, olsem plet, sospen, baket"
+SN000233,green snail,bwee_bek,,,,green.snail,,,fauna,,grin snel
+SN000234,plate,bwee_ne_enan,,,PLATE [480],plate,,,,,pelet
+SN000235,pot,LX000010,,,POT [1462],pot,,,,,"sospen, marmit"
+SN000236,the fibrous husk of a coconut,LX000011,,,,coconut.husk,,,coconut,,skin blong kokonas
+SN000237,husk,LX000012,,,,husk,,,plants ; coconut,,skin blong kokonas
+SN000238,shell of a coconut,bwee_yas_5,,,,coconut.shell,,,coconut,,sel blong kokonas
+SN000239,a magic device for underwater travel,bweebwi,,,,magic.submarine,,,custom,,kastom sabmarin
+SN000240,limpet,bweedaeng,,,,,,,,,wan kaen sel we i fas long ol ston
+SN000241,reef crab,bweeliyep,,,,reef.crab,,,fauna ; aquatic creatures,,rif krab
+SN000242,trocha,bweeyaa,,,,,,,fauna ; aquatic creatures,,troka
+SN000243,cave,bwele,,,CAVE [1155],cave,,,climate,,kev
+SN000244,the half of a coconut shell which looks like a face,bwelem,,,,coconut.half,,,plants ; coconut,,haf blong sel blong kokonat we i gat wan fes blong hem
+SN000245,leaf (branch) of a palm tree or similar,bwenges,,,BRANCH [1531],branch,,,plants,,han
+SN000246,nail (of a finger or toe),bwengi,,,FINGERNAIL OR TOENAIL [1896],nail,,,body,,sel fingga
+SN000247,nail of finger or toe,bwengin,,,FINGERNAIL OR TOENAIL [1896],,,,body,,
+SN000248,toenail,bwengin_lye,,,,,,,body,,
+SN000249,fingernail,bwengin_vyaa,,,,,,,body,,
+SN000250,cowtao; bow,bwenu,,check English,,kotao,,,,,bao
+SN000251,be at; stay,bwer,,,REMAIN [987],be.at,,,,,stap
+SN000252,[aspect marker: change of state],bwet,,,,$cos,,,,,jes
+SN000253,gossip about someone ; gossip.about,bwetene,,,,gossip.about,,,,,tokbaot
+SN000254,determine ; determine,bwetene,,,,determine,,,,,putum (wan det)
+SN000255,trunk; a big specimen of something,bweti,,,,trunk,,,plants,,stampa
+SN000256,pejorative for 'head' (literally: 'a big specimen of a head'),bweti_kor,,seperate subentry,,,,,,,hed
+SN000257,stem of tree fern,LX000013,,,,tree.fern.stem,,,plants,,stampa blong blak palm
+SN000258,(at the conclusion of a story) and this is why...,LX000014,,,,this.is.why,,,,,(long en blong wan stori) hem ia nao from wanem...
+SN000259,"rock, literally: 'a big specimen of a stone'",bweti_vyor,,,ROCK [668],rock,,,,,bigfala ston
+SN000260,butterfly,bwii_1,,,BUTTERFLY [1791],butterfly,,,fauna,,bataflae
+SN000261,close the eyes ; close.eyes,bwii_2,,,CLOSE THE EYES [2211],close.eyes,,,body,,sarem ae
+SN000262,pray; say grace ; say.grace,bwii_2,,,PRAY [24],say.grace,,,custom,,"gres, pre"
+SN000263,blind,bwii_3,,,BLIND [1653],blind,,,body,,blaen
+SN000264,hole; place (defined in terms of what created it or what it contains),bwili,,,HOLE [1667],hole,,,climate ; space,,"hol, ples"
+SN000265,anus,bwili_taten,,,ANUS [1935],anus,,,body,,as
+SN000266,village,bwili_teenem,,,VILLAGE [930],village,,,space,,vilij
+SN000267,sea,bwili_tes,,,SEA [1474],sea,,,space,,(ples blong) solwota
+SN000268,pool,bwili_wye,,,,pool,,,space,,pul
+SN000269,cavity (of the body),bwilin,,,,cavity.of,,,body,,hol (long bodi)
+SN000270,mouth of,bwilin_p-,,,,mouth.of,,,body,,
+SN000271,mouth,bwilin_pwe,,,MOUTH [674],mouth,,,,,maot blong hem
+SN000272,her/ his anus (literally: 'hole of her/ his feces'),bwilin_syen,,,,anus.$3sg.poss,,,body,,as blong hem
+SN000273,throw; sling,bwiline,,,THROW [1456],throw,,,,,"troem, slingim"
+SN000274,throw something away,bwilisyaane,,,,throw.away,,,,,sakem i lus
+SN000275,banded rail,bwilya,,,,rail,,,fauna ; birds,,nambilak
+SN000276,seawater pool,bwilyo,,,,pool.of.seawater,,,space,,pul blong solwota
+SN000277,kitchen hut,bwinyap,,,KITCHEN [1365],kitchen,,,house,,kijen
+SN000278,pass under; go into,bwis,,,,pass.under,,,space,,pas
+SN000279,break an elongated object in two with both hands,bwiti,,,BREAK (DESTROY OR GET DESTROYED) [680],break,,,,,brekem wan samting yusum tufala han
+SN000280,leaf in which food is prepared and served,bwitir,,,,leaf,,,food,,lif we kakae i stap insaed long hem
+SN000281,buttocks,bwity,,,BUTTOCKS [834],ass,,,body,,as
+SN000282,blink,bwiwikrum,,,BLINK [1655],blink,,,body,,blink
+SN000283,(of a roof) diagonal bamboo poles which carry the thatch slabs made of sago palm leaves,bwiwo,,,,roof.poles,,,house,,ol bambu we ol taj i sidaon long hem
+SN000284,song ; song,bwye,,,SONG [1096],song,,,custom,,singsing
+SN000285,slit.drum ; slit drum,bwye,,,,slit.drum,,,,,tamtam
+SN000286,plant,bya,,epenthetic p,PLANT (SOMETHING) [1486],plant,,,plants ; house,,planem
+SN000287,hawk,byaa,,,HAWK [307],hawk,,,fauna ; birds,,pijin blong kakae faol
+SN000288,bag,byaek,,,BAG [2468],bag,,,,,
+SN000289,circumcision,byakvi,,,CIRCUMCISION [393],circumcision,,,custom,,circumcision
+SN000290,elevated platform; bed; bench,byar,,,BED [1663] ; BENCH [2584],platform,,,house,,floa
+SN000291,platform of a copra oven on which the copra is smoked,LX000015,,,,copra.bed,,,coconut,,kopra bed
+SN000292,lightning,byata,,,LIGHTNING [1654],lightning,,,climate,,tanda
+SN000293,be perpendicular to something; cross,byavya,,,,be.perpendicular,,,,,krosem
+SN000294,praying mantis,byayup,,,,,,,fauna,,wan insekt we i kakae ol lif
+SN000295,depth; a place far below the reference point,byun,,,DEPTH [2534],depth,,,space,,dip ples
+SN000296,captain,captain,,,,captain,,,,,
+SN000297,catechist,catechiste,,,,catechist,,,,,
+SN000298,hundred,cent,,,HUNDRED [1634],hundred,,,,,
+SN000299,center,Center,,,CENTER [491],center,,,,,
+SN000300,church,church,,,CHURCH [1349],church,,,,,
+SN000301,clinic,clinic,,,HOSPITAL [616],clinic,,,,,
+SN000302,[first person dual inclusive],da,,,,$1d.in,,,,,
+SN000303,"liquid, running blood",da_1,,,BLOOD [946],blood,,,body,,blad
+SN000304,native lychee,da_2,,,,lychee,,,plants ; food,,nandao
+SN000305,voice; language,daa,,,LANGUAGE [1307] ; VOICE [1363],voice ; language,,,body,,"lanwij, voes"
+SN000306,[first person dual inclusive possessive],daa_1,,,,$1d.in.poss,,,,,
+SN000307,shine,daa_2,,,SHINE [708],shine,,,climate,,saen
+SN000308,[first person dual inclusive possessive],-daa,,,,$1d.in.poss,,,,,
+SN000309,name of the language of this dictionary,Daakaka,,,,Daakaka,,,,,nem blong lanwij blong dictionary ia
+SN000310,belch,daakuon,,,BELCH [2245],belch,,,body,,traot win
+SN000311,shine; glow; be colorful,daara,,,SHINE [708],be.colorful,,,,,(wan samting) i gat plante kala
+SN000312,frigate bird,dael,,,,"frigate,bird",,,fauna ; birds,,pijin blong ariken
+SN000313,just; recently; only a short while ago,dakap,,,JUST [84],recently,,,,,"jes, i no long taem"
+SN000314,egg,dal,,,EGG [744],egg,,,,,
+SN000315,egg of,dal-,,,,egg.of,,,birds ; fauna,,
+SN000316,answer ; answer,dam,,,ANSWER [1275],answer,,,,,ansa
+SN000317,agree ; agree,dam,,,,agree,,,,,agri
+SN000318,a tree species,damdam,,,,damdam.tree,,Cordia dichotoma,plants,,"glutri, bulu"
+SN000319,damage,damis,,,DAMAGE [1116],damage,,,,,
+SN000320,spider; spider web,damo,,"in Sesivi: spider net, in Emyotungan: spider",SPIDER [843],spider,,,fauna,,spaeda net blong spaeda
+SN000321,cocoon; the insect living in a cocoon,dangdang,,,,cocoon,,,fauna,,wan bebet we i mekem wan sel blong hem blong haed insaed long hem
+SN000322,sprinkle something (onto food),dange,,,,sprinkle,,,,,kavsaed
+SN000323,pluck (fruit or flowers),dapkuwu,,,,pluck,,,food,LX000017,karemaot (flaoa o frut)
+SN000324,crazy; mentally retarded,dedene,,,MAD [1899],crazy,,,,vuvuop,"kranki, hafhaf"
+SN000325,egg of,deli,,,,egg.of,,,fauna ; birds,,eg
+SN000326,cry; weep,deng,,,CRY [1839],cry,,,,,krae
+SN000327,snot,dep,,,NASAL MUCUS (SNOT) [208],snot,,,body,,wota blong nus
+SN000328,centipede or millipede,dereli,,,,millipede,,,fauna,,wan insekt we i gat fulap leg
+SN000329,describe,deskraebem,,,,describe,,,,,
+SN000330,pluck,dewa,,,,pluck,,,,,
+SN000331,rainbow,dewenep,,,RAINBOW [1733],rainbow,,,climate,,renbo
+SN000332,half; part,di,,,HALF [816] ; PART [779],part.of,,,,,haf
+SN000333,want,dimyane,,,WANT [1784],want,,,,,wantem
+SN000334,"think (of), consider",dimye,,see dirimye ; [e],THINK (REFLECT) [1415],think,,,,,tingbaot
+SN000335,mat,ding,,,MAT [195,mat,,,craft,,mat
+SN000336,smooth edges,ding_tawaka,,,,smooth.edges,,,custom,,wan kaen mat
+SN000337,a mat where two coconut leaves are woven together and the unwoven halfs are removed from the central rib,ding_taweka,,,,taweka.mat,,,,,"mat we oli brekem haf blong lif kokonas, mekem se bun blong tufala lif i stap long tufala saed blong mat"
+SN000338,"a mat made of a single coconut leaf, both sides of which are woven together",ding_ten,,,,local.mat,,,,,mat we oli tekem tufala saed blong wan han kokonas mo wivim tugeta
+SN000339,no idea; 'I do not know',dingyen,,,,no.idea,,,,,no save
+SN000340,edible fern,diprip,,reduplication,,creek.cabbage,,,plants ; food,,kabis blong krik
+SN000341,be careful; watch out,dirimye,,reduplication of dimye,,be.careful,,,,,lukaot
+SN000342,pass through thick undergrowth or a similar difficult passage,dis,,,,pass.through,,,,,"pas tru long wan ples we i had blong go, olsem tik bus"
+SN000343,break,dis_1,,,BREAK (DESTROY OR GET DESTROYED) [680],come.apart,,,,,kam aot
+SN000344,draw back; pull out,disi,,,PULL OUT [2325],draw.back,,,,,(wan man i) pulum bak hem i go
+SN000345,half of it; part of it,disye,,,PART [779],part,,,,,haf blong hem
+SN000346,larva of a mosquito,diwi,,,,mosquito.larva,,,fauna,,pikinini blong moskito we i stap long wota
+SN000347,"(his, her) speech; what she/he said",diy,,,,word.of,,,,,toktok (blong hem)
+SN000348,speech; words,diyu,,,SPEECH [1115],speech,,,,,toktok
+SN000349,swallow,doame,,,SWALLOW [897],swallow,,,food ; body,,solem daon
+SN000350,snort; sob; noisily suck in air,dokinis,,,,snort,,,body,,mekem noes blong pulum win
+SN000351,pull,doko,,,PULL [1455],pull,,,,,pulum
+SN000352,pull something out,dokokuwu,,,PULL OUT [2325],pull.out,,,,,pulum aot
+SN000353,pull,dokone,,,PULL [1455],pull,,,,,pulum
+SN000354,smoke (literally: 'pull smoke'),dokone_yes,,,,smoke,,,,,smok
+SN000355,dentist,dokta_ane_ep,,,,dentist,,,,,dokta blong tut
+SN000356,yam,dom,,,YAM [410],yam,,,food ; plants,,yam
+SN000357,year ; year,dom,,,YEAR [1226],year,,,,,yia
+SN000358,today,doma,,,TODAY [1283],today,,,,,tede
+SN000359,(of a baby) suck,domesi,,,SUCK [1421],suck,,,body,simsimi,"susu, titi"
+SN000360,lead; precede; go first,domo,,,,precede,,,,,go festaem
+SN000361,[TAM-marker]; whether,doo,,"lax long o, contrast with doo, maggott, tense long o",,$doo,,,,,
+SN000362,expand (resultative),doon,,,,$res.expand,,,,,joinem
+SN000363,precede (reduplication),do-romo,,,,$redup-precede,,,,,
+SN000364,dress,dress,,,DRESS UP [814],dress,,,,,
+SN000365,be drunk,drong,,,DRUNK [1463],be.drunk,,,,,
+SN000366,maggot state of a woodborer,drowen,,,,maggot,,,fauna,,bebet blong wud
+SN000367,be located at; stay; continuous marker,du_1,,,REMAIN [987],stay,,,,,stap
+SN000368,custom; tradition; the old ways,duan_myato,,,CUSTOM [1747],tradition,,,custom,,"kastom, fasin blong bifo"
+SN000369,sound; language,dulu,,,LANGUAGE [1307] ; SOUND OR NOISE [1811],sound,,,,,saon
+SN000370,make noise,dum,,,,make.noise,,,,,mekem noise
+SN000371,whale,dumdumleevyo,,,WHALE [957],whale,,,fauna ; aquatic creatures,,welfis
+SN000372,shoot,dumu,,,,shoot,,,,,sut
+SN000373,stay (reduplication),du-ru,,,,$redup-stay,,,,,
+SN000374,each of the two narrower sides of a house,duwur,,,WALL (OF HOUSE) [933],wall,,,house,,"tufala sot wol blong haos (wan i long fored, wan i long beaen)"
+SN000375,"the half of a coconut shell without holes, which is used for drinking kava",duwur_1,,,,coconut.half,,,plants ; coconut,,haf blong sel blong kokonas we em i blong dring kava
+SN000376,lack,dyanga,,,LACK (NOT HAVE) [2329],lack,,,,,i no gat
+SN000377,"be empty, be devoid",dyu,,,EMPTY [1624],be.empty,,,,,i no gat
+SN000378,drown,dyun,,,DROWN [1904],drown,,,,,draon
+SN000379,be devoid of,dyune,,,,be.devoid.of,,,,,"i no gat (wan man, wan samting)"
+SN000380,finally do something,dyunga,,,,finally,,,,,jes finisim nao
+SN000381,follow; come later,LX000016,,,FOLLOW [1085],follow,,,,,go beaen
+SN000382,(of fruit or flowers) pluck,LX000017,,,,pluck,,,food,dapkuwu,karemaot (frut long wan stampa)
+SN000383,wild,LX000018,,,,wild,,,fauna,,wael
+SN000384,maggot,LX000019,,,,maggot,,,fauna,,"maggot, bebet"
+SN000385,dark bush; deep in the woods,LX000020,,,,dark.bush,,,climate,,dak bus
+SN000386,"[attributive linker, singular]",e,,,,$al.s,,,,,
+SN000387,[demonstrative],e_1,,,,$dem,,,,,
+SN000388,hey,e_2,,,,hey,,,,,
+SN000389,[instrumental],e-,,,,$instr,,,,,
+SN000390,"[attributive linker, singular]",-e,,,,$al.s,,,,,
+SN000391,[epenthetic consonant],-e_2,,silbische Erweiterung beim Singen,,$ep,,,,,
+SN000392,a small species of grasshoppers,ebe,,,,small.grasshopper,,,fauna,,smol grasopa
+SN000393,sin,ebe_1,,,,sin,,,,,"sin, nogud samting"
+SN000394,swiftlet,ebevyap,,,,swiftlet,,,fauna ; birds,,"wan smol pijin, i stap flae long solwota"
+SN000395,remora; suckerfish; sharksucker,ebivian,,,,remora,,,fauna ; aquatic creatures,,paelet fis
+SN000396,stone; throw stones or sticks at someone,ebu,,,,stone,,,,,stonem
+SN000397,wing,ebya,,,WING [1257],wing,,,body ; fauna ; food,,wing
+SN000398,tail (of a bird),ebyalun_syen,,,,bird.tail,,,,,tel (blong wan pijin)
+SN000399,eyelashes (literally: 'wing of the eye'),ebyaon_myar,,,EYELASH [1540],eyelashes,,,body,,gras blong eye
+SN000400,moon ; moon,ebyate,,,MOON [1313],moon,,,climate,,mun
+SN000401,month,ebyate,,,MONTH [1370],,,,,,manis
+SN000402,take; carry,edi,,,CARRY [700] ; TAKE [1749],take,,,,,karem
+SN000403,no,ee,,,NO [1269],no,,,,,no
+SN000404,key,egigi,,,KEY [1472],key,,,craft,,ki
+SN000405,towel,eguokuo,,,TOWEL [1021],towel,,,craft,,taoel
+SN000406,clothes,ekaakaa,,,CLOTHES [1895],clothes,,,craft,,clos
+SN000407,no; I won't,eki,,,NO [1269],no,,,,,mi no wantem
+SN000408,vehicle,ekukuo,,,VEHICLE [2549],vehicle,,,craft,,"trak, moto, paskel"
+SN000409,a rope which is fastened to a wild cane spear in a spear throwing competition,ekulum,,or akulum,,wild.cane.rope,,,,,rop blong sakem wael ken
+SN000410,exchange,ekuokuo,,,EXCHANGE [2509],exchange,,,,,iksjenis
+SN000411,a short post planted in the ground and with a sharpened end used to remove the fibrous husk of a coconut,ekyen,,,,dehusking.post,,,craft ; coconut,,wud we oli yusum blong skinim kokonat
+SN000412,dig (a single hole),eli,,,DIG [1418],dig,,,,,digim
+SN000413,[diminutive],-eli,,,,$dim,,,,,
+SN000414,generation,elingling,,,,generation,,,family,,generesen
+SN000415,house,em,,,HOUSE [1252],house,,,house,,haos
+SN000416,[second person singular possessive],-em,,,,$2sg.poss,,,,,
+SN000417,a taboo house or nakamal,em_yo,,mwe yo,,,,,,,"tabu haos, nakamal"
+SN000418,triton trumpet,emyadu,,,,triton.trumpet,,,fauna ; aquatic creatures,,pupu sel
+SN000419,memento; keepsake,emyarmyar,,,,memento,,,,,mak blong mekem se wan man i no fogetem wan samting
+SN000420,eat ; eat,en,,,EAT [1336],eat,,,food,,kakae
+SN000421,burn,en,,,BURN [2102],,,,,,bonem
+SN000422,"this, [demonstrative]",en_1,,pronoun and article,THIS [1214],$dem,,,,,(samting) ia
+SN000423,[nominalizer],en-,,,,$nom,,,,,
+SN000424,[third person singular possessive],-en,,,,$3sg.poss,,,,,
+SN000425,[demonstrative],ene,,,,$dem,,,,,
+SN000426,mullet,enes,,,,mullet,,,fauna ; aquatic creatures,,malet
+SN000427,wind; breath,eng,,,BREATH [870] ; WIND [960],wind,,,climate ; body,,win
+SN000428,"a wind from the west which brings rain and heat, occurring around december.",eng_buaa,,,,West.wind,,,climate,,South West mo North West mo West win we hem i save kam tugeta wetem `adu' mo hem i givim ren mo hot weta.
+SN000429,lift something up in order to see what is underneath,enga,,,,look.under,,,,,karemaot samting we i blokem
+SN000430,watch something or someone secretly while hidden; spy; peep,engdir,,,,peep,,,,,i haed i watchem
+SN000431,red snapper,engmiya,,,,red.snapper,,,fauna ; aquatic creatures,,red snapa
+SN000432,this,enke,,,THIS [1214],this,,,,,
+SN000433,[first person dual exclusive],enma,,,,$1d.ex,,,,,mitufala
+SN000434,yawn,enmya,,,YAWN [1028],yawn,,,body,,"pulum win i strong, taem yu harem yu taet"
+SN000435,[first person inclusive possessive],-ensi,,,,$1pc.in,,,,,
+SN000436,the first one,enswaan,,,,,,,,,fes wan
+SN000437,eat something for the first time,entupuosane,,,,,,,,,festaem blong kakae wan samting
+SN000438,[first person plural exclusive possessive],enyem,,,,$1pl.ex.poss,,,,,blong mitufala
+SN000439,honeyeater (a kind of bird),ep,,,,honeyeater,,,fauna ; birds,,longfala maot
+SN000440,tooth,ep_1,,,TOOTH [1380],tooth,,,body,,tut
+SN000441,reef crab,epmir,,,,reef.crab,,Atergatopsis,fauna ; aquatic creatures,,rif crab
+SN000442,bible,epupuop,,,,Bible,,,,,Baibol
+SN000443,[first person plural inclusive object],er,,,,$1pl.in.ob,,,,,yumi
+SN000444,area,eria,,,,area,,,,,
+SN000445,hot; warm,LX000021,,,HOT [1286] ; WARM [1232],warm,,,climate,,hot
+SN000446,"black ant, which bites",es,,,,black.ant,,,,,
+SN000447,branch that connects a fruit to a tree,ese,,,,fruit.branch,,,plants,,han blong wan tri we wan frut i fas long hem
+SN000448,see,esi,,,SEE [1409],see,,,,,lukim
+SN000449,try (resultative),-esi,,,,$res.try,,,,,
+SN000450,a length of wood with which a woven bamboo wall is fixed onto the posts of a house,esisilyap_ver,,complex noun phrase,,,,,house,,wud we i blokem bambu blong wol blong wan haos
+SN000451,"the final horizontal beam underneath both sides of a roof, keeping off rain drops from the wall",esyapsyap_wetii,,,,,,,,etumtum_wetii,wud long saed blong ruf we emi aotem ren
+SN000452,spoon; piece of the wood of a young burao with the function of a spoon,esye,,,SPOON [1378],spoon,,,craft ; food,,spun
+SN000453,lock,LX000022,,,LOCK [1596],lock,,,house,,lok
+SN000454,post,etep,,,POST [281],post,,,house,,post
+SN000455,"either of two long posts in the middle of two opposing walls, supporting the roof",etep_man,,better explanation,,long.post,,,house,,
+SN000456,shorter posts around the walls and in the corners of a house,etep_vyaven,,,,short.post,,,house,,post blong ol wol mo kona
+SN000457,at the sea,etes,,,,at.the.sea,,,space ; climate,,long solwota
+SN000458,"a traditional club, used to kill pigs and for fight, usually adorned with a carved face",eteta,,,CLUB [1763],club,,,custom,,nalnal
+SN000459,broom made of the ribs of coconut leaves,etewes,,,BROOM [245],broom,,,craft,,brum
+SN000460,"the final horizontal beam underneath each of the edges of a roof, keeping of rain drops from the wall",etumtum_wetii,,,,,,,house,esyapsyap_wetii,wan wud long ruf we i mekem se bambae ol drop long ren i jam daon lowe long haos
+SN000461,a bundle of coconuts,eveli_vyos,,,,coconut.bundle,,,,,bandel kokonas
+SN000462,even,even,,"word classes, loans",,even,,,,,
+SN000463,stick for carrying larger items,LX000023,,,,,,,,,wud blong karem ol samting long hem
+SN000464,"name of a star, which indicates that the crops are ready for harvest ; evevyo.star",LX000023,,,,evevyo.star,,,climate,,wan sta we wok blong hem i blong soem long yumi se kakae i redi blong harvestem nao
+SN000465,bundle of banana,evis,,,,banana.bundle,,,plants ; food,,bandel blong banana
+SN000466,bundle,evyung,,,,bundle,,,plants,,bandel
+SN000467,[interjection],ewe,,,,$intj,,,,,
+SN000468,birch; whip; rod for whipping someone,ewelis,,Rute,,whip,,,craft,,branis o rop blong wivim wan man
+SN000469,either of the poles that connect an outrigger to a canoe,eweta,,,,outrigger.pole,,,craft,,wud we oli nilim i go long nasama
+SN000470,beams of a roof parallel to the long side of a hut,ewewe,,,,roof.beams,,,house,,longfala wud we i sidaon long ol post blong haos
+SN000471,example,example,,,,example,,,,,
+SN000472,[interjection],ey,,,,$intj,,,,,
+SN000473,white eye,eya,,,,white.eye,,,fauna ; birds,,nalaklak
+SN000474,[third person dual possessive],-eya,,,,$3d.poss,,,,,
+SN000475,knife,eye,,,KNIFE [1352],knife,,,craft,,naef
+SN000476,"something to listen to, like a radio",eyungyungta,,suggested by Donatien,,,,,,,"samting blon lesen, olsem redio"
+SN000477,family,famili,,,FAMILY [194],family,,,,vyale,
+SN000478,first,fes,,"the position of this adjective is in Bislama, that is prenominal, instead of postnominal as usual in Daakaka.",FIRST [728],first,,,,,
+SN000479,phone,fon,,,TELEPHONE [1379],phone,,,,,
+SN000480,fry,franem,,,FRY [991],fry,,,,,
+SN000481,football,futbol,,,,football,,,,,
+SN000482,green lizard,gaa,,,,green.lizard,,,fauna,,grin.lised
+SN000483,a star which indicates that it will be morning soon,gaakaa,,,,gaakaa.star,,,climate,,nem blong wan sta we hem i soem se kolosap delaet i kam tru i no long taem
+SN000484,noisefully gathering spit before spitting out,gaapus,,,,gather.spit,,,body,,mekem saon bifo we yu spit aot
+SN000485,wipe; (to) towel,gae,,,WIPE [1454],rub,,,body,,"waepem, rabem"
+SN000486,"any bony or claw-like extremities, like the legs of a crab or insect or the claws of a bird",gakal,,redo definition,,arthropod.leg,,,fauna,,ol leg (blong wan insect o crab)
+SN000487,government,gavman,,,GOVERNMENT [815],government,,,,,
+SN000488,dry,LX000024,,,DRY [1398],dry,,,,,drae
+SN000489,be like,ge,,,,be.like,,,,,olsem
+SN000490,flying fox,gee,,,,flying.fox,,,fauna,,flaeng fokis
+SN000491,bottom; end; remains,gee_1,,,BOTTOM [690] ; END (OF SPACE) [742] ; REMAINS [838],bottom.of,,,plants,,"botom, en"
+SN000492,ray,gee_ne_tes,,,,ray,,Dasyatidae,fauna ; aquatic creatures,,flaeng fokis blong solwota
+SN000493,bat,gee_virvir,,,BAT [1793],bat,,,,,smol flaeng fokis
+SN000494,be colorful,gekean,,,,be.colorful,,,,,gat plante kala
+SN000495,cover (reduplication),ge-ker,,reduplication,,$redup-cover,,,,,
+SN000496,lie (reduplication),ge-kerase,,,,$redup-lie,,,,,
+SN000497,ear of,geliny-,,,,ear.of,,,,,
+SN000498,ear,gelinya,,,EAR [1247],ear,,,body,,"ia, sora, natalingan"
+SN000499,make; use; process; affect,gene,,,MAKE [734] ; USE (VERB) [2072],make,,,,,"mekem, wokem"
+SN000500,cover (build walls),ger,,,,cover,,,house,,kaverem ap
+SN000501,cheat; lie,gerase,,,BETRAY [1902],cheat,,,,,kiaman
+SN000502,lie; be false; say something false,geres,,,LIE (MISLEAD) [601],lie,,,,,kiaman
+SN000503,"node; the place where a leaf or petiole diverges from the stem of a plant such as taro or banana, and where it can easily be torn off ; node.of",gevi,,,,node.of,,,plants,bepane,ples long wan plan we yu save brekem ol lif
+SN000504,scale ; scale.of,gevi,,,SCALE [266],scale.of,,,fauna,,skal (blong fis etc)
+SN000505,do,gi,,,DO [813],do,,,,,mekem
+SN000506,trouble; poverty,gigivetu,,,,trouble,,,,,trabol
+SN000507,be the same,gigyen,,,SAME [200],the.same,,,,,semak
+SN000508,(of small birds like the honeyeater) chirp; tweet,gii,,,,chirp,,,fauna ; birds,,mekem noes we ol smolfala pijin i mekem
+SN000509,be the same,gikis,,,SAME [200],the.same,,,,,semak
+SN000510,carve out; grind,gili_1,,check vowel length,GRIND [1033],grind,,,craft,,digim
+SN000511,end,gili_2,,,END (OF SPACE) [742],end,,,,,en
+SN000512,tail of,gily-,,,,tail.of,,,,,
+SN000513,buy (a single item); pay the bride price for a woman,gilye,,check Brautpreis entrichten,BUY [1869],buy,,,,,pem
+SN000514,way,gini,,,,way,,,,,we
+SN000515,inconsiderate; obstinate; not conforming to social expectations and obligations,giri,,,OBSTINATE [1842],inconsiderate,,,,,"i no save sem, i no rispek"
+SN000516,imitate,gityuptyup,,,IMITATE [117],imitate,,,,,mekem wanem we wan narafala man i stap mekem
+SN000517,like this,giye,,,,like.this,,,,,olsem
+SN000518,crawl,go,,,CRAWL [96],crawl,,,body,,"(wan bebet i) wokbaot foleg, i krip"
+SN000519,go ahead,gohed,,,,go.ahead,,,,,
+SN000520,writhe; wriggle,goli,,,,writhe,,,fauna,,tantanem olbaot (olsem wan snek)
+SN000521,lined sweetlips,golibwilya,,,,,,,fauna,,tiklips (wan kaen fis)
+SN000522,claw; talon,golin_vyaa,,,CLAW [72],claw,,,,,finga blong wan pijin
+SN000523,grab; squeeze,gomu,,,SQUEEZE [1414],grab,,,,,holem
+SN000524,be blocked ; be.blocked,gon,,,,be.blocked,,,,,i fas
+SN000525,be overwhelmed; have too much on one's hands ; be.overwhelmed,gon,,,,be.overwhelmed,,,,,gat wok long fulap samting
+SN000526,use a split piece of bamboo or a forked stick to pluck a fruit from a tree,gote,,,,pluck,,,food,,stikim fruit wetem wan wud o bambu we i fok
+SN000527,red ant,goyor,,,,red.ant,,,fauna,,anis (i no kakae man)
+SN000528,grasshopper,grasopa,,,GRASSHOPPER [607],grasshopper,,,,,
+SN000529,rib,grip,,,RIB [801],rib,,,,,rip
+SN000530,clean (reduplication),gu-kuone,,,,$redup-clean,,,,,
+SN000531,hold,gum,,,HOLD [1448],hold,,,,,
+SN000532,grab something firmly,gumkate,,,,grab,,,,,holem taet
+SN000533,support; provide with energy; hold,gumtilya,,,HOLD [1448],support,,,,,sapotem
+SN000534,rib,guo,,,RIB [801],rib,,,body,,rib
+SN000535,clean something; clear something,guone,,,,clean,,,house,,klinim
+SN000536,piece,gur,,,PART [779],piece,,,,,pis
+SN000537,fence; surround,gurgur,,,,fence,,,,,raonem
+SN000538,pull out edible roots or tubers from the ground,guwuo,,,PULL OUT [2325],pull.out,,,,,pulum aot (samting we yu planem)
+SN000539,arrow,gyap,,,ARROW [977],arrow,,,,,"aro, wud blong banaro"
+SN000540,work,gyes,,,WORK (ACTIVITY) [1086],work,,,,,wokem
+SN000541,work,gyesan,,,WORK (LABOUR) [984,work,,,,,wok
+SN000542,re-work; re-make something,gyestase,,,,rework,,,,,wokem bakegen
+SN000543,happen,happen,,,HAPPEN [248],happen,,,,,
+SN000544,health,Health,,,,health,,,,,
+SN000545,holy,holi,,,HOLY [1702],holy,,,,,
+SN000546,[copula],i,,,,$cop,,,,,
+SN000547,[third person singular possessive],-in,,,,$3sg.poss,,,,,
+SN000548,independence,indipenten,,,,independence,,,,,
+SN000549,liver,ingyar,,,LIVER [1224],liver,,,body,,liva
+SN000550,tear off something small with thumb and index finger,inte,,,,tear,,,,,pinsim (wan lif etc.)
+SN000551,interpreter,interpreter,,,,interpreter,,,,,
+SN000552,broad-bellied flycatcher,irir,,,,flycatcher,,,fauna ; birds,,smolfala pijin we i stap long haos nomo
+SN000553,call,is_1,,,CALL [1084],call,,,,,singaot
+SN000554,name,is_2,,,NAME [1405],name,,,,,nem
+SN000555,east,Ist,,,EAST [1877],east,,,,,
+SN000556,cabbage; edible leaves,ivyo,,"yebumkin, susut, ivyolip",,cabbage,,,plants ; food,,"kabis, lif blong kakae"
+SN000557,[interjection],iyo,,,,$intj,,,,,
+SN000558,chance,jenis,,,,chance,,,,,
+SN000559,chief,jip,,,CHIEFTAIN [301],chief,,,family,,
+SN000560,join,join,,,JOIN [1743],join,,,,,
+SN000561,joint,joint,,,JOINT [999],joint,,,,,
+SN000562,[second person dual],ka,,,,$2d,,,,,
+SN000563,say,ka_1,,,SAY [1458],say,,,,,se
+SN000564,[assertion marker],ka_2,,,,$asr,,,,,
+SN000565,fly,ka_4,,,FLY (MOVE THROUGH AIR) [1441],fly,,,,,flae
+SN000566,[complementizer],ka_5,,,,,,,,,[complementizer]
+SN000567,be bent; be crooked ; bend,kaa,,,,bend,,,,,"i ben, i kruket"
+SN000568,have an itchy skin disease,kaa,,,,,,,,,skin i skras
+SN000569,a taste that numbs the tongue; like the taste of unripe bananas,kaakaa,,,,,,,food,,"wan test we i mekem se tang i hevi, olsem test blong ol banana we i no raef"
+SN000570,make a mistake; miss,kaakilye,,,MISS (A TARGET) [161],miss,,,,,mestem
+SN000571,bend something,kaane,,"kaa was only found in Sesivi, but kaane is also found elsewhere",BEND [2004],bend,,,,,"pulum i go, bendem"
+SN000572,kind,kaen,,,KIND (THING) [844],kind,,,,,
+SN000573,stagger,kakapu,,,,stagger,,,body,,wokbaot lelei
+SN000574,color,kala,,,COLOR [1613],color,,,,,
+SN000575,clothes,kaleko,,,CLOTHES [1895],clothes,,,,,
+SN000576,[second person dual],kama,,,,$2d,,,,,yutufala
+SN000577,start a fire ; start.fire,kamerane,,,,start.fire,,,,,statem faea
+SN000578,break ; break,kamerane,,,BREAK (DESTROY OR GET DESTROYED) [680],break,,,,,brekem
+SN000579,compass,kampas,,,COMPASS [2606],compass,,,,,
+SN000580,[second person trial/paucal],kamsi,,,,$2pc,,,,,yutrifala
+SN000581,[first person dual exclusive],kana,,,,$1d.ex,,,,,
+SN000582,country,kantri,,,COUNTRY [1300],country,,,,,
+SN000583,cup,kap,,,CUP [476],cup,,,,,
+SN000584,cover,kapa,,,,cover,,,,,
+SN000585,trevally,karong,,,,trevally,,,fauna ; aquatic creatures,,
+SN000586,wash; pour a liquid over something,kase,,,WASH [1453],wash,,,,,wasem
+SN000587,[third person paucal],kasi,,,,$3pc,,,,,
+SN000588,custom(s),kastom,,,CUSTOM [1747],kastom,,,,,
+SN000589,fixed; firm,-kate,,seems to specify sth. like a cover,,$res.firm,,,,,taet
+SN000590,break something (a stick),katiwiye,,,BREAK (DESTROY OR GET DESTROYED) [680],break,,,,,brekem
+SN000591,kava,kava,,,,kava,,,,,
+SN000592,be like,ke,,,,be.like,,,,,olsem
+SN000593,[demonstrative particle] indicating a location far away from the speaker but close to the listener,ke_1,,,,$dem,,,,,ia
+SN000594,grasshopper,kee,,,GRASSHOPPER [607],grasshopper,,,fauna,,grasopa
+SN000595,baby; newborn child,kekei,,,BABY [1289],baby,,,,,bebe
+SN000596,small,kekei_1,,,SMALL [1246],small,,,,,smol
+SN000597,scoop out,kekyer,,,,scoop.out,,,coconut,kyaate,selaot
+SN000598,only,kemyas,,,ONLY [1580],only,,,,,nomo
+SN000599,[first person dual exclusive],kenma,,,,$1d.ex,,,,,mitufala
+SN000600,"[demonstrative, distal]",ker,,,,$dem.dist,,,,ke,ia
+SN000601,clear one's throat,kesmya,,,,clear.throat,,,,,mekem wan noise bifo we yu toktok
+SN000602,every; entirely,kevene,,,ALL [98],every,,,,,evri
+SN000603,remove outer layers of a plant before replanting it,kevitye,,,PEEL [275],peel,,,,,"skinimaot, pilim (wan stampa)"
+SN000604,bent,kevyar,,,,bent,,,,,"i ben, i kruket"
+SN000605,kernel of the breadfruit,kevyor,,kovyor ane wotop - transitivity,,kernel.of.breadfruit,,,plants,,ston blong bredfrut
+SN000606,[second person plural],ki,,,,$2p,,,,,
+SN000607,like,ki_1,,,LIKE [1117],like,,,,,
+SN000608,dig (several holes),kii,,,DIG [1418],dig,,,,eli,dig
+SN000609,tickle,kikilipse,,,,tickle,,,,,pleple long wan man long wan fasin we em i mas laf
+SN000610,call (reduplication),ki-kye,,,,$redup-call,,,,,
+SN000611,scoop out (reduplication),ki-kyer,,,,$redup-scoop.out,,,,,
+SN000612,surround (reduplication),ki-kyu,,,,$redup-surround,,,,,
+SN000613,miss (resultative),-kilye,,,,$res.miss,,,,,
+SN000614,[second person plural],kimim,,,,$2p,,,,,yufala
+SN000615,fall (of rain),kin,,,,fall,,,climate,,foldaon (ren i foldaon)
+SN000616,pinch; hold between thumb and index finger,kin_1,,,PINCH [378],pinch,,,,,holem long tu fingga blong wan han
+SN000617,shut (the eyes),kin_2,,,,shut,,,body,,sarem (ae)
+SN000618,press.eyes.shut ; ostensively and forcibly press the eyes shut together to express disapproval or aggression,kin_myar,,,,press.eyes.shut,,,,,mekem strong fes
+SN000619,have a fight; have an argument,kin_myar,,,,,,,,,raorao
+SN000620,hold something in one hand,kinkate,,,HOLD [1448],hold,,,,,holem taet long tufala fingga long wan han
+SN000621,[first person plural exclusive],kinye,,,,$1pl.ex,,,,,
+SN000622,[first person plural exclusive],kinyem,,,,$1pl.ex,,,,,mifala
+SN000623,[first person trial/paucal exclusive],kinyemsi,,,,$1pc.ex,,,,,mitrifala
+SN000624,point,kis,,,,,,,,,poent
+SN000625,point a finger at something,kisane,,,,point,,,,,poentem
+SN000626,[first person paucal exclusive],kisi,,,,$1pc.ex,,,,,
+SN000627,sneeze,kisim,,,SNEEZE [1621],sneeze,,,,,snis
+SN000628,grope for something inside a container and take it out,kiskuwu,,,,grope,,,,,"pusum han i go blong pulumaot long wan samting olsem basket, sospen"
+SN000629,be like this,kiye,,,,like.that,,,,,i olsem ia
+SN000630,well nourished; plump; swollen,kiyu,,,,fat,,,body,,"fatfat, solap"
+SN000631,class,klas,,,,class,,,,,
+SN000632,kava indigenous to Santo,klisan,,,,kava.species,,,food,,kava blong Santo
+SN000633,clothes,klos,,,CLOTHES [1895],clothes,,,,,
+SN000634,toilet,klosis,,,TOILET [219],toilet,,,,,
+SN000635,[second person singular],ko,,,,$2s,,,,,
+SN000636,spread,ko_1,,,SPREAD OUT [38],spread,,,,,"raon, spred"
+SN000637,chase; race each other ; race,ko_2,,,,race,,,,,ronem
+SN000638,look for ; look.for,ko_2,,,LOOK FOR [1468],look.for,,,,,lukaotem
+SN000639,head; skull,kodin_baten,,,HEAD [1256] ; SKULL [1605],skull,,,,,ful hed
+SN000640,coffee,kofi,,,COFFEE [1299],coffee,,,,,
+SN000641,sing,kolir,,,SING [1261],sing,,,,,sing
+SN000642,corner,kona,,,CORNER [192],corner,,,,,
+SN000643,turn,kone,,,TURN [1588],turn,,,,,ton
+SN000644,cheat; overcome,konkone,,,OVERCOME [1999] ; BETRAY [1902],cheat,,,,,trikim
+SN000645,concert,konset,,,,concert,,,,,
+SN000646,take care of; look after,koo,,,,take.care,,,,,luk aot
+SN000647,be.full,kop,,,,be.full,,,food,,fulap
+SN000648,be pregnant,kop,,,PREGNANT [1123],,,,,,gat bel
+SN000649,cover,kopini,,,COVER [761],cover,,,,,
+SN000650,entire; as a whole,kopkop,,reduplication,WHOLE [2277],entire,,,,,fulwan
+SN000651,head,kor,,,HEAD [1256],head,,,,,
+SN000652,obstinacy; stubbornness,kor_yasyas,,,,,,,,,stronghed
+SN000653,someone who is notoriously stubborn and obstinate ; stubborn.person,kor_yasyas,,check English,,stubborn.person,,,,,
+SN000654,hurry; be quick,korkor,,,HURRY [754],$res.hurry,,,,,hariap
+SN000655,sweetsop,korosol,,,,,,,plants,,korosol
+SN000656,spotted porcupine fish or similar ; porcupine.fish,korosol,,,,porcupine.fish,,Diodonidae,fauna ; aquatic creatures,,"nilfis, balongfis"
+SN000657,thunder,koruuruu,,,THUNDER [1150],thunder,,,climate,,tanda
+SN000658,expel,kosyaane,,vertreiben ; kupsyaane: sakem blong i lus,,expel,,,,,ronem aot
+SN000659,in two [resultative suffix],-kote,,,,$res.in.two,,,,,
+SN000660,hunt,kotutu,,,HUNT [1435],hunt,,,,,ronem
+SN000661,crazy,kranki,,,MAD [1899],crazy,,,,,
+SN000662,crab,krap,,,CRAB [2348],crab,,,,,
+SN000663,"home (of), at the home (of)",kuane,,,HOME [2406],home,,,house,,haos blong
+SN000664,return,kueli,,,COME BACK [581],return,,,,,go bak
+SN000665,cook,kuk,,,COOK (SOMETHING) [1100],cook,,,food,,
+SN000666,grate,kuku,,,,grate,,,food,,skrasem
+SN000667,good [resultative suffix],-kukuone,,"gyeskukuone (work carefully), gumkukuone (holem gud), kyeskukuone (wasem gud), warkukuone (talem gud)",,$res.good,,,,,mekem i gud
+SN000668,surround (reduplication),ku-kyu,,,,$redup-surround,,,,,
+SN000669,round,kukyur,,,ROUND [1395],round,,,,,raon
+SN000670,dog,kuli_1,,,DOG [2009],dog,,,fauna,,dog
+SN000671,edible part (of a plant),kuli_2,,,,edible.part,,,plants,,kakae (blong wan plan)
+SN000672,a soft layer of flesh inside a young coconut which is eaten after its juice has been drunk,kuli_vyos,,,,coconut.flesh,,,food,,kakae blong wan yang kokonas
+SN000673,tuber of swamp taro,kuli_webir_ten,,,,taro.tuber,,,food,,kakae blong wota taro
+SN000674,plain laplap without greens or meat,kuli_yuk,,,,plain.laplap,,,food,,"laplap nating, we i no gat kabij"
+SN000675,sole,kulin_lye,,,SOLE (FOOT) [2666],sole,,,,,andanit long fut
+SN000676,sole,kulin_lyen,,,SOLE (FOOT) [2666],sole,,,body,,andanit long leg
+SN000677,overdone,kulum,,check ps!,,overdone,,,food,,"(kakae) i slak, i wota"
+SN000678,get a fright; be startled,kulye,,,,be.startled,,,,,sek
+SN000679,cough,kunyur,,,COUGH [879],cough,,,,,kof
+SN000680,run; speed; move quickly (also applies to swimming and flying) ; run,kuo,,mu kuo ma gevi?,RUN [1519],run,,,,,ron
+SN000681,trap,kuo_1,,,TRAP (PITFALL) [1075],trap,,,,,trap
+SN000682,shut; lock,kuokuo,,,SHUT [1046],shut,,,,,sarem
+SN000683,smoke,kuon,,,SMOKE (INHALE) [1689],smoke,,,food,,smok
+SN000684,taboo,kuon_1,,,,taboo,,,house,,tabu
+SN000685,bitter; too salty; too spicy,kuon_2,,,BITTER [887],bitter,,,food,,konkon
+SN000686,help,kuone,,kuene in Sesivi [ky\textschwa{}nE] ; y,HELP [1897],help,,,,,"givhan, helpem"
+SN000687,last time,kuor_1,,,,$res.last.time,,,,,las taem
+SN000688,last,kuor_2,,,LAST (FINAL) [1529],,,,,,las
+SN000689,know; be able to,kuowilye,,the second variety is used in Sesivi,KNOW (SOMETHING) [1410],know,,,,,save
+SN000690,throw something at someone or something,kup,,,THROW [1456],throw.at,,,,,stonem
+SN000691,throw something away,kupsyaane,,bwilisyaane (sakem blong i lus),,throw.away,,,,,sakem blong i lus
+SN000692,nose,kus,,,NOSE [1221],nose,,,body,,nus
+SN000693,nose of,kus-,,,,nose.of,,,,,
+SN000694,nosebleed,kus_liplip,,,,nosebleed,,,body,,blad i ron long nus
+SN000695,silver-eared honeyeater (bird),kuskus,,,,honeyeater,,,fauna,,kuskus
+SN000696,"sway, move from side to side",kuu,,,SWAY [573],sway,,,,,muv
+SN000697,look for,kuwo,,,LOOK FOR [1468],look.for,,,,,lukaotem
+SN000698,out [resultative suffix],-kuwu,,,,$res.out,,,,,
+SN000699,scoop out,kyaate,,,,scoop.out,,,plants ; coconut,kekyer,selaotem
+SN000700,call,kye,,,CALL [1084],call,,,,,singaot
+SN000701,sharp,kyen,,,SHARP [1396],sharp,,,craft,,sap
+SN000702,sore; painful,kyenkyen,,,PAINFUL [1129],sore,,,body,,soa
+SN000703,shit,kyep,,,SHIT (DEFECATE) [676],shit,,,body,,sisit
+SN000704,bite; sting,kyer,,,BITE [1403] ; STING [571],bite,,,food,,kakae
+SN000705,clot,kyer_1,,,,clot,,,body,,stak
+SN000706,bite a piece out of something,kyerkuwu,,,,bite.out,,,,,kakae i kam aot
+SN000707,sargassum crab (literally: 'eats leafs of cottonwood'),kyerkyer_yewowa,,,,sargassum.crab,,,fauna,,wan kaen krab (i kakae leaf blong burao)
+SN000708,crescent grunter (literally: 'bites wounds'),kyerkyermyanok,,,,crescent.grunter,,,fauna ; aquatic creatures,,wan kaen fis wetem ol blak straep long hem
+SN000709,gossip,kyermari,,,,gossip,,,,,gosip
+SN000710,mix,kyervi,,,MIX [2017],mix,,,,,mixim
+SN000711,sweet,kyes,,,SWEET [717],sweet,,,food,,swit
+SN000712,wash,kyes_1,,"*kyeskyes kaleko, *kyes, kyeswase kaleko",WASH [1453],wash,,,body,,wasem
+SN000713,"the magic power of persuasion, especially in matters of love",kyesbung,,discuss,,sweetmouth.rite,,,custom,,switmaot
+SN000714,clear the throat,kyesmya,,raeuspern ; check English,,clear.throat,,,,,?
+SN000715,surround,kyu,,,,surround,,,,,blokem
+SN000716,just; only,kyun,,,JUST [84] ; ONLY [1580],just,,,,,nomo
+SN000717,nettle tree,laa,,,,,,,plants,,stampa blong nanggalat
+SN000718,nettle,laa_1,,,NETTLE [33],nettle,,,plants,,stampa blong nanggalat
+SN000719,the entire plant; stem of the plant,laae,,,,,,,,,stampa blong nanggaria
+SN000720,victory leaf,laae_1,,,,,,,plants,,
+SN000721,nettle tree,laaro,,,,nettle.tree,,,plants,,"nanggalat blong bus, big nanggalat"
+SN000722,a nettle species,laaten,,plants,,nettle,,,,,nanggalat
+SN000723,mountain apple tree,laave,,,,,,,plants,,stampa blong nakavika
+SN000724,"line, fishing line",laen,,,LINE [1048],line,,,,,
+SN000725,light,laet,,,LIGHT (RADIATION) [630],light,,,,,
+SN000726,luck,lak,,,GOOD LUCK [720],luck,,,,,
+SN000727,luck,laki,,,GOOD LUCK [720],luck,,,,,
+SN000728,the kava species indigenous to Ambrym,laklak,,,,,,,plants ; food,,kava blong Ambrym
+SN000729,lemon,laman,,,,lemon,,,,,
+SN000730,loincloth; diaper,laplap_1,,schurz?,LOINCLOTH [1965],loincloth,,,custom,,"nambas, parpar, traosis"
+SN000731,"wear a loincloth, a diaper",laplap_2,,,,wear.loincloth,,,,,karem nambas
+SN000732,soup; broth,lasup,,,SOUP [1547],soup,,,,,
+SN000733,last,laswan,,reparse (didn't exist before),LAST (FINAL) [1529],last,,,,,
+SN000734,marry,le,,,MARRY [203],marry,,,custom,,mared
+SN000735,stem of,le-,,,,stem.of,,,,,
+SN000736,wedding,lean,,,WEDDING [1259],wedding,,,,,mared
+SN000737,palmtree,lebekuu,,,,palmtree,,,plants,,pamtri
+SN000738,indian coral tree,ledaa,,,,coral.tree,,,plants,,narara
+SN000739,a tree similar to the Indian coral tree,ledera,,,,ledera.tree,,,plants,,fren blong narara
+SN000740,tree; wood; wooden stick,lee,,,TREE [906] ; WOOD [1803],tree,,,plants,,"wud, tri ; tri"
+SN000741,cross,lee_buowuo,,,CROSS [1367],cross,,,,,kros
+SN000742,any of the beams of a roof parallel to the long side of the house,lee_byavya,,,BEAM [1132],beam,,,,,longfala wud blong haos we ruf i silip antap long hem
+SN000743,song of circumcision,leevi,,check,,song.of.circumcision,,,,,singsing blong sekumsision?
+SN000744,tree (fern),LX000025,,,,tree.fern,,,plants,,blak palm
+SN000745,chestnut tree,lemap,,,CHESTNUT TREE [1009],chestnut.tree,,,plants,,stampa blong namambe
+SN000746,mase tree,lemase,,,,,,,plants,,stampa blong brata blong nambalanggo
+SN000747,puzzle tree,lemedaa,,,,puzzle.tree,,Kleinhovia hospita,plants,,stampa blong namatal
+SN000748,cycad,lemuo,,,,cycad,,,plants,,namele
+SN000749,soft,leplep,,,SOFT [1856],soft,,,,,sopsop
+SN000750,coleus,lesas,,,,color.leaves,,,plants ; custom,,lif kala
+SN000751,sago palm,letako,,,SAGO PALM [2372],,,,plants,,stampa blong natangguara
+SN000752,watch,levene,,,WATCH [1650],watch,,,,,watchem
+SN000753,a tree species,LX000026,,get more information about this,,wenu.tree,,,plants,,"navenue, brata blong burao"
+SN000754,the vep tree,levep,,,,,,,plants,,stampa blong nambalanggo
+SN000755,banyan tree,levyak,,,BANYAN [346],banyan,,,plants,,nambangga
+SN000756,the entire tamanu plant; the stem of this plant,levyao,,,,,,,plants,,stampa blong nambakura
+SN000757,Australian boxwood,levyasvyas,,,,boxwood,,Planchonella spp,plants,,komtri
+SN000758,tree,levyuk,,"check English (frut blong hem i glue, blak)",,levyuk.tree,,,plants,,sopsop wud
+SN000759,the lower part of a banana plant,lewaa,,,,lower.banana.stem,,,plants,,haf blong stampa blong banana we i stap daon
+SN000760,kava plant,lewedrame,,,,,,,plants ; food,,stampa blong kava
+SN000761,a tree species,leweebwis,,,,tree.species,,,plants,,nakarambus
+SN000762,weka plant,leweka,,,,,,,plants,,stampa blong lif laplap
+SN000763,spiny chiton,lewep_1,,,,spiny.chiton,,,fauna ; aquatic creatures,,strongbak
+SN000764,pandanus,lewep_2,,,PANDANUS [469],pandanus,,,plants,,pandanas
+SN000765,poisonwood tree,lewes,,,,,,,,,stampa blong naolasi
+SN000766,plant (kava),lewewedrame,,,,kava.plant,,,plants,,stampa blong kava
+SN000767,bamboo,lewewo,,,BAMBOO [1927],bamboo,,,plants,,bambu
+SN000768,tree,li-,,,TREE [906],tree,,,,,
+SN000769,the entire plant,libilip,,,,bilip.tree,,,plants,,stampa blong tri ia
+SN000770,"a plant similar to \emph{Ficus gibbosa}, with inedible leaves ; plant.of.bilye",libilye,,,,plant.of.bilye,,,,,brata blong nambalanggo (oli no kakae lif blong hem)
+SN000771,liar ; liar,libilye,,,,liar,,,,,man blong kiaman
+SN000772,owl,lii,,,OWL [735],owl,,,fauna ; birds,,hoknaet
+SN000773,be drunk,lili,,,DRUNK [1463],be.drunk,,,food,,drong
+SN000774,back [resultative suffix],-lili,,,,$res.back,,,,,
+SN000775,stone; a hard single seed of a fruit,lilisi,,,STONE (OF FRUIT) [1762],seed.of,,,plants,,sid
+SN000776,name of a custom mask local to Meltungun,liliwi,,,,kastom.mask,,,custom,,nem blong wan kastom
+SN000777,five,lim,,,FIVE [493],five,,,,,faef
+SN000778,night,limyaek,,,NIGHT [1233],night,,,,,tudak
+SN000779,depart from; let go off; put; give birth,ling,,,GIVE BIRTH [1195] ; PUT [998],put ; give.birth,,,body,,lego
+SN000780,land (after flying),ling_1,,,,land,,,,,kasem graon
+SN000781,discuss,ling_daa,,,,discuss,,,,,toktok
+SN000782,put,lingi,,,PUT [998],put,,,,,putum
+SN000783,put.back,lingkilye,,replace?,,put.back,,,,,putum bak
+SN000784,(of a child) take the place (of his father) ; continue.family.line,lingkilye,,,,continue.family.line,,,,,(wan pikinini) i tekem ples (blong papa blong hem)
+SN000785,leave; depart from,lingkone,,,LEAVE [1752],leave,,,,lingkowilyene,"lego, kam aot"
+SN000786,abandon,lingkowilyene,,,ABANDON [1097],abandon,,,,,lego
+SN000787,hide something,lingsene,,,,hide.sth,,,,,haedem
+SN000788,drip; flow down,lip,,,DRIP (EMIT LIQUID) [2253],drip,,,,,"drop, kavsaed"
+SN000789,young coconut with a soft shell,liplip,,,,young.coconut,,,plants ; coconut ; food,,yang kokonas
+SN000790,tea leaf,lipti,,,,leaf.tea,,,,,
+SN000791,tea,lipton,,,TEA [1373],tea,,,,,
+SN000792,dwarf-like creatures with long hair who live alone in the bush and are usually up to no good,lisepsep,,discuss,,lisepsep,,,custom,,lisepsep
+SN000793,tie something together,liskate,,,TIE [1917],knot,,,craft,,fasem taet (wan rop)
+SN000794,its tree (as in 'the tree of the bredfruit'),lisye,,,,tree.of.$3sg.poss,,,,,"wud blong hem, stampa blong hem (blong wan frut, wan plan)"
+SN000795,rub something clean; polish,lisye_1,,,,rub.clean,,,,,rabem
+SN000796,banana plant,livis,,,,banana.plant,,,plants,,stampa blong banana
+SN000797,banana plant,livis_1,,,,,,,plants ; food,,stampa blong banana
+SN000798,roof beams,livyer,,look up word,,roof.beams,,,house,,ol wud we ruf i sidaon long hem
+SN000799,day,liyaa,,,DAY (24 HOURS) [1260],day,,,,,de
+SN000800,take (singular); bring,liye,,,BRING [692] ; TAKE [1749],take,,,,,karem
+SN000801,reef crab (yellow with red spots),liyep,,,,reef.crab,,Carpilius maculatus,fauna ; aquatic creatures,,rif krab
+SN000802,take out; remove,liyepkuwu,,,,remove,,,,,"karemaot, sakem"
+SN000803,suffer,liyes,,,SUFFER [1101],suffer,,,,,safa
+SN000804,ironwood,liyoo,,,,ironwood,,,plants,,oktri
+SN000805,tree,lo-,,,TREE [906],tree,,,,,
+SN000806,laplap,lok,,Craig Cove,,laplap,,,,,
+SN000807,a type of custom mask,loklok,,,,kastom.mask,,,custom,,wan kastom mask
+SN000808,the fifth rank,lokvyaru,,,,fifth.rank,,,custom,,namba faef rang
+SN000809,longtail lizard,longlong,,,,longtail.lizard,,,fauna,,longtel lised
+SN000810,soft; weak,looloo,,yuk looloo,SOFT [1856] ; WEAK [1601],soft ; weak,,,food,,sopsop
+SN000811,hospital,lopital,,,HOSPITAL [616],hospital,,,,,
+SN000812,breadfruit tree,lowotop,,,BREADFRUIT [2371],breadfruit.tree,,,plants,,stampa blong bredfrut
+SN000813,a traditional rite,lu,,,,lu.rite,,,,,wan tabu kastom
+SN000814,be brutal,lu_1,,Serial Verbs,,be.brutal,,,,,meksave
+SN000815,tree,lu-,,,TREE [906],tree,,,,,
+SN000816,grow,luk,,,GROW [479],grow,,,body ; plants,,gru
+SN000817,cover,lukluk,,,COVER [761],cover,,,,,kavrem
+SN000818,cover,lulu,,,COVER [761],cover,,,,,kaverem
+SN000819,leaves in which laplap is baked,lum,,,,laplap.leaves,,,food,,lif we i stap kaverem ap laplap
+SN000820,wrap something in a leaf,lumane,,,,wrap.in.leaf,,,,,kaverem ap long lif
+SN000821,wrap,lung,,combination form,WRAP [1113],wrap,,,,,
+SN000822,wrap something up; encase something,lungu,,see lum,WRAP [1113],wrap,,,,,kaverem ap
+SN000823,root of,luu,,"check ""luue"" with Baiap speakers",,root.of,,,plants,,rus blong
+SN000824,root,luue,,,ROOT [670],root,,,plants,,rus
+SN000825,his/her/its tooth; tusk,luw,,,TOOTH [1380],tooth,,,body,,tut blong hem
+SN000826,fasten,luwa,,,FASTEN [1094],fasten,,,,,fasem
+SN000827,erect; build,luwu,,,BUILD [1840],erect,,,,,stanemap
+SN000828,root,luwu_1,,,ROOT [670],root,,,plants,,rus
+SN000829,feed,luwuo,,,FEED [739],feed,,,fauna,,fidim
+SN000830,leg,ly,,,LEG [1297],leg,,,,,
+SN000831,leg of,ly-,,,,leg.of,,,,,leg blong
+SN000832,leg,lye,,,LEG [1297],leg,,,body,,leg
+SN000833,lineage,lye,,,,,,,,,laen (blong wan famli)
+SN000834,open the eyes,lye_1,,,,open.eye,,,body,,openem ae
+SN000835,great,lyep,,,,great,,,,,taf
+SN000836,"(of glass, ceramics) break",lyoo,,,BREAK (DESTROY OR GET DESTROYED) [680],break,,,craft,,brok
+SN000837,take a wash,lyung,,,,wash,,,body,,swim
+SN000838,"wash only one's face, hands and feet instead of the whole body (like a savage)",LX000027,,,,,,,,,"wasem fes, han mo leg nomo (olsem wan man bus)"
+SN000839,two,LX000028,,,TWO [1498],two,,,,,tu
+SN000840,stem of,LX000029,,,,stem.of,,,,,
+SN000841,shore crab,LX000030,,,,shore.crab,,,fauna ; aquatic creatures,,blak.krab
+SN000842,"single, slender stalks inside the trunk of a treefern",LX000031,,,,treefern.stalk,,,plants,,stensel blong blakpam
+SN000843,coconut palm,LX000032,,,COCONUT [970],coconut,,,plants ; coconut,,stampa blong kokonas
+SN000844,[possessive classifier one],m-,,,,$cl1,,,,,
+SN000845,[realis],-m,,,,$real,,,,,
+SN000846,[realis],ma,,,,$real,,,,,
+SN000847,emerald dove,maa_1,,,DOVE [1853],dove,,,fauna ; birds,,sotleg
+SN000848,do,maa_2,,*maa ding,,,,,,,do
+SN000849,harm someone; treat someone badly,maawane,,,,spoil,,,,,spoelem
+SN000850,his/her/its back,mad,,,BACK [1291],back,,,body,,bak blong hem
+SN000851,dove,mae,,,DOVE [1853],dove,,,,,
+SN000852,be fast; be quick,maga,,okoan maga swa,,be.fast,,,,,quick
+SN000853,magic,magic,,,MAGIC [392],magic,,,,,
+SN000854,scad,maguru,,,,scad,,,fauna ; aquatic creatures,,
+SN000855,eggs of a louse,mais,,,NIT [267],louse.egg,,,fauna,,eg blong laus
+SN000856,color,mak,,,COLOR [1613],color,,,,,
+SN000857,seventh and highest rank,mal,,,,seventh.rank,,,custom,,namba seven rang
+SN000858,a species of small bananas growing in tight bundles,LX000033,,,,banana.species,,,plants ; food,,smol banana
+SN000859,mother,mama,,,MOTHER [1216],mother,,,,,
+SN000860,"a mat made of coconut leaves, where two times two leaves are woven together and then the two mats are joined in the middle",mamesi,,check paradigm,MAT [195],mat,,,craft,,mat we oli joinem long medel
+SN000861,male,man,,,MALE [1553],male,,,,,
+SN000862,mango,mango,,,MANGO [2398],mango,,,,,mango
+SN000863,money,mani,,,MONEY [1559],money,,,,,
+SN000864,Tahitian chestnut,map,,,,Tahition.chestnut,,,plants ; food,,namambe
+SN000865,(of a wound) heal,map_1,,,,heal,,,,,kam gud (wan soa)
+SN000866,quiet [resultative suffix],-mar,,,,$res.quiet,,,,,
+SN000867,marihuana,mariuana,,,,marihuana,,,,,
+SN000868,creep; move cautiously as to not make a noise,marmar,,,,creep,,,,,"wokbaot slo, witaot mekem noes"
+SN000869,cautiously; secretly,-marmar,,,,$res.cautious,,,,,"kwaet, i no mekem nois"
+SN000870,must,mas,,,MUST [971],must,,,,,
+SN000871,a tree species close to Ficcus gibbosa,mase,,,,tree.species,,,plants,,"brata blong nambalanggo, oli kakae"
+SN000872,master; white man,masta,,,MASTER [383],master,,,,,
+SN000873,dolphin,maulumbeta,,"attributed to CVC, related to the term for ""breadfruit""",DOLPHIN [1479],dolphin,,,fauna ; aquatic creatures,,dolfen
+SN000874,cassava; manioc; yuca,mayuk,,,CASSAVA [925] ; MANIOC [927],cassava,d1216cd88e10cf7881527a13c0ed68bb,,plants,,manyok
+SN000875,come,me_1,,,COME [1446],come,,,space,,kam
+SN000876,jump,mea,,,JUMP [1829],jump,,,,,jam
+SN000877,twin,meap,,,TWINS [1005],twin,3c9c7be0e04081fe45961ddaf9672515,,,,twin
+SN000878,cold,meas,,,COLD (OF WEATHER) [2483],cold,,,climate,,kolkol
+SN000879,grandchild,meby-,,,GRANDCHILD [1617],grandchild,,,family,,
+SN000880,grandchild,mebyu,,,GRANDCHILD [1617],grandchild,,,family,,smol bubu
+SN000881,a star which indicates that the moon will be new soon (literally: the moon's grandson),mebyun_ebyate,,,,moon.star,,,climate,,"wan sta we wok blong hem i blong soem long yumi se kolosap nu mun i kam tru nao,"
+SN000882,grandchild (diminutive form),mebyuneli,,,GRANDCHILD [1617],grandchild,,,family,,smol bubu
+SN000883,back,med,,,BACK (PART) [2323],back,,,,,
+SN000884,bleed,meda,,,,bleed,,,body,,i blad
+SN000885,fall,medap,,,FALL [1280],fall,,,,,fuldaon
+SN000886,rot,medar,,,,rot,,,,,rot
+SN000887,doctor,medical,,,PHYSICIAN [597],doctor,,,,,
+SN000888,cold,medir,,,COLD (OF WEATHER) [2483],cold,,,climate,,kolkol
+SN000889,back,medu,,note down paradigm (see notebook),BACK [1291],back,,,body,,bak
+SN000890,be slow,LX000034,,okoan medó swa,SLOW [701],be.slow,,,,,i slo
+SN000891,last; go on for a long time,meep,,,,last.long,,,,,longtaem
+SN000892,a long time ago; early,meerin,,,EARLY [672],long.time,,,,,"long taem, eli"
+SN000893,food,mees,,,FOOD [256],food,,,food,,kakae
+SN000894,come out of a (partly) broken container,mekis,,,,emerge,,,,,kamaot long wan samting we i brok
+SN000895,the sixth rank,meleun,,,,sixth.rank,,,custom,,namba sikis rang
+SN000896,hang down to the ground,melip,,,,hang.down,,,,,hang daon long graon
+SN000897,lax; restful,melipro,,,,lax,,,,,slak
+SN000898,decrease,melis,,,,,,,,,"go daon, i slak"
+SN000899,dirty,melis,,,DIRTY [1230],dirty,,,,ngangais ; ona,doti
+SN000900,kava species,melomelo,,,,kava.species,,,plants ; food,,kava blong Ambae
+SN000901,quiet; calm; restful,melumlum,,,CALM [258] ; QUIET [1314],quiet,,,,,i kwaet
+SN000902,free living giant clam,memelip,,,,giant.clam,,Tridacna,fauna ; aquatic creatures,,natalae we i save rol olbaot
+SN000903,(of relatives) be taboo; respect,memeo,,,,be.taboo.for,,,,,"i tabu long, rispektem, honorem"
+SN000904,level; even,memeop,,*or ma memeop,,level,,,,,(long wan ples) i level
+SN000905,funny,mena,,,,funny,,,,,fani
+SN000906,imperial pidgeon,menbuo,,,,imperial.pidgeon,055836510118cb320d505e29172a539a,,fauna ; birds,,wan kaen pijin
+SN000907,done,menok,,,,done,,,food,,dan
+SN000908,sweat,menur,,,PERSPIRE OR SWEAT [2458],sweat,,,body,,swet
+SN000909,incubator bird,meo,,,,incubator.bird,,,fauna ; birds,,namalau
+SN000910,"a fruit slightly remindful of mango in taste, size and texture",meomeo,,,,meomeo.fruit,,,plants ; food,,naus
+SN000911,nine,meper,,,NINE [1483],nine,,,,,naen
+SN000912,dead ; dead,mer,,,DEAD [1625],dead,,,body,,ded
+SN000913,coal,merip,,,COAL [2658],coal,,,food,bungmerip,jakol
+SN000914,conciousless; lazy,mermer,,,LAZY [1564],,,,,,afded
+SN000915,barracuda,mermeryaa,,,,barracuda,,,fauna ; aquatic creatures,,barakuta
+SN000916,snapper,merwowo,,,,snapper,,,fauna ; aquatic creatures,,snapa
+SN000917,smooth; clean; free; clear,mesaa,,,CLEAN [704] ; CLEAR [989] ; SMOOTH [1234],smooth,,,,,"smut, klin"
+SN000918,open space,mesaa_1,,,,open.space,,,space,,klia ples
+SN000919,sick,mese,,,SICK [1847],sick,,,body,,sik
+SN000920,illness,mesean,,,,illness,,,body,,wan sik
+SN000921,miss,mestem,,,,miss,,,,,
+SN000922,urinate,mesu,,,PISS [592],urinate,,,body,,pispis
+SN000923,urin of,mesu-,,,,urin.of,,,body,,pispis blong
+SN000924,urin of,mesus,,,,urin.of,,,body,,
+SN000925,urinate onto something,mesuse,,,,pee.on,,,,,pispis long
+SN000926,"urinate onto, into something",mesusye,,,PISS [592],urinate,,,,,pispis long wan samting
+SN000927,fish; sea creature (including crustacea),mesyu,,,FISH [227],fish,,,fauna ; aquatic creatures,,fis
+SN000928,flying fish,mesyu_kaka,,,,,,Exocoetidae,fauna ; aquatic creatures,,flaeng fis
+SN000929,spur-cheek cardinalfish,mesyu_mermer,,,,,,Apogon fraenatus,fauna ; aquatic creatures,,wan kaen fis
+SN000930,eye,met,,,EYE [1248],eye,,,,,
+SN000931,eye of,met-,,,,eye.of,,,body,,
+SN000932,spear,metas,,,SPEAR [945],spear,,,craft,,spia
+SN000933,Asiatic lily,metavin,,,,lily,,Crinum asiaticum,plants,,lili
+SN000934,a blue cloud,metenir,,,,blue.cloud,,,climate,,blu klaod
+SN000935,sister,meteseli,,,SISTER [1263],sister,,,family,,sista
+SN000936,iron,metetee,,,IRON [621],iron,,,craft,,aean
+SN000937,because of; from,metone,,,FROM [693],from,,,,,"from, long"
+SN000938,nephew or niece; children of [a man's] sister,metoo,,,NEPHEW [1063],nephew,,,family,,pikinini blong sista blong wan man
+SN000939,live; be healthy,meu,,,LIVE [2309],live,,,body,,laef
+SN000940,"(of a person) be a person who ought to be treated with special care, because of their uniqueness, such as a stranger or an only child",meu_1,,,,unique,,,,,"i strenja, i stap hemwan"
+SN000941,life,meuan,,,LIFE [210],life,,,,,laef
+SN000942,be resurrected; return from death,meulili,,,,be.resurrected,,,,,laef bakegen
+SN000943,light,meya,myap,,LIGHT (WEIGHT) [1052],light,,,,,"laet, no hevi"
+SN000944,"place of something, where it left a mark or where it belongs",mili,,,,place.of,,,space,,ples blong
+SN000945,eight,milipsi,,,EIGHT [1705],eight,,,,,et
+SN000946,six,milipsyes,,,SIX [1703],six,,,,,sikis
+SN000947,seven,milivyo,,,SEVEN [1704],seven,,,,,seven
+SN000948,place of,mily,,,,place.of,,,,,
+SN000949,place of; position of,mily-,,,,place.of,,,,,
+SN000950,up; above; on top,milye,,,ABOVE [1741] ; UP [1591] ; TOP [1753],on.top,,,,,antap
+SN000951,tasteless,mimilye,,,TASTELESS [1771],tasteless,,,food,,i no gat test
+SN000952,drink,min_1,,,DRINK [1401],drink,,,food,,dring
+SN000953,the brother to a woman,min_2,,vowel harmony,,womans.brother,,,family,,brata (blong wan woman)
+SN000954,drink,mini,,,DRINK [1401],drink,,,food,,dring
+SN000955,mean,minim,,,,mean,,,,,
+SN000956,meaning,mining,,,,meaning,,,,,
+SN000957,her brother,miny,,vowel harmony,,womans.brother,,,,,brata (blong wan gel)
+SN000958,chinese yam,minyep,,,,sweet.yam,,Dioscorea esculenta,plants,,"bovile, popile"
+SN000959,different,minyes,,,DIFFERENT [2504],different,,,,,difren
+SN000960,honor,minyo,,,,honor,,,,,onarem
+SN000961,black,mir,,,BLACK [163],black,,,,,blak
+SN000962,mission,misen,,,,mission,,,,,
+SN000963,thick,misii,nip,,THICK [1244],thick,,,,,tik
+SN000964,white woman,misis,,,,white.woman,,,,,
+SN000965,his/her uncle,misy,,,UNCLE [1327],uncle,,,family,,angkel blong hem
+SN000966,uncle,misya,,,UNCLE [1327],uncle,,,family,,angel
+SN000967,star,misyu,,,STAR [1430],star,,,climate,,star
+SN000968,meat,mit,,,FLESH OR MEAT [2615],meat,,,,mubuo,
+SN000969,split a liana in half,mitye,,,SPLIT [1437],split,,,,,brekem (wan rop blong wan tri) long medel mekem se i kam tufala rop
+SN000970,tongue of,miy-,,,,tongue.of,,,body,,
+SN000971,shine,miyaa,,check (bung miyaa),SHINE [708],shine,,,,,i laet
+SN000972,human tongue,miye,,,TONGUE [1205],tongue.of,,,body,,tang
+SN000973,[interjection],mmm,,,,$intj,,,,,
+SN000974,ok,mo,,,,ok,,,,,"ok, stret"
+SN000975,first,mo_1,,,FIRST [728],first,,,,,festaem
+SN000976,[realis],mo_2,,,,$real,,,,,
+SN000977,mobile phone,mobael,,,,mobile,,,,,
+SN000978,really,mokote,,,,,,,,,meksave
+SN000979,remake; rework,moliline,,,,rework,,,,,mekem bakegen
+SN000980,bake,molis,,,BAKE [183],bake,,,,,
+SN000981,bake,molisi,,,BAKE [183],bake,,,food,,"bekem, kaverem ap long lif afta yu putum long stone afta yu faerem up."
+SN000982,tame,momo,,,,tame,,,fauna,,tem
+SN000983,also; too; again,mon,,,AGAIN [204],also,,,,,"bakegen, tu"
+SN000984,shade; shelter from sun or rain,moomoo,,,SHADE [1388],shelter,,,,,"smol haos blong sato, set"
+SN000985,dew,moore,,,DEW [1977],dew,,,climate,,wota blong naet
+SN000986,smooth; slippery,moos,,,SMOOTH [1234],smooth,,,,,glis
+SN000987,cloud,mop_1,,,CLOUD [1489],cloud,,,climate,,klaod
+SN000988,be cloudy; be dull,mop_2,,,CLOUDY [2341] ; BLUNT [379],,,,,,i klaod
+SN000989,finish; complete,moseaa,,,FINISH [1766],finish,,,craft,,flatem
+SN000990,repeat; do something again,motase,,short for mu vu tetes,REPEAT [880],repeat,,,,,mekem bakegen
+SN000991,forgive,motitiye,,,FORGIVE [1528],forgive,,,,,fogivim
+SN000992,stir in one's sleep,mowus,,"sich regen (im Schlaf, vorm aufwachen)",,stir,,,,,tanem narasaed long taem blong silip
+SN000993,earthquake,mu_1,,,EARTHQUAKE [6],earthquake,,,climate,,etkwek
+SN000994,quake,mu_2,,,,,,,,,"(graon) i sek, i etkwek"
+SN000995,[realis],mu_3,,,,$real,,,,,
+SN000996,meat,mubuo,,,FLESH OR MEAT [2615],meat,,,food,wusi,mit
+SN000997,piece,mur,,,PART [779],piece,,,,,pis
+SN000998,(of a single object) fall down,mur_1,,,FALL [1280],fall,,,,,foldaon
+SN000999,a bit (without existential presupposition),mursi,,,,a.bit,,,,,lelebet
+SN001000,a bit (with existential presupposition),murswa,,,,a.bit,,,,,lelebet
+SN001001,music,musik,,,MUSIC [642],music,,,,,
+SN001002,[realis],mw-,,,,$real,,,,,
+SN001003,[realis],mwe,,,,$real,,,,,
+SN001004,or; or not,mwede,,,OR [1014],or.not ; or,,,,,o
+SN001005,left,mwei,,,LEFT [244],left,,,body,,lef
+SN001006,(of a multitude of things) little; a little,mwelili,,,SMALL [1246],small,,,,,smol
+SN001007,short,mwer,,,SHORT [1645],short,,,,,sot
+SN001008,nothing; for nothing,mwes,,,NOTHING [687],$res.nothing,,,,,nating
+SN001009,squash,mwimwilye,,,,squash,,,,,skwisim
+SN001010,decline; refuse,mwisyen,,,REFUSE [49],decline,,,,,no wantem
+SN001011,hunger,myaa,,,HUNGER [1864],hunger,,,food ; body,,hanggri
+SN001012,a meal made of breadfruit buried in the ground which keeps for a long time and serves as food in times of hardship,myaa_1,,,,,,,,,kakae blong bredfrut we oli berem long graon se bae i stap longtaem
+SN001013,bread,myaa_1,,,BREAD [1368],bread,,,,,bred
+SN001014,young shoot of a plant,myadi,,young shoot (medi vis),,shoot.of,,,plants,,sut (blong wan plan)
+SN001015,be night; be dark,myaek_1,,,DARK [706],be.night,,,climate,,i tudak
+SN001016,night,myaek_2,,,NIGHT [1233],,,,,,
+SN001017,secret,myaek_3,,,SECRET [1121],secret,,,,,"sikrit, trik"
+SN001018,moray,myaer,,,,moray,,,fauna ; aquatic creatures,,namarae
+SN001019,whitemouth moray,LX000035,,,,,,Gymnothorax meleagris,fauna ; aquatic creatures,,namarae wetem waet mo blak kala
+SN001020,carving made of fern tree ; carving,myage,,,,carving,,,custom,,"namanggi, kaving blong blak palm"
+SN001021,myage.platform ; a platform on which someone who wants to aquire a higher rank has to stand while others throw sticks at him which he has to fight off with a club,myage,,,,myage.platform,,,,,"bed we wan kastom man i stanap long hem mo ol man i stap stonem, long wan kastom seremoni blong karem wan niufala rang"
+SN001022,brown lizard,myagom,,,,brown.lizard,,,fauna,,braun lised
+SN001023,red-eyed crab,myali,,,,red.eyed.crab,,Eriphia sebana,fauna ; aquatic creatures,,red-ae-krab
+SN001024,parrotfish,myalyes,,,,parrotfish,,Scaridae,fauna ; aquatic creatures,,blufis
+SN001025,laugh,myan,,,LAUGH [1355],laugh,,,,,laf
+SN001026,roll with laughter,myan_kikisi,,,,roll.with.laughter,,,,,i laf i no gat en blong hem
+SN001027,laugh at someone,myan_silye,,,,,,,,,laf long (wan man)
+SN001028,with,myane,,,WITH [1340],with,,,,,wetem
+SN001029,sore,myanok,,,SORE [51],sore,,,body,,soa
+SN001030,bump; abscess,myanokep,,,,abscess,,,body,,boila
+SN001031,swordfish,myantung,,,,swordfish,,,fauna ; aquatic creatures,,sofis
+SN001032,volcano,myaop,,,VOLCANO [2291],volcano,,,climate,,volkeno
+SN001033,throat,myaor,,myaor ane nye,THROAT [1346],throat,,,body,,trot
+SN001034,heavy,myap,,,HEAVY [1210],heavy,,,,,hevi
+SN001035,watch,myar_1,,,WATCH [1650],watch,,,,,lukluk
+SN001036,(of food) be underdone or unripe,myar_2,,,RAW [1959],be.raw,,,food,,(kakae i) no dan yet
+SN001037,eye,myar_3,,,EYE [1248],eye,,,body,,ae
+SN001038,aimlessly,myar_4,,,,$res.aimlessly,,,,,"olbaot, kranki"
+SN001039,selfish; greedy,myar_5,,,GREEDY [2018],selfish,,,,,selfis
+SN001040,random,myar_6,,"can you say: nam en myar mees, yam seka myar ivyo?",,random,,,,,eni kaen
+SN001041,blindness,myar_bwii,,,,blindness,,,,,blaen
+SN001042,blindness,myar_bwii_1,,,,blindness,,,body,,blaen
+SN001043,bad eyesight,myar_sanga,,,,bad.eyesight,,,body,,ai i no gud
+SN001044,observe; watch,myarane,,,WATCH [1650],observe,,,,,lukluk
+SN001045,dry,myas,,,DRY [1398],dry,,,,,drae
+SN001046,old,LX000036,,,OLD (AGED) [2112],old,,,,,olfala
+SN001047,right,LX000037,,,,right,,,,,raet
+SN001048,ripe,myen,,,RIPE [178],ripe,,,food,,raef
+SN001049,great hog plum,myoomyoo,,,,hog.plum,,Spondias dulcis,plants ; food,,naos
+SN001050,exact; right; ok; straight,myor,,,EXACT [1466] ; STRAIGHT [1404],exact,,,,,"raet, stret"
+SN001051,justice; rightness; straightness,myoran,,,,justice,,,,,"wanem we hem i raet, fasin we hem i stret"
+SN001052,face,n,,,FACE [1560],face,,,,,
+SN001053,"[negative, potential marker]",n-,,,,$neg.pot,,,,,
+SN001054,"[negative, potential marker]",-n,,,,$neg.pot,,,,,
+SN001055,"[negative, potential marker]",na,,,,$neg.pot,,,,,
+SN001056,[first person singular],na_1,,,,$1s,,,,,
+SN001057,[complementizer],na_2,,,,$comp,,,,,
+SN001058,mother,naana,,"mother's sister, son's wife (kekei), brother's son's wife (kekei)",MOTHER [1216],mother,,,family,,mama
+SN001059,during the day,naarop,,,,during.the.day,,,,,delaet
+SN001060,the fourth rank,naim,,,,fourth.rank,,,custom,,namba fo rang
+SN001061,a house for important meetings and negotiations between chiefs,nakamal,,,MEETING HOUSE [335],meeting.house,,,,,
+SN001062,ready,naknak,,,READY [790],ready,,,,,redi
+SN001063,number,namba,,,NUMBER [1356],number,,,,,
+SN001064,when,nanges,,,WHEN [1238],when,,,,,"wanem taem, wen"
+SN001065,nasara,nasara,,,,nasara,,,,,nasara
+SN001066,child of,nat,,,,child.of,,,,,pikinini blong hem
+SN001067,child of,nat-,,,,child.of,,,family,,
+SN001068,child,ne,,,CHILD (DESCENDANT) [1801],child,,,,,
+SN001069,[transitivizer],ne_1,,,,$trans,,,,,
+SN001070,"[negative, potential marker]",ne_2,,,,$neg.pot,,,,,
+SN001071,"[negative, potential marker]",ne_3,,,,$neg.pot,,,,,
+SN001072,with (an instrument),ne_4,,,,with,,,,,"wetem, yusum"
+SN001073,[transitivizer],-ne,,,,$trans,,,,,
+SN001074,[transitivizer],-ne_1,,reconsider suffix status,,$trans,,,,,
+SN001075,fear,nek,,,FEAR (BE AFRAID) [1419],fear,,,,,fraet
+SN001076,face,nena,,alternation [a] and [\textipa{E}],FACE [1560],face,,,body,,fes
+SN001077,yesterday; the day before,nenyu,,,YESTERDAY [1174],yesterday,,,,,yestede
+SN001078,blue,nep,,,BLUE [837],blue,,,color,,blu
+SN001079,his/her offspring,nesye,,,CHILD (DESCENDANT) [1801],offspring(3poss),,,family,,piknini blong hem
+SN001080,child,net,,,CHILD (DESCENDANT) [1801],child,,,,,
+SN001081,child,neti,,,CHILD (DESCENDANT) [1801],child,,,family,,pikinini
+SN001082,daughter,netkaven,,,DAUGHTER [1357],daughter,,,family,,gel
+SN001083,cackle; chirp,ngaa,,,,cackle,,,fauna ; birds,,mekem noes we wan faol o samting blong naet i mekem
+SN001084,still,ngabak,,"""not yet"" in negative contexts",,still,,,,,yet
+SN001085,not yet,ngabwe,,,,not.yet,,,,ngabak,no yet
+SN001086,dirty,ngangais,,,DIRTY [1230],dirty,,,,,doti
+SN001087,rest; have a break,ngapngap,,,REST [168],rest,,,body,,spel
+SN001088,chew,ngase,,,CHEW [321],chew,,,body,,kakae be no solem
+SN001089,here (presenting sth. visible to the listener),nge,,,HERE [136],here,,,,,
+SN001090,[third person singular],nge_1,,,,$3s,,,,,hem
+SN001091,where,ngebe,,which?,WHERE [1237],where,,,,,wem
+SN001092,a ring (of bananas),ngir,,,,,,,plants,,ring (blong banana)
+SN001093,skin an animal,ngivi,,,PULL OFF (SKIN) [291],skin,,,food,,skinim (wan animol)
+SN001094,you; [second person singular],ngok,,,,$2s,,,,,yu
+SN001095,an insect which lives on the banana plants,ngongo,,,,banana.bug,,,fauna,,wan insect we i stap long banana
+SN001096,edible skin of the new fruit of some coconut species.,ngu,,,,edible.coconut.skin,,,,,skin blong wan niu kokonas we i swit
+SN001097,cut something into pieces,ngulye,,,,cut.to.pieces,,,craft,,katem
+SN001098,yellow,ngunguo,,,YELLOW [1424],yellow,,,color,,yelo
+SN001099,a fence made of the leaves of the coconut palm,ngur,,,,palm.leaf.fence,,,,,fanis blong lif kokonat we em i raonem wan tabu ples
+SN001100,raise a fist or a weapon to attack,nguwane,,zum Schlag ausholen,,raise.fist,,,,,"pulum bak han, mekem wan aksen blong kilim wan man"
+SN001101,a kind of almond,ngye,,,,nangai.nut,,,plants ; food,,nangai
+SN001102,"[negative, potential marker]",ni,,,,$neg.pot,,,,,
+SN001103,thorn,nidil,,,THORN [124],thorn,,,,,
+SN001104,need,nidim,,,NEED (SOMETHING) [2339],need,,,,,
+SN001105,hide,nii,,,HIDE (CONCEAL) [602],hide,,,,,haed
+SN001106,nail,nil,,,,nail,,,,,
+SN001107,spirit,nin_meuan,,,,spirit,,,,,speret
+SN001108,lizard,nip,,,LIZARD [632],lizard,,,fauna,,"lised, gecko"
+SN001109,flat,nip_1,misii,,FLAT [1633],flat,,,,,"tin, flat"
+SN001110,reef lizardfish,nip_ane_tes,,,,,,,fauna ; aquatic creatures,,lisadfis
+SN001111,wet,nirnir,,,WET [1726],wet,,,,,wetwet
+SN001112,news,nius,,,,news,,,,,
+SN001113,finish,nok,,,FINISH [1766],finish,,,,,finis
+SN001114,both,nokis,,,,both,,,,,tufala tugeta
+SN001115,red silkwood; edible fruit of red silkwood,nor,,,,red.silkwood.fruit,,Burckella obovata,plants ; food,,naduledule
+SN001116,"[negative, potential marker]",nu,,,,$neg.pot,,,,,
+SN001117,"[negative, potential marker]",nu_1,,,,$neg.pot,,,,,
+SN001118,ask so. for food,nungse,,,,ask.for.food,,,,,ask blong kakae
+SN001119,face of,ny-,,,,face.of,,,body,,
+SN001120,aunt of,ny-_1,,,,aunt.of,,,family,,
+SN001121,[third person dual],nya,,,,$3d,,,,,tufala
+SN001122,I; [first person singular],nye,,,I [1209],$1s,,,,,mi
+SN001123,aunt,nye_1,,,AUNT [1272],,,,,,anti
+SN001124,[first person plural exclusive],nyem,,alternative to kinyem,,$1pl.ex,,,,,
+SN001125,[third person plural demonstrative],nyone,,,,$3pl.dem,,,,,
+SN001126,[third person plural demonstrative proximal],nyontak,,,,$3pl.dem.prox,,,,,
+SN001127,[third person plural],nyoo,,,,$3p,,,,,olgeta
+SN001128,[third person paucal],nyosi,,,,$3pc,,,,,trifala
+SN001129,be startled; be dazzled,nyun,,,,be.startled,,,,,i sek
+SN001130,nod; fall asleep; be sleepy,nyup,,emotive,FALL ASLEEP [1106],nod,,,body,,hafhaf silip
+SN001131,think,nyur,,,THINK (REFLECT) [1415],think,,,,,ting
+SN001132,believe,nyurkate,,,BELIEVE [1890],believe,,,,,"tingting strong, bilif"
+SN001133,understand; know; remember after thinking,nyurkuowilye,,,KNOW (SOMETHING) [1410] ; UNDERSTAND [1536],understand,,,,,ting save
+SN001134,idea; plan,nyurnyuran,,,IDEA [1609],idea,,,,,tingting
+SN001135,"trying in vain to understand, imagine or remember something",nyurseane,,,,be.at.a.loss,,,,,traem tingbaot be i no kasem
+SN001136,understand,nyursyone,,,UNDERSTAND [1536],understand,,,,,"tingbaot i kasem, andastanem"
+SN001137,aunt,LX000038,,,AUNT [1272],aunt,,,family,,anti
+SN001138,[interjection],o,,,,$intj,,,,,
+SN001139,or,o_1,,,OR [1014],or,,,,,
+SN001140,office,ofis,,,OFFICE [2430],office,,,,,
+SN001141,[interjection],oi,,,,$intj,,,,,
+SN001142,my,ok,,,MY [2090],$1sg.poss,,,,,
+SN001143,ok,ok_1,,,,ok,,,,,
+SN001144,[first person singular possessive],-ok,,,,$1sg.poss,,,,,
+SN001145,walk; move towards a certain direction without the help of a vehicle ; walk,oko,,,WALK [1443],walk,,,,,wokbaot (long leg)
+SN001146,travel,oko,,,,,,,,,wokbaot (go luk ol difren ples)
+SN001147,shuffle,oko_melipro,,,,shuffle,,,,,wokbaot i slak
+SN001148,step on (inadvertantly),oko_yan,,,,,,,,,wokbaot i stanap long
+SN001149,skulk; sneak; step cautiously without making a noise,okomarmar,,"gyesmarmar (work concentrated), enmarmar",,skulk,,,,,wokbaot i kwaet
+SN001150,walk across,okote,,,,walk.across,,,,,i wokbaot i krosem
+SN001151,october,Oktoba,,,,October,,,,,
+SN001152,old man,olfala,,,OLD MAN [406],old.man,,,,,
+SN001153,always,oltaem,,,ALWAYS [1676],always,,,,,
+SN001154,"[emotive, second person singular]",om,,,,$em.2s,,,,,
+SN001155,[second person singular possessive],-om,,,,$2sg.poss,,,,,
+SN001156,[second person dual possessive],-omaa,,,,$2d.poss,,,,,
+SN001157,a banana species,ometi,,,,banana.species,,,,,wan kaen banana
+SN001158,"[emotive, second person plural]",omim,,,,$em.2p,,,,,
+SN001159,"[emotive, third person singular]",on,,on mwe nek,,$em.3s,,,,,
+SN001160,[third person singular possessive],-on,,,,$3sg.poss,,,,,
+SN001161,dirty,ona,,,DIRTY [1230],dirty,,,,,doti
+SN001162,hear; smell; feel,ongane,,,FEEL [1079] ; HEAR [1408] ; SMELL [2124],hear,,,body,,harem
+SN001163,shadow,onon,,,,shadow,,,,,
+SN001164,shadow of,onon-,,,,shadow.of,,,body,,
+SN001165,shadow; reflection,onono,,,SHADOW [2275],shadow,,,body,,sado
+SN001166,[third person plural possessive],-oo,,,,$3pl.poss,,,,,
+SN001167,[interjection],ooa,,,,$intj,,,,,
+SN001168,firewood,op,,,FIREWOOD [10],firewood,,,food,,faeawud
+SN001169,"bush ; bush, jungle, forest",or,,,FOREST [420],"bush, jungle, forest",,,,,bus
+SN001170,place ; place,or,,,PLACE (POSITION) [723],place,,,,,ples
+SN001171,shore ; shore,or,,,SHORE [113],shore,,,,,soa
+SN001172,useless ; useless,ormwes,,,,useless,,,,,"nating, no gat wok blong hem"
+SN001173,it does not matter ; no.problem,ormwes,,,,no.problem,,,,,"nating, i no wan samting"
+SN001174,horse,os,,,HORSE [615],horse,,,,,
+SN001175,"[emotive, third person paucal]",osi,,for emotive verbs: fear,,$em.3pc,,,,,
+SN001176,[third person paucal possessive],-osi,,,,$3pc.poss,,,,,
+SN001177,hospital,ospitel,,,HOSPITAL [616],hospital,,,,,
+SN001178,order,ota,,,ORDER [1128],order,,,,,
+SN001179,"[emotive, third person dual]",oya,,,,$em.3d,,,,,
+SN001180,[potential marker],-p,,,,$pot,,,,,
+SN001181,[epenthetic consonant],-p_1,,,,$ep,,,,,
+SN001182,bear fruit,pa,,,,bear.fruit,,,plants,,karem (frut)
+SN001183,watch over something,paakuo,,,WATCH [1650],watch,,,,,wajem
+SN001184,fish; go fishing,LX000039,,redup: panpando,,fish,,,food,,hukum fis
+SN001185,pipe,paep,,,PIPE [1124],pipe,,,,,
+SN001186,pipe,paeplaen,,,PIPE [1124],pipe,,,,,
+SN001187,pick up,pakuli,,,PICK UP [371],pick.up,,,,,pikim ap
+SN001188,work hard; have a hard time doing something,pakuon,,,,work.hard,,,,,had wok
+SN001189,kava indigenous to Malekula,palis,,,,,,,plants ; food,,kava blong Malekula
+SN001190,chatter; make noise (e.g. children in a classroom),palong,,,,chatter,,,,,"toktok, mekem nois"
+SN001191,swamp harrier,pan,,,,swamp.harrier,,,fauna ; birds,,hok dae
+SN001192,forked,pan_1,,,,forked,,,,,i fok
+SN001193,forehead,pan-,,,FOREHEAD [123],forehead,,,body,,fored blong hed blong hem
+SN001194,buff-bellied flycatcher,LX000040,,,,flycatcher,,,fauna ; birds,,smolfala pijin wetem bel we i yelo
+SN001195,dad,papa,,,FATHER [1217],dad,,,,,
+SN001196,"thrust [a spear, knife etc] into a surface to make it stand upright",pas,,,THRUST [246],thrust,,,,,sperem
+SN001197,engagement; official announcement that a woman is to be married to one's son,pase,,,,engagement,,,,,seremoni blong blokem wan wuman
+SN001198,"declare the engagement of a woman with one's son, thereby making her inaccessible to other men",pasene,,,,declaring.engagement.with,,,,,blokem (wan wuman)
+SN001199,pound,paskate,,,POUND [354],pound,,,house,,ramem
+SN001200,lacerate something with a sharp edge,paswa,,,,lacerate,,,,,brekem wan samting (long wan naef etc)
+SN001201,part,pat,,,PART [779],part,,,,,
+SN001202,pawpaw,pawpaw,,,,pawpaw,,,,,
+SN001203,neck,pedyu,,,NECK [1333],neck,,,body,,nek
+SN001204,dig something out; take food out of its leaves,peir,,,,dig.out,,,food,,"karemaot, karemaot kakae long lif blong hem"
+SN001205,dig something out again,peirtase,,,,,,,,,karemaot bakegen
+SN001206,tomorrow; the next day ; tomorrow,pelyen,,,TOMORROW [1329],tomorrow,,,,,tumoro
+SN001207,See you tomorrow!,pelyen,,,,,,,,,luk yu tumoro!
+SN001208,the next day,pelyen,,,,,,,,,tumoro
+SN001209,roast (food for several people),penin,,,,roast.$pl,,,food,,rusum (fulap sth)
+SN001210,join,penor,,check bislama etc,JOIN [1743],join,,,,,joenem tufala mat long medel blong mekem i kam bigwan
+SN001211,pencil,pensil,,,,pencil,,,,,
+SN001212,paper,pepa,,,PAPER [648],paper,,,,,
+SN001213,morning,pepelyen,,,MORNING [1339],,,,,,moning
+SN001214,add,pepya,,add,,,,,,,
+SN001215,shiver; shake,pepyap,,,SHAKE [1909] ; SHIVER [52],shiver,,,,,sek
+SN001216,shoot (reduplication),pe-pyen,,,,$redup-shoot,,,,,
+SN001217,white (reduplication),pe-pyo,,,,$redup-white,,,,,waet
+SN001218,father,pere,,check English,FATHER [1217],pere,,,,,
+SN001219,striped,perper,,,,striped,,,,,i gat ol kros mak
+SN001220,hurry,perper_1,,,HURRY [754],hurry,,,,,hariap
+SN001221,near,pesili,,,NEAR [1942],near,,,,,kolosap
+SN001222,lay an egg; bear offspring (of animals),pesis,,,,lay.egg,,,fauna,,"leem eg, bonem pikini (long ol animal)"
+SN001223,suck in air through protruded lips to produce a sound similar to a kissing sound in order to make so. aware of one's presence,pesum,,,,make.kissing.sound,,,body,,"wisil, mekem wan saon blong mekem se wan man i luk yu"
+SN001224,send; command,LX000041,,,SEND [1127],send,,,,,sendem
+SN001225,commandment (as in the 'ten commandments'),LX000042,,,,,,,,,komanmen
+SN001226,be right; true,peten,,,TRUE [1657] ; CORRECT (RIGHT) [1725],be.true,,,,,tru
+SN001227,truth,petenan,,,TRUTH [1638],,,,,,trut
+SN001228,skirt,petikot,,,SKIRT [1600],skirt,,,,,
+SN001229,under a tree,petye,,,,under.the.tree,,,plants,,andanit (long wan tri)
+SN001230,hold a (black) magic rite,piiane,,,,perform.magic,,,,,mekem faea blong majik
+SN001231,disobey,piipiitowane,,,,disobey,,,,,"i no rispektem lo, gohed long wan samting we i tabu"
+SN001232,red,pili,,,RED [156],red,,,color,,red
+SN001233,cardinalfish; bigeye; soldierfish; squirrelfish,pilibung,,,,striped.mojarra,,,fauna ; aquatic creatures,,"redfis, bigeye"
+SN001234,pillow,pilo,,,PILLOW [1044],pillow,,,,,
+SN001235,fix,pin,,,,fix,,,,,
+SN001236,cover entirely; fill,pini,,,FILL [2006],fill,,,,,kavremap evriwan
+SN001237,share,pipine,,,SHARE [884],share,,,food,,serem
+SN001238,slanted,pirpir,,,,slanted,,,,,i no level
+SN001239,go down,pirseling,,,GO DOWN (DESCEND) [2014],go.down,,,,seling,go daon
+SN001240,tie,pis,,,TIE [1917],tie,,,,,
+SN001241,fasten to; stick to,pisi,,,FASTEN [1094],fasten,,,,,fas long wan samting
+SN001242,tie; knot,piskate,,,TIE [1917],tie,,,,,fasem (wan rop)
+SN001243,paint,pisya_1,,,,paint,,,,,pent
+SN001244,paint; color,pisya_2,,possibly diachronic relation to pija,COLOR [1613] ; PAINT (PIGMENTS) [647],,,,,,pent
+SN001245,pass through,pisyaa,,,,pass.through,,,,,kam tru long wan ples
+SN001246,paint,pisyane,,,,paint,,,craft,,"pentem, kalarem"
+SN001247,show,pisyenane,,,SHOW [1039],show,,,,,soem
+SN001248,plantation,plantesen,,,,plantation,,,,,
+SN001249,play,ple,,,PLAY [1413],play,,,,,
+SN001250,plane,plen,,,AIRPLANE [1597],plane,,,,,
+SN001251,harbour,point,,,,harbour,,,,bung_2,
+SN001252,poison,poisenem,,,,poison,,,,,
+SN001253,poison; black magic,poison,,,POISON [655],poison,,,,,
+SN001254,bowl,pol,,,BOWL [1530],bowl,,,,,
+SN001255,policeman,polis,,,,police.man,,,,,
+SN001256,climb,polo,,"newer version of ""poo""",CLIMB [1102],climb,,,,,
+SN001257,whistle,pon,,,WHISTLE [1025],whistle,,,body,,wesil
+SN001258,climb,poo,,,CLIMB [1102],climb,,,,,klaem
+SN001259,confess,popopane,,,,confess,,,,,"konfes, talemaot"
+SN001260,comet (a fish species),pot,,,,comet.fish,,Calloplesiops altivelis,fauna ; aquatic creatures,,wan kaen fis we i blak wetem waet spot
+SN001261,for,pour,,only as part of the phrase 'cent pour cent',,for,,,,,
+SN001262,power,power,,,,power,,,,,
+SN001263,pray,pre,,,PRAY [24],pray,,,,,
+SN001264,prophet,profet,,,,prophet,,,,,
+SN001265,blow,pu,,,,blow,,,,,blu
+SN001266,hot springs at the shore,pukuo,,check definition,,hot.springs,,,,,hot wota
+SN001267,count,puluk,,,COUNT [1420],count,,,custom,,kaonem
+SN001268,count,pulukte,,,COUNT [1420],count,,,,,kaonem
+SN001269,tell (a story),pun_1,,,TELL [1711,tell,,,,,"stori, talem wan stori"
+SN001270,story,pun_2,,,STORY [2060],story,,,,,
+SN001271,story,punan,,,STORY [2060],,,,,,storian
+SN001272,at the fire; close to the fire,punapyang,,,,at.fire,,,,,long saed blong faea
+SN001273,turn,pune,,,TURN [1588],turn,,,,,tonem
+SN001274,ascend; climb,punguo,,,CLIMB [1102] ; GO UP (ASCEND) [705],go.up,,,space,,go antap
+SN001275,search for shellfish,punguor,,check definition,,look.for.shellfish,,,food,,lukaotemsel long solwota
+SN001276,tell,punusili,,,TELL [1711],tell,,,,,talem
+SN001277,[interjection] expressing disappointment,puo,,,,$intj,,,,,
+SN001278,be plentiful,puo_1,,,,be.plentiful,,,,pwis,i plante
+SN001279,bold man,puo_2,,,,bold.man,,,,,bolhed
+SN001280,again; [future (potential)],puon,,,,$fut.again,,,,,"bakegen, wantaem"
+SN001281,buy (several items),puos,,,BUY [1869],buy,,,,,pem
+SN001282,sell,puosane,,,SELL [1571],,,,,,salem
+SN001283,open,pupuop,,reduplicated?,OPEN [1156],open,,,,,openem
+SN001284,be unreliable; behave erratically,puputawye,,,,unreliable,,,,,mekem samting olbaot
+SN001285,lie on the back,pupwer,,,,lie.on.back,,,,,silip long baksaed
+SN001286,cat,pus,,,CAT [1208],cat,,,,,
+SN001287,squeeze,pusane,,,SQUEEZE [1414],squeeze,,,,,skwisim
+SN001288,cat,puskat,,,CAT [1208],cat,,,,,
+SN001289,[continuos aspect marker],pwe,,,,$cont,,,,,
+SN001290,buccal cavity,pwe_1,,,,opening.of.mouth,,,body,,maot
+SN001291,bake,pweli,,,BAKE [183],bake,,,food,,bek
+SN001292,feed,pwengen,,compare with luwuo,FEED [739],feed,,,,,fidim
+SN001293,sore; painful,pwenges,,,PAINFUL [1129],sore,,,body,,soa
+SN001294,stay; sleep,pwer,,,REMAIN [987] ; SLEEP [1585],stay,,,,,stap
+SN001295,dream,pwer_esi,,,DREAM [2374],,,,,,drim
+SN001296,sleep,pwer_myaek,,,SLEEP [1585],,,,,,silip
+SN001297,depend on,LX000043,,,,,,,,,"dipen long, stap long"
+SN001298,have a prophetic or visionary dream,pwerlilye,,,,envision,,,,,drim (wan drim we i tru)
+SN001299,fix something to a surface in a vertical orientation,pwesane,,,,fix,,,,,standem ap
+SN001300,thrust something like a spear or a knife into the ground or a tree as to make it stay there,pwesane_1,,aufragen,,,,,,,"stanem ap, planem (olsem wan spia long graon, wan naef long wan wud)"
+SN001301,stand upright (of trees and inanimate objects),pwese,,,,stand.upright,,,,,stanap
+SN001302,branch,pwesye,,it seems plausible that this lexeme became relexicalized from some former form *pwe,BRANCH [1531],branch,,,plants,,han
+SN001303,be plentiful,pwis,,check word class: kinyem pwis?,,be.plentiful,,,,,fulap
+SN001304,come out; visit,pwisyaa,,stress on first syllable?,VISIT [1377],come.out,,,,,kamkamaot
+SN001305,afternoon and evening,pyaavep,,,AFTERNOON [1807] ; EVENING [1629],afternoon,,,climate,,aftenun
+SN001306,drown someone,pyadingi,,,,drown,,,,,draonem
+SN001307,neck,pyady,,pyady,NECK [1333],neck,,,body,,nek
+SN001308,look for [resultative],pyak,,,,$res.look.for,,,,,
+SN001309,gather; pick up (a multitude of objects),pyakane,,,GATHER [7],gather,,,,,pikim ap (fulap samting)
+SN001310,find [resultative],pyakilye,,,,$res.find,,,,,
+SN001311,search [resultative],-pyakilye,,,,$res.search,,,,,
+SN001312,negotiate with someone under four eyes ; negotiate,pyalir,,use magic to persuade so. to do so.,,negotiate,,,,,(wan man i stap) askem wan samting long wan narafala man we i stap wetem tufala nomo
+SN001313,under; down; in,pyan_1,,,DOWN [1326] ; IN [1460] ; BELOW OR UNDER [1485],under,,,space,,"andanit, daon"
+SN001314,low,pyan_2,,,,,,,space,,daon
+SN001315,inside,pyan_em,,,INSIDE [1606],,,,space,,insaed
+SN001316,roast (one thing) ; roast,pyane,,,ROAST (SOMETHING) [1962],roast,,,food,,rusum (blong wan nomo)
+SN001317,burn,pyane,,check English (Brandrodung?),BURN [2102],,,,,,bonem
+SN001318,done; ready (of food) ; done,pyang,,,,done,,,food,,(kakae) i dan
+SN001319,"hot, warm ; hot",pyang,,,HOT [1286],hot,,,,,hot
+SN001320,row (a boat),pyaos,,,ROW [1849],row,,,,,"pul, parel"
+SN001321,splendid,pyas,,,,splendid,,,,,flas
+SN001322,adorn,pyasane,,,,,,,,,flasem
+SN001323,give birth,pyase,,,GIVE BIRTH [1195],give.birth,,,body,,bonem
+SN001324,"shoot (with bow and arrows, slingshot or gun)",pyen,,,,shoot,,,,,sutum
+SN001325,hold a custom ceremony,pyoo,,,,make.ceremony,,,,,mekem wan kastom seremoni
+SN001326,cheat; joke,pyos,,,,joke,,,,,"trik, kiaman, tokple, jok"
+SN001327,flower,pyung,,,FLOWER [239],flower,,,plants,,karem (flaoa)
+SN001328,white,LX000044,,,WHITE [1335],white,,,color,,waet
+SN001329,[first person plural inclusive],ra,,,,$1pl.in,,,,,
+SN001330,round,raon,,,ROUND [1395],round,,,,,
+SN001331,surround,raonem,,,,surround,,,,,
+SN001332,"sandals, shoes",rapa,,,,sandals,,,,,
+SN001333,record,rikord,,,,record,,,,,
+SN001334,phone,ring,,,,phone,,,,,
+SN001335,phone,ringim,,,,phone,,,,,
+SN001336,fan,riprip,,,,fan,,,,,fanem
+SN001337,river,riva,,,RIVER [666],river,,,,,
+SN001338,wriggle; curl,rolrol,,,,wriggle,,,,,
+SN001339,thunder,ruuruu,,,THUNDER [1150],thunder,,,,,tanda
+SN001340,[possessive classifier three],s-,,,,$cl3,,,,,
+SN001341,shy; embarrased,sa,,,SHY [487],shy,,,,,sem
+SN001342,[topic marker],sa_1,,hem ya,,$top,,,,,
+SN001343,float ; float,saa,,,FLOAT [1574],float,,,,,flot
+SN001344,pull,saa_1,,,PULL [1455],pull,,,,,pulum
+SN001345,(of an insect) sit down; hang down,saa_2,,,,hang ; sit,,,,,"hang, sidaon"
+SN001346,in vain; pointlessly; endlessly,-saa,,,IN VAIN [1765],in.vain,,,,,i no kasem (en blong hem)
+SN001347,win; triumph,saakap,,"check meaning, check English",WIN [866],win,,,,,win
+SN001348,change; change clothes,saakuokuo,,,CHANGE [1264],change,,,,,jenis
+SN001349,lift something out of something,saakuwu,,,,,,,,,pulum i kam aot
+SN001350,lift,saane,,,LIFT [501],lift,,,,,"pulum, leftemap"
+SN001351,move ; move,saasaa,,,MOVE [765],move,,,,,muvmuv
+SN001352,swing,saasaa,,,,,,,,,swing
+SN001353,[third person paucal possessive],saasi,,,,$3pc.poss,,,,,
+SN001354,submarine,sabmarin,,,,submarine,,,,,
+SN001355,sardine,sadin,,,,sardine,,,fauna ; aquatic creatures,,
+SN001356,sign,saen,,,SIGN [1720],sign,,,,,
+SN001357,sailing ship,sailingship,,,,sailing.ship,,,,,
+SN001358,"[assertion marker, negative]",saka,,,,$asr.neg,,,,,
+SN001359,"pluck the leaves of a plant whose leaves all emerge from the same place, as in palm trees, treeferns etc.",sake,,,,pluck,,,,,karemaot (ol lif blong wan pamtri o blakpam)
+SN001360,the second rank,sakran,,,,second.rank,,,custom,,namba tu rang
+SN001361,get together; assemble,sakvi,,,MEET [1831],assemble,,,,,kam tugeta
+SN001362,outrigger,sam,,,OUTRIGGER [416],outrigger,,,craft,,"pikinini blong bot, aotriga"
+SN001363,sometimes,samtaem,,,SOMETIMES [1544],sometimes,,,,,
+SN001364,bad,sanga,,,BAD [1292],bad,,,,,bad
+SN001365,be unfriendly to someone; treat someone badly,sangane,,,,,,,,,"i nogud long, i bad fren long"
+SN001366,hang,sangvene,,,HANG UP [357],hang,,,,,hangem (long solda)
+SN001367,arrive ; arrive,saor,,,ARRIVE [1387],arrive,,,,,"tru, kasem"
+SN001368,be born,saor,,,BE BORN [1090],,,,,,i bon
+SN001369,south,Saot,,,SOUTH [1595],South,,,,,
+SN001370,dance,sap,,,DANCE [1879],dance,,,custom,,danis
+SN001371,seventh-day Adventists,sapat,,,,Seventh.Day.Adventists,,,,,Seventh Day Adventists
+SN001372,[first person plural inclusive possessive],sar,,,,$1pl.in.poss,,,,,
+SN001373,saturday,Sarere,,,SATURDAY [1700],Saturday,,,,,
+SN001374,shape and smoothen the surface of an elongated object (like a branch or a piece of coral) by vertical strokes parallel to the object,save,,tense [e],,cut,,,craft,,"skinim, katem"
+SN001375,more; better; surpass; surpass,save_1,,,,surpass ; pass,,,,,bitim
+SN001376,"seek shelter (from the sun, rain etc)",savip,,,,seek.shelter,,,,,"haed (from ren, san etc)"
+SN001377,not yet,sawe,,,,not.yet,,,,,no yet
+SN001378,sit on the heels; squat,sawur,,,,sit.on.heels,,,body,,"sidaon long leg, haf sidaon"
+SN001379,[interjection],saye,,,,$intj,,,,,
+SN001380,be quiet,sayung,,,QUIET [1314],be.quiet,,,,,kwaet
+SN001381,custom ceremony,LX000045,,,,ceremony ; wedding,,,custom,,seremoni
+SN001382,wedding ceremony,LX000046,,,WEDDING [1259],,,,,,kastom blong mared
+SN001383,a sacred ceremony,LX000047,,,,,,,,,tabu kastom
+SN001384,seventh-day Adventists,SDA,,,,Seventh.Day.Adventists,,,,,
+SN001385,be trapped; be caught; be fastened to,se,,,,be.fastened.to,,,,,i fas
+SN001386,remove,se_1,,,,remove,,,,,karemaot
+SN001387,every; entire,seaa,,,,$res.every,,,,,evri
+SN001388,disappear; get lost; die,seaa_1,,,DIE [1494] ; DISAPPEAR [485] ; GET LOST [423],disappear,,,,,"i lus, i ded"
+SN001389,extremely,seaaten,,,,extremely,,,,,plante tumas
+SN001390,"food which is handed over as a present from one part of a family to another in certain ceremonies such as weddings, circumcisions etc.",sear,,,,ceremonial.food,,,custom,,"kakae blong wan kastom seremoni olsem mared, sekumsision etc."
+SN001391,secondary school,secondaire,,,,secondary.school,,,,,
+SN001392,listen,sedaeng,,,LISTEN [1608],listen,,,,,lesen
+SN001393,raise a weapon (in one hand) to hit someone,sedisi,,check English,,raise.weapon,,,,,pulum bak wan samting (olsem ston o naef) blong kilim wan man
+SN001394,size (of a wood),see,,,,size,,,,,saes (blong wan wud)
+SN001395,kingfisher,seebwiyo,,,KINGFISHER [2444],kingfisher,4adf30a3d902cc3bcabb7946ca59e349,,fauna ; birds,,"nasiko, longmaot"
+SN001396,colors applied to face and body; make-up,seepisya,,,,make.up,,,,,kala (we i kalarem fes o bodi)
+SN001397,place in the sun for drying,seeyaane,,seene yan yaa ; could be: see yaa ne,,dry,,,,,hangem long waea o putum long graon blong san i hitim blong i drae
+SN001398,stink,sek,,,SMELL (STINK) [1587],stink,,,food,,sting
+SN001399,harvest leaves of a plant,seka,,first [a] reduced,,harvest,,,food,,pinjim
+SN001400,shake hands,sekan,,,,shake.hands,,,,,
+SN001401,fix; bind,sekate,,,TIE [1917],fix,,,house ; craft,,fasem taet
+SN001402,scale,sekel,,,,scale,,,,,
+SN001403,be frightened; be startled,sekup,,,,be.startled,,,,,i fraet
+SN001404,frighten; startle,sekupane,,transitive: causative,FRIGHTEN [252],startle,,,,,fraetenem
+SN001405,break; snap,sekur,,,BREAK (DESTROY OR GET DESTROYED) [680],be.torn,,,,,i brok
+SN001406,surround,sekyu,,aua mwe saakyu lee ; check english,,surround,,,,,raonem
+SN001407,shilling,selen,,,,shilling,,,,,
+SN001408,road,seli,,,ROAD [667],road,,,,,rod
+SN001409,go down; descend,seling,,,GO DOWN (DESCEND) [2014],descend,,,space,pirseling,"kam daon, go daon"
+SN001410,same,sem,,"the position of this adjective is in Bislama, that is prenominal, instead of postnominal as usual in Daakaka.",SAME [200],same,,,,,
+SN001411,give,sem_1,,short for senga,GIVE [1447],give,,,,,
+SN001412,residue of,sema,,,,residue.of,,,food,,makas blong
+SN001413,triumph; be cheered,semyos,,,,be.cheered,,,,,i glad from i winim wan praes
+SN001414,hook; bind; connect something with a rope or string,sene,,,HOOK [1071] ; TIE [1917],hook,,,food ; craft,,hukum
+SN001415,give,senga,,,GIVE [1447],give,,,,,givim
+SN001416,be open,sengap,,incorporating,,be.open,,,,,open
+SN001417,open,sengave,,,OPEN [1156],open,,,,,openem
+SN001418,kneel down,sengdi,,,KNEEL [66],kneel,,,body,,nil daon
+SN001419,stick out your head so as to see something,sengelis,,,,stick.out.head,,,,,"traem blong luk, pusum hed"
+SN001420,be open; be uncovered,sengep,,,,be.open,,,,,i open
+SN001421,bend down; bend over,senur,,,BEND [2004],bend,,,body,tengbwir,bend
+SN001422,safe,sep,,,,safe,,,,,
+SN001423,carve one side of an elongated object like a bow handle,sep_1,,,CUT [1432],cut,,,,,katem wan saed (blong wan banaro etc)h
+SN001424,make up; decorative coloring of the face,sepisya,,,,make.up,,,,,pent (blong fes)
+SN001425,straighten; clean,sepukuone,,,,straighten.out,,,craft,,"klinim, skinim"
+SN001426,reach out ; reach.out,sesa,,,,reach.out,,,,,pusum han
+SN001427,shake hands,sesa,,,,,,,,,sek han
+SN001428,wear,sesear,,,WEAR [976],wear,,,,,werem
+SN001429,damage,sesisliline,,,DAMAGE [1116],damage,,,,,"spoilem, damisim"
+SN001430,skin sth.; like fish,sesivi,,,,skin,,,food ; craft,,skinim
+SN001431,throw something away,setiline,,schleudern,THROW [1456],throw,,,,,sakem olbaot
+SN001432,break,setyup,,,BREAK (DESTROY OR GET DESTROYED) [680],break,,,body,,i brok
+SN001433,what; which,sewe,,,WHAT [1236] ; WHICH [727],what,,,,,wanem
+SN001434,add,sewetase,,,,add,,,,,joinem
+SN001435,add,sewetase_1,,,,add,,,,,joinem
+SN001436,join (e.g. the ends of a rope),sewete,,,JOIN [1743],join,,,,,joinem (olsem tu rop)
+SN001437,who,si,,,WHO [1235],who,,,,,huia
+SN001438,[first person paucal inclusive],si_2,,,,$1pc.in,,,,,
+SN001439,cigarette,sigaret,,,CIGARETTE [969],cigarette,,,,,
+SN001440,three,sii_1,,,THREE [492],three,,,,,tri
+SN001441,touch,sikya,,,TOUCH [1892],touch,,,body,,tajem
+SN001442,until now,sikya_yene,,,,,,,,,kasem nao
+SN001443,(of a bird) scratch,sikye,,,,scratch,,,fauna ; birds,,skras
+SN001444,scratch,sikyene,,,SCRATCH [1436],,,,,,skrasem
+SN001445,board,silee,,,BOARD [1227],board,,,craft ; house,,bod
+SN001446,washing board,silee_ne_kyeskyesan,,,,,,,house,,bod blong wasem ol kaleko
+SN001447,"bank, chair",silee_ne_tastasan,,,,,,,house,,bang
+SN001448,finish [resultative suffix],-siline,,,,$res.finish,,,,,
+SN001449,stick stomething horizontally into a bigger object so it will stay there; pin sth. down/to a wall etc.,silip,,,,stick,,,,,pusum wan samting (olsem wan naef) long wan ples se bae i stap
+SN001450,a worm,silir,,,WORM [1219],silir,,,fauna,,wan kaen bebet
+SN001451,crops from last garden,silitoo,,,,crops.from.last.garden.,,,food,,kakae blong olfala karen
+SN001452,send,silya,,,SEND [1127],send,,,,,sendem
+SN001453,prop up,silya_1,,,,prop.up,,,,,blokem
+SN001454,pluck a row of parallel horizontal leaves from a central vertical rib as with coconut or fern leaves,silye,,,,pluck,,,,,"karemaot ol lif we oli stap long wan han blong kokonat, kabij blong krik etc."
+SN001455,the way leading past a village ; way.along.village,silyoo,,,,way.along.village,,,,,saedsaed blong vilij
+SN001456,rubbish heap ; rubbish.heap,silyoo,,,,rubbish.heap,,,,,ples blong rabis
+SN001457,scissortail sergeant or similar,simap,,,,fish.species,,,fauna ; aquatic creatures,,wan kaen fis
+SN001458,cement,simen,,,,cement,,,,,simen
+SN001459,black damselfish,simop,,,,damselfish,,,fauna ; aquatic creatures,,wan kaen fis
+SN001460,(as of a baby) suck,simsimi,,,SUCK [1421],suck,,,body,domesi,"susu, titi"
+SN001461,put something into one's hair,sine,,,,put.into.hair,,,,,putum wan samting long hea
+SN001462,thorn; needle; pointed or sharp parts of plants,sini,,,NEEDLE (FOR SEWING) [1382] ; THORN [124],thorn.of,,,plants,,nidil
+SN001463,green pidgeon,sini_1,,,,green.pidgeon,,,fauna ; birds,,grin pijin
+SN001464,sensitive plant,sini_kyenkyen,,check English,,,,Mimosa pudica,plants,,"nilgras, bluflaoa"
+SN001465,sea urchin,sinikoko,,,,sea.urchin,,,fauna ; aquatic creatures,,ol sta blong solwota
+SN001466,way; custom; manners,sinisye,,,CUSTOM [1747] ; MANNER [488],kastom ; manners,,,,,"fasen, rod, kastom"
+SN001467,be messy; be untidy,sinsinyo,,,,,,,,,stanap olbaot; olbaot nomo
+SN001468,orange,sinyo,,,ORANGE (FRUIT) [2627],orange,,,plants,,aranis
+SN001469,sugar cane ; sugar.cane,sip,,,SUGAR CANE [146],sugar.cane,,,plants,,sugaken
+SN001470,sugar,sip,,,SUGAR [862],,,,food,,suga
+SN001471,grow,sip_1,,"tooth, uti wemu, shoot out",GROW [479],grow,,,,,i gru
+SN001472,thank you,sipa,,,,thank.you,,,,,tank yu
+SN001473,hiccup,sirap,,,HICCOUGH [162],hiccup,,,,,?
+SN001474,(of the tide) rise,sis,,,,rise,,,climate,,"(solwota) i solap, i kam soa"
+SN001475,goatfish,sis_1,,,,goatfish,,,fauna ; aquatic creatures,,mustasfis
+SN001476,teat; nipple; breast,sis_2,,,BREAST [1402] ; NIPPLE [796],breast,,,body,,titi
+SN001477,singe (e.g. to seal off a thread),sisi,,sengen,,singe,,,,,bonem blong pinim blong i kam strong
+SN001478,purple,sisiya,,,PURPLE [2452],purple,,,color,,"pepol, red"
+SN001479,sister,sista,,,SISTER [1263],sister,,,,,
+SN001480,heron,siswowo,,,HERON [758],heron,,,fauna ; birds,,pijin blong rif
+SN001481,meet,sisya,,,MEET [1831],meet,,,,,mitim
+SN001482,thing,sisye,,,THING [738],thing,,,,,samting
+SN001483,grave,sitan,,Emyotungan,GRAVE [1773],grave,,,,,grev
+SN001484,rainbow lorikeet,sivi,,,,lorikeet,,,fauna ; birds,,nasivuru
+SN001485,golden-lined bream; blue-lined snapper or similar,sivi_1,,,,snapper,,,fauna ; aquatic creatures,,wan kaen snapa
+SN001486,shave,sivi_2,,,SHAVE [231],shave,,,body,,"sef, pulum resa, klinim"
+SN001487,egyptian ant; a species of tiny ants with a black had and transparent body,sivina,,check definition,,egyptian.ant,,,fauna,,smolsmol anis wetem blak hed mo waet bodi blong hem
+SN001488,push something out; expel someone,sivya,,,,expel,,,,,outem
+SN001489,dive,siwir,,,DIVE [119],dive,,,,,daev i go daon
+SN001490,who,siye,,,WHO [1235],who,,,,,
+SN001491,(of the sun) set,siyoo,,,,set,,,climate,,(san) i go daon
+SN001492,school,skul,,,SCHOOL [673],school,,,,,
+SN001493,smoke,smok,,,SMOKE (INHALE) [1689],smoke,,,,,
+SN001494,shore,soa,,,SHORE [113],shore,,,,,
+SN001495,"sew, stitch up",soemap,,,SEW [1457],sew.close,,,,,
+SN001496,salt,sol,,,SALT [1274],salt,,,,,
+SN001497,steam; heat,soluu,,,STEAM (VERB) [2067],,,,food ; body,,stimim
+SN001498,splash around,songolom,,planschen,,splash,,,,,"kilim wota, tontonem wota"
+SN001499,reef,soo,,,REEF [660],reef,,,climate,,rif
+SN001500,breathe heavily; be out of breath,sopsop,,,,breathe.heavily,,,body,,"sotwin, pulum win"
+SN001501,sorry,sori,,,,sorry,,,,,
+SN001502,pot,sospen,,,POT [1462],pot,,,,,
+SN001503,steam,sou,,,STEAM [1193],steam,,,,,stim
+SN001504,lie,sowe,,,LIE (MISLEAD) [601],lie,,,,,stap silip long
+SN001505,spirit,speret,,,SPIRIT [53],spirit,,,,,
+SN001506,sport,sport,,,,sport,,,,,
+SN001507,start,stat,,,BEGIN [1806],start,,,,tebwesye ; tebweti,
+SN001508,start,statem,,,BEGIN [1806],start,,,,,
+SN001509,story,stori,,,STORY [2060],story,,,,,
+SN001510,line,string,,,LINE [1048],line,,,,,
+SN001511,use a stick to make a fruit fall from its tree,su,,,,pluck.with.stick,,,food,,stikim
+SN001512,push,su_1,,in forms like suliline,PUSH [1452],push,,,,,
+SN001513,push; shove,suane,,,PUSH [1452],push,,,,,pusum
+SN001514,sugar,suga,,,SUGAR [862],sugar,,,,,
+SN001515,"belongings, possessions",suk-,,,,belongings.of,,,,,samting blong hem
+SN001516,a multitude of objects; stuff,suku,,,,stuff.of,,,,,ol smol samting
+SN001517,tools,suku_gyesan,,,TOOL [1361],,,,craft,,ol tul
+SN001518,leftovers; scraps,suku_mees,,,,,,,food,,ol doti blong kakae
+SN001519,(of more than three things) be together,sukuo,,,TOGETHER [2482],be.together,,,,,stap tugeta
+SN001520,chisel,sukuru,,,CHISEL [1979],chisel,,,,,
+SN001521,catch,sulup,,,CATCH [702],catch,,,,,"kasem, kajem"
+SN001522,New Guinea rosewood,sumaa,,,,rosewood,,Pterocarpus indicus,plants,,"bluwota, nananara, navilae"
+SN001523,tears,sun_myar_1,,,TEAR (OF EYE) [1651],tears,,,,,wota blong ae
+SN001524,tears,sun_myar_2,,,TEAR (OF EYE) [1651],tears,,,body,,wota blong ae
+SN001525,push,sune,,,PUSH [1452],push,,,,,pus
+SN001526,put something into something,sung,,,,put.into,,,,,fulum ap
+SN001527,ten,sungavi,,,TEN [1515],ten,,,,,ten
+SN001528,eleven,sungavi_a_swa,,,ELEVEN [1706],,,,,ung_swa,
+SN001529,go inside; enter,sungun,,,ENTER [749],enter,,,,,fulumap
+SN001530,choko; choyote,susur,,,,susut,,Sechium edule,plants ; food,,susut
+SN001531,join; participate,sutuoane,,,JOIN [1743],join,,,,,joen
+SN001532,"oneself, by oneself",suw,,,,oneself,,,,,
+SN001533,scale; remove scales from a fish or scaly parts from a plant,suwu,,,,scale,,,,,skelem
+SN001534,one; a,swa,,,ONE [1493],one,,,,,wan
+SN001535,catch,swave,,,CATCH [702],catch,,,,,"kajem, holem"
+SN001536,his/ her/ it's shit,sy,,,,shit,,,body,,sisit blong hem
+SN001537,meet,sya,,,MEET [1831],meet,,,,,"fas, mitim"
+SN001538,away [resultative suffix],-syaane,,,,$res.away,,,,,
+SN001539,push; trying to push over,syaapune,,,PUSH [1452],push,,,,,pusum
+SN001540,wrasse (a genus of fish),syaasyaa,,,,wrasse,,Thalassoma,fauna ; aquatic creatures,,sop
+SN001541,other; next,syan,,,NEXT [1354] ; OTHER [197],other,,,,,narafala
+SN001542,the other; one of them,syanan,,,OTHER [197],,,,,,narawan
+SN001543,come to a standstill; come to an end; be at a loss,syaor,,can be analysed as `sya or',,end,,,,,i blok
+SN001544,expel; push something out,syap,,,,push.out,,,,,
+SN001545,"cut in a controlled movement with a long, slender blade or scissors",sye,,,CUT [1432],cut,,,,,slaesem
+SN001546,something,sye_1,,,,something,,,,,samting
+SN001547,small,sye_2,,,SMALL [1246],small,,,,,smol
+SN001548,[third person singular possessive],-sye,,,,$3sg.poss,,,,,
+SN001549,rummage around in something (for something); grub; dig,syek,,,DIG [1418],rummage,,,,,"skrasem, lukaotem wan samting long wan hip"
+SN001550,cut,syepkote,,,CUT [1432],cut,,,,,katem slicem
+SN001551,cut; make a clean cut,syepkuone,,,CUT [1432],,,,,,slaesem gud
+SN001552,slice up,syepkuone_1,,,,slice.up,,,craft,,
+SN001553,cut through somthing,syeptae,,,,,,,,,katem brekem
+SN001554,nerite snails,syes,,,,nerite,,,fauna ; aquatic creatures,,"sel, selfis"
+SN001555,grave,syetantan,,Sesivi,GRAVE [1773],grave,,,,,grev
+SN001556,give a speech,syetowane,,,,give.speech,,,,,givim wan toktok
+SN001557,animal,syevenyu,,"sye- means something like cutting with a scissor, something that is thin",ANIMAL [619],animal,,,fauna,syewuo,animol
+SN001558,"cut something thin (like cloth, paper)",syewa,,,CUT [1432],cut,,,,,"katem brekem (samting we i tin, olsem kaliko o pepa)"
+SN001559,animal,syewuo,,,ANIMAL [619],animal,,,fauna,,animol
+SN001560,raft; float,syewuoswuos,,,RAFT [1664],raft,,,craft,,"flota, wan samting blong flot"
+SN001561,scissortail sergeant or a similar fish species,syewyewye_namesa,,,,scissortail.sergeant,,,fauna ; aquatic creatures,,kaen fis we i grin mo blu wetem ol blak straep
+SN001562,take (several things at once),syo,,,TAKE [1749],take,,,,,karem (fulap samting)
+SN001563,exchange,syokilye,,,EXCHANGE [2509],exchange,,,,,karem niu wan
+SN001564,find,syokilyene,,,FIND [719],find,,,,,faenem
+SN001565,take out; remove (a multitude of things),syokuwu,,,,,,,,,karemaot (fulap samting)
+SN001566,reach; hit,-syone,,,HIT [1433],$res.reach,,,,,kasem
+SN001567,go through,syoo,,,,go.through,,,,,kam tru
+SN001568,push,syooane,,,PUSH [1452],push,,,,,pusum
+SN001569,cricket,syoosyoo_kikye,,,CRICKET [2354],cricket,,,,,samting blong naet
+SN001570,break through,syootae,,,,,,,,,kamkamaot
+SN001571,catch; hit,syote,,,CATCH [702],catch,,,,,kasem
+SN001572,far away ; far.away,syoten,,"can also be used as an adverb (2315), but not in 3565",FAR [1406],far.away,,,,,longwe
+SN001573,land,syu,,,,land,,,,,"fas, lan"
+SN001574,uncle of,syuk,,,,uncle.of,,,family,,angkel
+SN001575,rubbish,syuk_1,,"used only as a suffix as in borsyuk and in syuksyuk, not as a full word",,rubbish,,,,,
+SN001576,rubbish,syuksyuk,,,,rubbish,,,,wilis ; wulis,doti
+SN001577,hit,syute,,,HIT [1433],hit,,,,,hitim
+SN001578,scissortail sergeant or a similar fish species,syuwewe_ne_mesa,,,,scissortail.sergeant,,,fauna ; aquatic creatures,,kaen fis we i grin mo blu wetem ol blak straep
+SN001579,high ranking,LX000048,,,,high,,,,,hae
+SN001580,mix up sounds or words while speaking,LX000049,,,,misspeak,,,,,mestem toktok
+SN001581,talk; speak,LX000050,,,SPEAK [1623],talk,,,,,toktok
+SN001582,mumble,LX000051,,,MUMBLE [128],,,,,,i toktok vois i no klia gud
+SN001583,answer; respond,LX000052,,"kuolili (ron go bak), tuliline (fight back),",ANSWER [1275],reply,,,,,"toktok i go bak, ansa"
+SN001584,chatter away pointlessly,LX000053,,,,,,,,,toktok we i no gat en blong hem
+SN001585,talk,LX000054,,,SPEAK [1623],talk,,,,,storian
+SN001586,tell (a story),LX000055,,,,,,,,,talem (wan stori)
+SN001587,come out; emerge; go out,LX000056,,,"EMERGE, APPEAR [1076] ; GO OUT [1107]",come.out,,,space,,kam afsaed
+SN001588,irritating to the skin; spicy,LX000057,,,SPICY [544],,,,body ; food,,skras
+SN001589,"the juice of a mature, fleshy coconut",LX000058,,,,coconut.juice,,,food ; coconut,,wota blong drae kokonas
+SN001590,cook,LX000059,,,COOK (SOMETHING) [1100],cook,,,food,,kuk
+SN001591,itch; scratch,LX000060,,check example trans.,SCRATCH [1436],itch,,,,,skras
+SN001592,light (a fire),LX000061,,,LIGHT (IGNITE) [737],light,,,,,laetem (wan faea)
+SN001593,and,t,,,AND [1577],and,,,,,"wetem, mo"
+SN001594,[distal],t-,,,,$dist,,,,,
+SN001595,[distal],-t,,,,$dist,,,,,
+SN001596,"cut with a hacking movement, typically a heavy blade",ta,,,CUT [1432],cut,,,craft,,katem
+SN001597,from (a place),ta_1,,exclusively nominal ; alternation of [a] with [\textipa{E}],FROM [693],from,,,,,long (wan ples)
+SN001598,[distal],ta_2,,,,$dist,,,,,
+SN001599,chicken,ta_3,,,CHICKEN [1318],chicken,,,,,faol
+SN001600,(of a pig's tusk) to grow back into the bone,ta_4,,,,,,,custom ; fauna,,i go fas long bun
+SN001601,trim (a piece of wood or plant),ta_silye,,take out myansilye,,,,,,,"katem ol saed (blong wan wud, blong klinim)"
+SN001602,pull something taut,taa,,,,pull.taut,,,,,pulum taet
+SN001603,father or your father's brother,taata,,,FATHER [1217],father,,,family,,dadi
+SN001604,woodborer (beetle),tabalir,,extend,,woodborer,,,fauna,,Wan bebet we i kakae wud
+SN001605,tabu,tabu,,,,tabu,,,,,
+SN001606,darkness,tabungmir,,,DARKNESS [11],darkness,,,,,"dak, tudak"
+SN001607,swallow something whole,tabungu,,,,swallow.whole,,,"body, food",,solem daon fulwan
+SN001608,pierce [resultative suffix],-tae,,,,$res.pierce,,,,,"tru, brokem"
+SN001609,time,taem_1,,,TIME [892] ; WHEN [1238],time,,,,,
+SN001610,at a time,taem_2,,,,,,,,,
+SN001611,when,LX000062,,,,when,,,,,
+SN001612,tired,taet,,,TIRED [1757],tired,,,,,
+SN001613,surgeonfish or similar,tak_1,,,,surgeonfish,,,fauna ; aquatic creatures,,strongskin
+SN001614,"[demonstrative, proximal]",-tak,,,,$dem.prox,,,,,
+SN001615,hang,takee,,,,hang,,,,,hangem
+SN001616,sago palm,tako,,,SAGO PALM [2372],sago.palm,a21ab20b3e99bb51c94d6a39f8629ed4,,plants ; house,,natanggura
+SN001617,straighten,takokuone,,,,straighten,,,,,klinim
+SN001618,cut something loose,takote,,,,cut.loose,,,,,katem i foldaon
+SN001619,cut something loose,takuwu,,,,cut.loose,,,craft,takote,katem i foldaon
+SN001620,"after (a period of time, an event)",tali,,,AFTER [1685],,,,,,afta (wan samting we i hapen)
+SN001621,belly; stomach,tam,,,BELLY [1251] ; STOMACH [819],belly,,,body,,bel
+SN001622,an insect with a crooked back that lives in holes in the ground,tamadu,,"finish entry: you have to say: tukate madun te kup and kill the insect. If you kill the insect without this procedure, your back will become just as crooked as the bug's back.",,tamadu.insect,,,fauna,,tamadu
+SN001623,customary mask,tamake,,,MASK [2005],mask,,,custom,,kastom mask
+SN001624,tomato,tamat,,letamat (Stock),TOMATO [986],tomato,,,plants,,tometo
+SN001625,fat; gluttonous,tamyes_1,,,FAT (OBESE) [1279],fat,,,body,,bigbel
+SN001626,fatso,tamyes_2,,,,,,,,,man we i fatfat
+SN001627,sunfish,tamyes_3,,,,sunfish,,,fauna ; aquatic creatures,,"raonfis, sunfis"
+SN001628,spider,tamyes_4,,,SPIDER [843],spider,,,fauna,,spaeda
+SN001629,ground; island,tan,,,GROUND [2159] ; ISLAND [622],ground,,,climate,,"graon, island"
+SN001630,mud; swamp,tan_leplep,,,MUD [640] ; SWAMP [1145],mud,,,,,sopsop graon
+SN001631,a level field or a plateau,tandiyur,,,,level.field,,,,,bigfala ples we i level
+SN001632,touch; hold,tang,,,HOLD [1448] ; TOUCH [1892],touch,,,,,"taj, holem"
+SN001633,approach; come closer,tang_pesili,,,APPROACH [1778],approach,,,,,kam kolosap
+SN001634,turn around to look back,tangbilya,,,,look.back,,,,,lukluk bak
+SN001635,Moreton Bay chestnut; blackbean; false ebony,tangbweelokvis,,,,blackbean,,Castanospermum australe,plants,,bintri
+SN001636,let something fall down,tangkilye,,,,,,,,,holem mestem
+SN001637,approach; come closer,tangpesili,,,APPROACH [1778],approach,,,,,kam kolosap
+SN001638,hermit crab,tangtang,,,,hermit.crab,,,fauna ; aquatic creatures,,nakato
+SN001639,coconut crab,tangtanglii,,,,coconut.crab,,Birgus latro,fauna ; aquatic creatures,,krab kokonas
+SN001640,miss something; be late for something,tangtevyase,,,,,,,,,mestem
+SN001641,big white pieces of coral shaped like smooth stones,tangvyor,,improve definition,,coral.stone,,,,,ol big waet ston blong koral
+SN001642,downtown,taon,,,,downtown,,,,,
+SN001643,about a small child or someone who is just waking up: gaining the ability of conscious thought,tap,,,,get.conscious,,,,,"(long saed blong wan smol pikini o blong wan man we hem i jas wekap) tingting i kam gud, i kam klia"
+SN001644,used up,tap_1,,,,used.up,,,,,finis
+SN001645,pass; pass through,tapwisya,,,,pass,,,,,kam.tru
+SN001646,sit,tas,,,SIT [1416],sit,,,body,,sidaon
+SN001647,wait for,tas_tene,,,WAIT (FOR) [1590],,,,,,wet from
+SN001648,hold a custom rite,tasane,,,,hold,,,custom,,mekem wan kastom
+SN001649,again,-tase,,,AGAIN [204],again,,,,,
+SN001650,pierce,tatae,,,PIERCE [398],,,,,,"katem wan samting blong mekem i gat hol long hem, stikim"
+SN001651,slide,tataraa,,,,slide,,,,,ski
+SN001652,shit,taten,,,,shit,,,body,,sisit
+SN001653,dad,tati,,,,dad,,,,,
+SN001654,somewhere else; some unknown place,taur,,,,some.place,,,space,,sam ples
+SN001655,pour out a liquid,tave,,,POUR [1487],pour,,,,,kavsaedem (wota etc)
+SN001656,grandchild,tavy,,not used in first person,GRANDCHILD [1617],grandchild,,,family,,bubu
+SN001657,stand up; get up,tavya,,,STAND UP [570],,,,body,,girap
+SN001658,"fix something to one's head, e.g. put it behind the ear",tavyane,,,,fix.to.head,,,,,putum wan smol samting i go long hed o sora
+SN001659,cut something open; split,tawa,,,SPLIT [1437],cut.open,,,craft,,katem openem
+SN001660,a type of mat where one side of the leafs of a coconut branch is broken off to yield smooth sides,taweka,,,,mat.type,,,custom,,wan kaen mat we oli brekem ol lif long wan saed blong han blong kokonas
+SN001661,tobacco,taweka_1,,,TOBACCO [974],tobacco,,,,,tabak
+SN001662,a family member who is typically tabu to the ego concerned,tawi,,first vowel can be [a] or [\textipa{E}],,kinship.term,,,family,,tawi
+SN001663,tawi,tawian,,,,tawi,,,,,tawi
+SN001664,body,tawili,,,BODY [1480],body,,,body,,bodi
+SN001665,body,tawilin,,,BODY [1480],body,,,,,bodi blong
+SN001666,body of,tawilin_1,,"tawilin lyen, tawilin vyan.",,body.of,,,,,
+SN001667,our body,tawilin_bir,,,BODY [1480],body,,,,,bodi blong yumi
+SN001668,lunch; noon,tawiliyaa,,,LUNCH [768] ; NOON [2490],noon,,,food,,"medel blong de, dina"
+SN001669,lift,tawityu,,,LIFT [501],lift,,,,,leftemap
+SN001670,[distal],te,,,,$dist,,,,,
+SN001671,cut; hack,te_1,,,CUT [1432],cut,,,craft,,katem
+SN001672,here,te_2,,,HERE [136],here,,,,,ia
+SN001673,[discourse marker],te_3,,,,$disc,,,,,
+SN001674,"[demonstrative, medial distance]",-te_3,,,,$dem.med,,,,,
+SN001675,boil,tea,,,BOIL [2493],boil,,,food,,boil
+SN001676,take apart; remove,tease,,,,take.apart,,,,,karemaot
+SN001677,exemplify,tebolye,,,,exemplify,,,,,mekem exambol
+SN001678,start,tebwesye,,,BEGIN [1806],start,,,,tebweti,stat
+SN001679,begin something; start doing something,tebweti,,,BEGIN [1806],start,,,,,statem
+SN001680,Rockskipper or similar,tede,,,,rockskipper,,Family Blenniidae & Callionymidae,fauna ; aquatic creatures,,fis we i stap jam long ol ston long solwota
+SN001681,axe,tee,,,AXE [677],axe,,,craft,,akis
+SN001682,home,teenem,,,HOME [2406],home,,,house,,hom
+SN001683,check; visit,teesi,,,CHECK [1975] ; VISIT [1377],check,,,,,jekem
+SN001684,gnaw (meat or skin) from a bone,tekiti,,,,gnaw.from.bone,,,,,karemaot (skin o mit) long wan bun
+SN001685,(of skin) be rough or scaly,tekyer,,,ROUGH [1923],rough,,,,,"skin i brok, skin i raf, tintin skin"
+SN001686,graze one's skin,tekyerkyer,,,,graze,,,,,faetem karemaot skin
+SN001687,long-tailed triller,telelel,,,,bird.species,,,fauna ; birds,,
+SN001688,rope,teli,,,ROPE [1218],rope,,,,,rop
+SN001689,man; guy,teme,,,MAN [1554],man,,,family,,man
+SN001690,young person; child,temeli,,,CHILD (DESCENDANT) [1801],child,,,family,,pikinini
+SN001691,small child; toddler,temeli_bangbang,,,,,,,,,pikini
+SN001692,(of a boy) be at the right age for marriage,temeli_maakuo,,,,young,,,custom,,(wan boe we i) redi blong mared
+SN001693,boy,temeli_man,,,BOY [1366],,,,,,boe
+SN001694,girl,temeli_vyaven,,,GIRL [1646],,,,,,gel
+SN001695,(of a girl) be at the right age for getting married,temeli_vyaven_dear,,,,young,,,family,,(wan gel we i) redi blong mared
+SN001696,testimony,temoinage,,,,testimony,,,,,
+SN001697,these people,temwinya,,,,these.people,,,,,olgeta
+SN001698,pray; worship,temyap,,,PRAY [24] ; WORSHIP [257],pray,,,custom,,"pre, wosip"
+SN001699,horizontal beams carrying the roof,temyar,,,BEAM [1132],beam,,,house,,wan kros wud we ol bambu blong ruf i sidaon long hem
+SN001700,demon; devil,temyar_1,,,DEMON [1973],demon,,,custom,,devil
+SN001701,assigned to; supposed to,ten,,,,assigned.to,,,,,blong
+SN001702,very,ten_2,,,VERY [1311],very,,,,,tumas
+SN001703,native,ten_3,,,,native,,,,,blong ples ia
+SN001704,make an effort; try hard,tenap,,,,try.hard,,,,,traem had
+SN001705,wait,tene,,du tene,WAIT (FOR) [1590],wait,,,,,wet
+SN001706,start,tenebwesye,,,BEGIN [1806],start,,,,tebwesye,statem
+SN001707,"old, uninhabited village",teneem,,,,ghost.village,,,house,,?
+SN001708,refuse,tenes,,,REFUSE [49],refuse,,,,,i no wantem
+SN001709,bend down; bow,tengbwir,,,BEND [2004],bend,,,,,bend
+SN001710,look up,tengun,,,,look.up,,,,,luk i go antap
+SN001711,arrow,tep,,,ARROW [977],arrow,,,craft,,aro
+SN001712,sea,tes,,,SEA [1474],sea,,,climate,,si
+SN001713,peel sth.,tes_1,,,PEEL [275],peel,,,,,"skinim (wan frut, taro etc)"
+SN001714,turbulent sea,tes_longlong,,,,,,,climate,,"solwota we i muvmuv mo i mekem se yumi harem ples i kolkol gud. Taem i gat `tes longlong', man i save kasem fis."
+SN001715,taboo,tesa,,,,taboo,,,,,tabu
+SN001716,(of a multitude of objects:) fall,tesi,,,FALL [1280],fall.down,,,climate,,foldaon (fulap samting)
+SN001717,grandchild,teskuli,,,GRANDCHILD [1617],grandchild,,,family,,smol abu
+SN001718,firefly,tetear,,,FIREFLY [206],firefly,,,fauna,,insekt we wan laet i stap long ored blong hem
+SN001719,again,tetes,,,AGAIN [204],again,,,,,bakegen
+SN001720,rockskipper fishes,teude,,,,rockskipper,,,fauna ; aquatic creatures,,wan kaen fis we i save jam
+SN001721,side of,teve,,,,side.of,,,,,side blong
+SN001722,throw something or someone around,tevene,,,,throw.around,,,,,"sakem olbaot, sakem i go long graon o long wan ston"
+SN001723,bury,teveni,,,BURY [1719],bury,,,house,,berem
+SN001724,reach; arrive at,tever,,,ARRIVE [1387],reach,,,,,kasem
+SN001725,kill something or someone by throwing them against something,teveveni,,,,,,,,,sakem i go long graon i ded
+SN001726,be buried,tevin,,,,be.buried,,,,,i berem
+SN001727,at his/her/its side; because of,tevy,,,,side.of,,,,,"long saed blong hem, from"
+SN001728,"because, to",tevy-,,,BECAUSE [1157],because ; to,,,,,
+SN001729,wave,tevya,,,WAVE [978],wave,,,climate,,wef
+SN001730,miss [resultative suffix],-tevyase,,,,$res.miss,,,,,?
+SN001731,turban shell,teweli,,,,turban.shell,,,fauna ; aquatic creatures,,selfis
+SN001732,Malekula,teweli_tes,,,,,,,space,,Malekula
+SN001733,sweep,tewes,,,SWEEP [230],sweep,,,house,,"swip, brum"
+SN001734,[distal],ti,,,,$dist,,,,,
+SN001735,needle; pierce; sting,tii,,,PIERCE [398] ; STING [571],sting,,,,,"stikim, fuldaon"
+SN001736,drip down from,tiitii,,,,,,,,,dropdrop
+SN001737,teacher,tija,,,TEACHER [1038],teacher,,,,,
+SN001738,shake,tiline,,wedeln,SHAKE [1909],shake,,,,,seksekem
+SN001739,take (plural),tilya,,,TAKE [1749],take,,,,,karem
+SN001740,support,tilya_1,,,,support,,,house,,sapotem
+SN001741,tear into stripes,tilye,,i mas flat,,tear,,,,,terem smolsmol
+SN001742,[of a chicken] to cackle,tilyo,,,,cackle,,,,,(faol) i singaot
+SN001743,father of,timy,,"timyok, tumam, timyan, tumemim, timyar, timyenyem, timyaa, timyedaa, timyemaa, timyeyaa",,father.of,,,,,
+SN001744,father of,timy-,,,,father.of,,,family,,
+SN001745,father of,timye,,,,father.of,,,family,,dadi blong
+SN001746,inside of a living being,tin-,,,,inside,,,body,,
+SN001747,fasten,tingi,,,FASTEN [1094],fasten,,,,,fasem
+SN001748,"inside, gut",tiny,,,GUTS [1334],inside ; gut,,,,,
+SN001749,gut; the inside of a living being,tinya,,,GUTS [1334],gut,,,body,,"gat, insaed"
+SN001750,follow someone slowly and quietly as to not to be seen,tinyam,,"heranpirschen, schleichen",,spy,,,,,go slo from wan samting
+SN001751,stand,tinyo,,,STAND [1442],stand,,,body,,stanap
+SN001752,push,tip,,,PUSH [1452],push,,,,,pusum
+SN001753,push something over; push something so it falls down,tipune,,,,push.over,,,,,"pusum i fuldaon, pusum i kavsaed"
+SN001754,drawing; sand drawing ; drawing,tis,,,,drawing,,,custom,,"droing, sandroing"
+SN001755,(literally: 'writing with a pandanus leaf') a figure formed by using a long string cut out of a pandanus leaf and joint at the ends to form complex figures between the fingers of both hands;,tis_ne_yewep,,,,,,,custom,,`raet long lif pandanas'
+SN001756,write,tisi,,,WRITE [1672],write,,,,,raetem
+SN001757,some (of a multitude of things),tisyu,,,SOME [1241],some,,,,,sam
+SN001758,good [resultative suffix],-titye,,,,$res.good,,,,,?
+SN001759,abort a fetus,tiwir,,,,abort,,,,,kilim pikinini we i stap long bel blong mama blong hem
+SN001760,break (something which can be broken easily with two hands),tiwiye,,"saatiwiye: hang i brekem, tastiwiye, vestiwiye",BREAK (DESTROY OR GET DESTROYED) [680],break,,,craft,katiwiye,brekem
+SN001761,hit; kill (singular event),tiye,,,HIT [1433] ; KILL [1417],kill,,,,,"kilim, kilim ded"
+SN001762,white throated pidgeon,tiyu,,,,white.throated.pidgeon,,,fauna ; birds,,nataroa
+SN001763,"[negative, realis]",to,,,,$neg.real,,,,,
+SN001764,bivalve shells in general,to_1,,,,bivalve.shell,,,fauna ; aquatic creatures,,kokia sel
+SN001765,later; behind,to_2,,,BEHIND [1686],later,,,,,beaen
+SN001766,[distal],to_3,,,,$dist,,,,,
+SN001767,"[negative, realis]",-to,,,,$neg.real,,,,,
+SN001768,row and talk,toda,,,,row.talk,,,,,rao mo tok
+SN001769,torch,toj,,,TORCH OR LAMP [2131],torch,,,,,
+SN001770,cackle,tokoraa,,,,cackle,,,fauna ; birds,,mekem noes we ol faol i save mekem
+SN001771,doctor,tokta,,,PHYSICIAN [597],doctor,,,,,
+SN001772,foreign; unknown,tolir,,,FOREIGN [109],,,,,,strenja
+SN001773,still; without wind,tomar,,,,still,,,,,no gat win
+SN001774,rat,tomo,,,RAT [1490],rat,,,fauna,,rat
+SN001775,firstborn child,tomo_1,,,,firstborn,,,family,,fesbon
+SN001776,make small talk,tongurngur,,source: Yokon. could not be confirmed,,small.talk,,,,,
+SN001777,garden; field,too,,,FIELD [212] ; GARDEN [586],garden,,,house,,karen
+SN001778,sneeze; voluntarily remove snot from the nose by exhaling forcefully,too_1,,,SNEEZE [1621],sneeze,,,body,,bloem nus
+SN001779,cover,toowe,,check with tóóve,COVER [761],cover,,,,,kavrem ap
+SN001780,head up,topki-,,,,heap.up,,,,,hipim ap
+SN001781,make a heap of something; heap something up,topkilye,,,,heap.up,,,,,hipim ap
+SN001782,heap up all the items in question,topkiseaa,,,,,,,,,hipim ap evriwan
+SN001783,bake food which is covered in laplap leaves on hot stones,topvyor,,,BAKE [183],bake,,,food,,"bek, bunia"
+SN001784,quarrel; argue; fight,toto,,,FIGHT [1423] ; QUARREL [1848],quarrel,,,,,raorao
+SN001785,lastborn,toto_1,,,,lastborn,,,,,lasbon
+SN001786,carry,totone,,,CARRY [700],carry,,,,,karem
+SN001787,its belly,tow-_1,,,,belly.of,,,,,bel blong hem
+SN001788,sweep something; clean something; scrape something,towaase,,,CLEAN (SOMETHING) [2235] ; SWEEP [230],clean,,,house,,"brum, klinim"
+SN001789,throw,towan,,,THROW [1456],throw,,,,,
+SN001790,putterfishes,towan_mwi_towo,,,,,,Tetraodonidae,fauna ; aquatic creatures,,balongfis
+SN001791,throw something away,towane,,,THROW [1456],throw,,,,,sakem
+SN001792,stomach of,towe,,,,stomach.of,,,body,,stomak
+SN001793,throw; throw around,tower,,,THROW [1456],throw,,,,,sakem
+SN001794,kick,towilya,,,KICK [1135],kick,,,,,kikim
+SN001795,big,towo,,,BIG [1202],big,,,,,"bigwan, bigfala"
+SN001796,kick,towoo,,,KICK [1135],kick,,,,,kikim
+SN001797,try,traem,,,TRY [1812],try,,,,,
+SN001798,driver,traeva,,,,driver,,,,,
+SN001799,car,trak,,,CAR [1111],car,,,,,
+SN001800,trip,trep,,,,trip,,,,,
+SN001801,nurse,tresa,,,NURSE [1104],nurse,,,,,
+SN001802,three,tri,,,THREE [492],three,,,,,
+SN001803,trick,trik,,,,trick,,,,,
+SN001804,cheat on someone,trikim,,,BETRAY [1902],trick,,,,konkone,
+SN001805,treatment,tritmen,,,,treatment,,,,,
+SN001806,[distal],tu,,,,$dist,,,,,
+SN001807,throw something to someone ; throw,tu_1,,,THROW [1456],throw,,,,,"tro, sakem wan samting i go long wan man"
+SN001808,attack,tu_1,,,ATTACK [722],,,,,,faetem
+SN001809,too,tu_2,,,,too,,,,,
+SN001810,hit,tu_3,,,HIT [1433],hit,,,,,faetem
+SN001811,hit the tamtam,tu_3,,,,,,,,,kilim tamtam
+SN001812,two,tu_4,,,TWO [1498],two,,,,,
+SN001813,nail down,tukate,,,,nail.down,,,craft ; house,,nilim
+SN001814,punch someone sore; hit something so it breaks,tukete,,,,break,,,,,faetem i brek
+SN001815,chicken call,tuki,,,,chicken.call,,,,,
+SN001816,ridge,tulup,,,RIDGE [1748],ridge,,,house,,samting we i kavremap ples we tufala saed long ruf i mit long medel
+SN001817,right; good,tumtum,,,GOOD [1035] ; CORRECT (RIGHT) [1725],right,,,,,stret
+SN001818,sacrifice,tumuo,,,,sacrifice,,,,,sakrifaes
+SN001819,shine,tung,,,SHINE [708],shine,,,climate,,saen
+SN001820,be.dirty,tung_1,,,DIRTY [1230],be.dirty,,,,,doti
+SN001821,be dark,tung_1,,,BLACK OR DARK [2633],,,,,,dak
+SN001822,fight,tung_2,,,FIGHT [1423],fight,,,,,faet
+SN001823,hole,tung_3,,,HOLE [1667],hole.of,,,,,hol
+SN001824,dark; black,tung_myaek,,,BLACK [163] ; DARK [706],,,,,,"dak, blak"
+SN001825,lay (a fire),tungane,,,,lay.fire.to,,,,,laetem (wan bigfala faea)
+SN001826,sky; heaven,tungtung,,,HEAVEN [1565] ; SKY [1732],sky,,,climate,,"skae, ples blong klaod ; skae"
+SN001827,hot stone meant to heat a vessel from inside,tungvyor,,,,hot.stone,,,,,hot ston
+SN001828,do something for the first time,-tupuosane,,,,$res.first.time,,,,,festaem blong mekem wan samting
+SN001829,kind of banana,turing,,,,banana.kind,,,,,wan kaen banana
+SN001830,"one, a",tuswa,,,ONE [1493],one,,,,,wan
+SN001831,be fastened,tutur,,,,be.fastened,,,food,,i fas
+SN001832,grandparent; grandchild; son- or daughter-in-law,tuutu,,,GRANDCHILD [1617] ; GRANDPARENT [2399],grandparent,,,family,,abu
+SN001833,helmut shell,tuutu_ba,,,,,,Cassis cornuta,fauna ; aquatic creatures,,smol abu sel
+SN001834,break,tuwa,,,BREAK (DESTROY OR GET DESTROYED) [680],break,,,craft,,brekem
+SN001835,bush nut,tuwu,,,,bush.nut,,Barringtonia edulis,plants ; food,,navel
+SN001836,fish poison tree,tuwu_ane_temyar,,,,,,Barringtonia asiatica,plants,,"fisposentri, navele blong solwota"
+SN001837,"the indigenous variety of bush nut, with inedible fruit",tuwu_ten,,,,,,,plants,,wan kaen navel we yu no save kakae frut blong hem
+SN001838,"a variety of bush nut with edible, almond-like fruit",tuwu_trep,,,,,,,plants ; food,,wan kaen navel we yu save kakae frut blong hem
+SN001839,try hard; make an effort; think hard about a way to do something,tuwuli,,,TRY [1812],try,,,,,traem
+SN001840,try,tuwuli_esi,,,TRY [1812],,,,,,traem
+SN001841,try to make something,tuwuline,,,,,,,,,traem blong wokem wan samting
+SN001842,of it,-tye,,,,of.it,,,,,
+SN001843,rip,tyo,,,,rip,,,,,"brekem (wan kaleko, pepa etc)"
+SN001844,topsail or similar,tyomavyor,,,,topsail,,Kyphosidae,fauna ; aquatic creatures,,bigbel
+SN001845,(of the kingfisher) chirp,tyoo,,,,chirp,,,fauna ; birds,,mekem saon we nasiko i mekem
+SN001846,to bask in; warm oneself by something,tyoo_1,,,,bask.in,,,,,i hot long
+SN001847,snake,tyotyo,,,SNAKE [730],snake,,,fauna,,snek
+SN001848,chicken,tyu,,,,chicken,,,fauna ; birds,,faol
+SN001849,battle,tyu_1,,,,battle,,,,,
+SN001850,june,Tyun,,,,June,,,,,
+SN001851,hit; strike (plural event),tyup,,,HIT [1433],battle,,,,,kilim (plante man)
+SN001852,illustrate; exemplify something,tyuptene,,could be analyzed as tyup tene,,illustrate,,,,,mekem wan iksambol
+SN001853,hit a tamtam,tyuptyup,,,,hit.tamtam,,,,,kilim tamtam
+SN001854,tuesday,Tyuste,,,TUESDAY [1695],Tuesday,,,,,Tjusde
+SN001855,kill (several people),tyuveni,,,,,,,,,kilim ded
+SN001856,giant clam (encased in rock); coral clam,LX000063,,,,,,,,,natalae
+SN001857,coconut grater,LX000064,,,,coconut.grater,69e77e18438f253cfa765e21c3170c2b,,food ; coconut,,"skras coconas, greta"
+SN001858,"add a point or blade to a stick (e.g. of an axe, arrow etc.)",LX000065,,,,add.point,,,,,"putum wan sap samting long wan stik, olsem wan akis, aro etc."
+SN001859,leak ; leak,LX000066,,,,leak,,,,,i brok mekem se wota i save kam afsaed
+SN001860,go up in flames; erupt [of the volcano]; be inflamed [of body parts],LX000066,,,,,,,,,faerem ap
+SN001861,shield something by putting something on top of it,LX000067,,"""cover"" synonyms",,shield,,,,,blokem
+SN001862,look,LX000068,,look for something without knowing whether it is there,LOOK [1819],look,,,,,lukluk
+SN001863,wild cane; spears made from wilde cane,LX000069,,,,wild.cane,,,plants ; custom,,wael ken
+SN001864,look back,LX000070,,,,look.back,,,,,lukluk bak
+SN001865,look for,LX000071,,,LOOK FOR [1468],,,,,,lukaotem
+SN001866,protect,LX000072,,,,protect,,,,,
+SN001867,guard; watch,LX000073,,"koopuon (synonymous), soropuon (toktok from)",GUARD [1940] ; WATCH [1650],guard,,,,,"lukaotem, luk afta"
+SN001868,guard; watch,LX000074,,"koopuon (synonymous), soropuon (toktok from)",GUARD [1940] ; WATCH [1650],,,,,,"lukaotem, luk afta"
+SN001869,look for,LX000075,,,LOOK FOR [1468],,,,,,lukaotem
+SN001870,someone living up in the bush as opposed to down at the sea; a savage,LX000076,,,,bushman,,,,,man bus
+SN001871,see something for the first time,LX000077,,,,,,,,,festaem blong luk wan samting
+SN001872,lastborn,LX000078,,,,lastborn,,,family,,las pikinini
+SN001873,look for something in vain,LX000079,,,,,,,,,i luk be i no faenem
+SN001874,cover,LX000080,,,COVER [761],cover,,,,,kaverem ap
+SN001875,vine of a climbing plant such as tomato or pumpkin,u,,,,vine.of,,,plants,,rop blong wan plant
+SN001876,[interjection],u_1,,,,$intj,,,,,
+SN001877,[epenthetic consonant],-u-,,,,$ep,,,,,
+SN001878,blister,ubii,,,BLISTER [1584],blister,,,body,,skin i solsolap
+SN001879,father's sister's son,ud,,,NEPHEW [1063],nephew,,,family,,smol abu
+SN001880,[first person singular possessive],-uk,,,,$1sg.poss,,,,,
+SN001881,skin,uli,,,SKIN [763],skin,,,body ; plants,,skin
+SN001882,[diminutive],-uli,,,,$dim,,,,-eli,
+SN001883,octopus,ulili,,,OCTOPUS [2581],octopus,,,fauna ; aquatic creatures,,nawita
+SN001884,freshwater prawn,ulilir,,suesswasser shrimp,,prawn,,,fauna ; aquatic creatures,,naura blong wota
+SN001885,napolean wrasse,ulimeotir,,check my or me,,nap.wrasse,,Cheilinus undulates,fauna ; aquatic creatures,,napolean (wan kaen fis)
+SN001886,skin,ulin,,,SKIN [763],skin,,,body,,skin
+SN001887,his/her skin,ulin_byen,,,,,,,body,,skin blong hem
+SN001888,"[emotive, first person singular]",uluk,,,,$em.1s,,,,,
+SN001889,lips,ulun,,,LIP [478],lip,,,,,skin blong maot
+SN001890,triggerfish,uluto,,,,triggerfish,,,fauna ; aquatic creatures,,sanpepafis
+SN001891,[second person singular possessive],-um,,,,$2sg.poss,,,,,
+SN001892,a string made from the ribs of palm leaves,umisyoo,,,,palm.leaf.string,,,plants,,rop we yu katem bun blong lif blong wan pamtri blong mekem rop ia
+SN001893,skin,un,,,SKIN [763],skin,,,body ; plants,,skin
+SN001894,clear; clean,un_1,,,CLEAN (SOMETHING) [2235],clear,,,house,,brasem (garen)
+SN001895,[third person singular possessive],-un,,,,$3sg.poss,,,,,
+SN001896,cloth-like material from the top of the coconut palm,LX000081,,,,,,,plants,,"blangket blong kokonat, net blong kokonat"
+SN001897,navel,unbesy,,,NAVEL [1838],navel,,,body,,nabuton
+SN001898,the amount of ten,ung,,,,amount.of.ten,,,,,namba blong ten
+SN001899,flower of,ung_1,,,,flower.of,,,plants,,flaoa blong
+SN001900,twenty-three,LX000082,,,,,,,,,twenti tri
+SN001901,end of the road,ung_seli,,,,,,,,,en blong rod
+SN001902,one hundred,ung_sungavi,,,HUNDRED [1634],,,,,,wan handred
+SN001903,two hundred,LX000083,,,,,,,,,tu handred
+SN001904,ten,ung_swa,,,TEN [1515],,,,,,ten
+SN001905,nest,uni,,,NEST [539],nest,,,fauna ; birds,,haos blong pijin
+SN001906,rock lobster,unites,,,,rock.lobster,,,,,naura
+SN001907,clear a place to prepare a garden,unte,,*wyan unte or an,,clear,,,house,,brasem (blong mekem karen)
+SN001908,be far away,unun,,,,be.far.away,,,,,i longwe
+SN001909,louse,ur,,,HEAD LOUSE [310],louse,,,fauna,,laos
+SN001910,[first person plural inclusive possessive],-ur,,,,$1pl.in.poss,,,,,
+SN001911,third rank,urur,,,,third.rank,,,custom,,namba tri rank
+SN001912,ask,us,,in suffixed forms such as ustase,ASK (INQUIRE) [1309],ask,,,,,
+SN001913,ask,usi_1,,,ASK (INQUIRE) [1309],ask,,,,,askem
+SN001914,ask for sth.,usi_2,,could be a semitransitive verb,,,,,,,
+SN001915,study,usi_3,,,STUDY [1929],,,,,,skul
+SN001916,follow,usili,,,FOLLOW [1085],follow,,,,,folem
+SN001917,repeat a question,ustase,,,,ask.again,,,,,ask bakegen
+SN001918,seed of,uti,,,,seed.of,,,plants,,sid
+SN001919,fit something with a string,utivi,,,,string,,,,,putum wan rop long wan banaro
+SN001920,[interjection],uu,,,,$intj,,,,,
+SN001921,plant of 'ya',uya,,,,,,,plants ; food,,rop blong ya
+SN001922,[interjection],uyaya,,,,$intj,,,,,
+SN001923,where,ve,,"short for ""arve""",WHERE [1237],where,,,,,wea
+SN001924,which,-ve,,,WHICH [727],where,,,,,wea
+SN001925,wall,veer,,,WALL (OF HOUSE) [933],wall,,,house,,wol
+SN001926,come; go,venek,,might be restricted to commands and potential contexts,,come,,,,,"kam, go"
+SN001927,dead [resultative suffix],-veni,,,,$res.dead,,,,,
+SN001928,make noise,veok,,[\textipa{v\oeOk}] ; from Dal kalaen,,make.noise,,,,,mekem nois
+SN001929,a plant with long edible leaves and tight clusters of small fruit which can be cooked and eaten as long as they don't have seeds yet,vep,,,,vep.plant,,"Ficus gibbosa, F. wassa",plants ; food,,nambalanggo
+SN001930,step,ves,,"bound form, cf westase, weskuwu",STEP (VERB) [2065],step,,,,,
+SN001931,how much; how many,ves_1,,,HOW MANY [822] ; HOW MUCH [531],how.much,,,,,hamas
+SN001932,kick sth. out,veskuwu,,,,,,,,,stanap long hem blong mekem se i kam aot
+SN001933,step on something again,vestase,,,,,,,,,stanap long wan samting bakegen
+SN001934,weave,veve,,,WEAVE [133],weave,,,craft,vyate,wivim
+SN001935,go (reduplication),ve-vyan,,,,$redup-vyan,,,,,
+SN001936,carry something over the shoulder,vevyo,,reduplicated,CARRY ON SHOULDER [413],carry.on.shoulder,,,,,karem wan samting antap long solda
+SN001937,grate (reduplication),ve-vyo,,,,$redup-grate,,,,,skrasem
+SN001938,long (reduplication),ve-vyop,,,,$redup-long,,,,,longfala
+SN001939,heart,vevyos,,,HEART [1223],heart,,,body,,hat
+SN001940,hair; feathers,vevyu,,,FEATHER [1201] ; HAIR [1040],hair,,,body,,hea
+SN001941,bleech (reduplication),ve-vyung,,,,$redup-bleech,,,,,
+SN001942,carry (reduplication),LX000084,,"two different reduplictions: vevyó, vyóvy'",,$redup-carry,,,,,
+SN001943,white man,vi,,,,white.man,,,family,,waet man
+SN001944,new; young,vi_1,,,NEW [1231] ; YOUNG [1207],new,,,,,niu
+SN001945,tree,vi_2,,,TREE [906],tree,,,plants,,wan kaen tri
+SN001946,what,-vi,,,WHAT [1236],what,,,,,
+SN001947,video,video,,,,video,,,,,
+SN001948,braid or twist a rope,vili,,,,braid,,,craft,,tonem (ol smolfala rop mekem se i kam wan bigfala rop)
+SN001949,island; town; place ; place,vilye,,,ISLAND [622] ; PLACE (POSITION) [723] ; TOWN [1391],place,,,space,,aelan
+SN001950,"a place with a big population, like a city or a big country",vilye_wowo,,,,,,,space,,ol bigfala ples
+SN001951,glowworm,vin,,,,glowworm,,,fauna,,wan bebet we wan laet i stap long baksaed blong hem
+SN001952,shoot,vinye,,,SHOOT [1172],shoot,,,,,sutum
+SN001953,banana,vis,,,BANANA [868],banana,,,plants ; food,,banana
+SN001954,(ballistic?) weapon,vis_1,,,,weapon,,,craft,,"masket, samting blong sut"
+SN001955,gun,vis_an_vi,,,GUN [1566],,,,,,masket
+SN001956,harpoon,vis_ane_tes,,,,,,,,,masket blong daeva
+SN001957,visit,visitim,,,VISIT [1377],visit,,,,,
+SN001958,bow and arrow,vislee,,,,,,,,,bonaro
+SN001959,bow and arrow,vislee_1,,,,bow.and.arrow,,,,,bonaro
+SN001960,beside,visyaa_1,,,BESIDE [1816],side,,,,,saed blong
+SN001961,side,visyaa_2,,,SIDE [682],side,,,,,saed
+SN001962,roof,vityop,,,ROOF [769],roof,,,house,,ruf
+SN001963,"probably refers to squids and cuttlefish, but has also been used for pictures of stingrays",vityup,,,,squid,,,fauna ; aquatic creatures,,?
+SN001964,twist (a rope),vivi,,singular,TWIST [430],twist,,,craft,,tonem (wan rop)
+SN001965,go (reduplication),vi-vyan,,,,$redup-go,,,,,
+SN001966,volleyball,volibol,,,,volleyball,,,,,
+SN001967,be good,vu,,,,be.good,,,,,gud
+SN001968,it's good that,vune,,,,,,,,,i gud se
+SN001969,be crazy,vuvuop,,,MAD [1899],crazy,,,,,"kranki, hafhaf, lusum hed"
+SN001970,arm,vy,,,ARM [1673],arm,,,,,
+SN001971,hair,vy_1,,,HAIR (HEAD) [2648],hair,,,,,
+SN001972,hair of,vy-,,,,,,,body,,hea blong
+SN001973,hand of,vy-_1,,,,hand.of,,,body,,
+SN001974,time (as in 'four times'),vya,,,,times,,,,,taem (olsem 'fo taem')
+SN001975,germinated coconut,vyaa,,,,germinated.coconut,,,plants ; coconut,,navara
+SN001976,hand; arm,vyaa_1,,,ARM [1673] ; HAND [1277],hand,,,body,,han
+SN001977,lazy,vyaakyen,,,LAZY [1564],lazy,,,,,"les, no wantem wok fulap"
+SN001978,step on; kick,vyaase,,,KICK [1135] ; STEP (VERB) [2065],kick,,,,,"stanap long, kik"
+SN001979,tear sth. along a seam,vyae,,,,tear,,,,,terem
+SN001980,fantail,vyaevyaewotop,,,,fantail,,,fauna ; birds,,jampionpijin
+SN001981,family,vyale,,,FAMILY [194],family,,,family,,famli
+SN001982,go,vyan,,,GO [695],go,,,space,,go
+SN001983,reach (a destination),vyansyone,,,ARRIVE [1387],,,,,,go kasem
+SN001984,man; person,vyanten,,,MAN [1554] ; PERSON [683],person,,,family,,man
+SN001985,tamanu plant,vyao,,,,tamanu.plant,,Calophyllum inophyllum,plants,,"nambakura, tamanu"
+SN001986,unicornfish,LX000085,,,,unicornfish,,,fauna ; aquatic creatures,,tawa o strongskin
+SN001987,slipper lobster,vyap_1,,,,slipper.lobster,,,fauna ; aquatic creatures,,flat naura
+SN001988,old woman; respectful reference to an adult woman ; old.woman,LX000086,,,OLD WOMAN [907],old.woman,,,family,,olfala woman
+SN001989,scorpion fish,LX000086,,,,,,,,,stonfis (wan fis we i poson)
+SN001990,wood borer,vyar,,,,wood.borer,,,fauna,,bebet blong wud
+SN001991,handle,vyase,,,HANDLE [1254],handle,,,,,handel (blong wan tul)
+SN001992,weave,vyate,,reparse,WEAVE [133],weave,,,craft,,wif
+SN001993,woman; wife,vyaven,,,WIFE [1199] ; WOMAN [962],woman,,,family,,woman
+SN001994,I think; probably,vyen,,,,I.think,,,,,ating
+SN001995,four,vyer,,,FOUR [1500],four,,,,,fo
+SN001996,remove,vyo,,compound form of vyose,,remove,,,,,karemaot
+SN001997,grate a crop on a leaf of the treefern,vyo_1,,"two different reduplictions: vevyó, vyóvyó. minimal pair with vevyo?",,grate,,,,,"skrasem (taro, banana etc) long wan han blong blak palm"
+SN001998,long,vyop,,,LONG [1203],long,,,,,long
+SN001999,stone ; stone,vyor,,,,stone,,,climate,,ston
+SN002000,coin; money,vyor,,,COIN [1867] ; MONEY [1559],,,,,,"selen, silva ston"
+SN002001,a coconut which is still attached to the palm tree and contains drinkable liquids,vyos,,check classifier,COCONUT [970],coconut,,,plants ; coconut ; food,,kokonas
+SN002002,carry; bring,vyose,,,BRING [692] ; CARRY [700],carry,,,,,karem
+SN002003,take out,vyote,,check final vowel,,take.out,,,,,"karemaot, digimbak"
+SN002004,bleech; dry wood or leaves until they loose their color,vyung,,check,,bleech,,,,,i stat blong kam waet
+SN002005,[potential marker],w-,,,,$pot,,,,,
+SN002006,[potential marker],wa,,,,$pot,,,,,
+SN002007,whip,waase,,,,whip,,,,,wipim
+SN002008,limb,waawaa,,,,limb,,,body ; fauna,,"leg, han (blong animol)"
+SN002009,goat (literally: 'small limbs'),waawaa_mwelili,,,GOAT [1502],,,,fauna,,nani got
+SN002010,cattle (literally: 'big limbs'),waawaa_wowo,,,CATTLE [1153],,,,fauna,,puluk
+SN002011,grandparent,waawu,,,GRANDPARENTS [305],grandparent,,,family,,abu
+SN002012,wire,waea,,,WIRE [2631],wire,,,,,
+SN002013,wait,wait,,,WAIT (FOR) [1590],wait,,,,,
+SN002014,say goodnight to,walingi,,,,say.good.night.to,,,,,talem gud naet
+SN002015,a kind of banana,walis,,die fruechte sind plump und gross,BANANA [868],banana,,,plants,,
+SN002016,one,wan,,,ONE [1493],one,,,,,
+SN002017,please,wangae,,,,please,,,,,plis
+SN002018,cave,wap,,possibly a shibboleth from Baiap to Emyotungan,CAVE [1155],cave,,,,,kev
+SN002019,"argue, quarrel",war,,,QUARREL [1848],argue,,,,,rao
+SN002020,revere; respect; praise,warsyosi,,,PRAISE [1687],revere,,,,,sapotem
+SN002021,repeat; say something once more,wartase,,,REPEAT [880],,,,,,talem bakegen
+SN002022,be thin; be skinny (of a person),was,,,,be.thin,,,body,,bunbun
+SN002023,first,we,,,FIRST [728],first,,,,,festaem
+SN002024,[potential marker],we_1,,,,$pot,,,,,
+SN002025,lie on something,we_2,,,,lie,,,,,stanap (long wan samting)
+SN002026,fruit of,we_3,,,,fruit.of,,,,,frut blong
+SN002027,really?,weaki,,,,really,,,,,tru ya!
+SN002028,taro,webir,,,TARO [351],taro,,,plants ; food,,taro
+SN002029,swamp taro,webirten,,,,,,,plants ; food,,wota taro
+SN002030,"a coconut in its earliest stage, without edible or drinkable parts",webosis,,[\textipa{O}],,young.coconut,,,,,yang kokonat we i no gat kakae mo wota blong hem yet
+SN002031,day,webung,,,DAY (24 HOURS) [1260],day,,,,,de
+SN002032,darkness; a dark place,webung_vyor_1,,,DARKNESS [11],,,,climate,,dak ples
+SN002033,lined bristletooth (a fish species),webung_vyor_2,,,,,,Ctenochaetus striatus,fauna ; aquatic creatures,,blakfis
+SN002034,wart,webwes,,,WART [2665],wart,,,body,,ae blong devil (wan sik blong skin)
+SN002035,rice (literally 'ant eggs'),wedeli_es,,we here could be a modal marker,RICE [926],rice,,,,,raes ('eg blong anis')
+SN002036,drip,wedewer,,,,,,,,,dropdrop
+SN002037,kava plant,wedrame,,,,kava.plant,,,plants ; food,,kava
+SN002038,fruit,wee,,,FRUIT [1507],fruit,,,plants ; food,,frut
+SN002039,lie on something,wee_1,,,,lie,,,,,silip antap
+SN002040,fruit of the tamanu,wee_vyao,,,,,,,plants,,frut blong nambakura
+SN002041,heliconia plant; plant which provides the leaves which are used for preparing laplap,weka,,,,laplap.plant,,,plants ; food,,lif laplap
+SN002042,chest,welili,,,CHEST [1592],chest,,,body,,chest
+SN002043,refuse; decline,welwel,,,REFUSE [49],refuse,,,,,i no wantem
+SN002044,kidney,wemap,,,KIDNEY [489],kidney,,,body,,kidni
+SN002045,pebbles; gravel,wemea,,,PEBBLES [961],pebbles,,,climate,,ol smolsmol ston
+SN002046,grapefruit,wemu,,,,grapefruit,,,plants ; food,,pamplemus
+SN002047,lemon,wemu_kyenkyen,,,,,,,plants ; food,,laman
+SN002048,grapefruit,wemu_ten,,,,,,,plants ; food,,pamplemus
+SN002049,pandanus,wep,,,PANDANUS [469],pandanus,,,plants,,pandanas
+SN002050,poisonwood,wes,,,,poisonwood,,,plants,,"naolasi, posentri"
+SN002051,pound something,wesa,,,POUND [354],pound,,,food,,ramem
+SN002052,clean,-wesa,,,CLEAN [704],clean,,,,,klinim
+SN002053,remove the fibrous husk (mesocarp) of a coconut by bringing it down on a sharpened piece of wood stuck in the ground,wesame,,,PEEL [275],peel,,,coconut,,skinim (kokonas)
+SN002054,enough,wese,,,ENOUGH [1881],enough,,,,,nap
+SN002055,be able to,wese,,,BE ABLE [972],,,,,,save
+SN002056,the dried rib of a coconut leaf used to make brooms,weseevir,,check spelling,,leaf.rib,,,plants ; craft,,stik brum
+SN002057,"smooth (a piece of cloth, mat etc.)",wesene,,,SMOOTH [1234],smooth,,,,,stretem
+SN002058,west,West,,,WEST [1817],west,,,,,
+SN002059,only then; no more in negative contexts,wet,,,,only.then,,,,,jes
+SN002060,rain drop,wetii,,,,rain.drop,,,climate,,drop blong ren
+SN002061,coral,wetilis,,,,coral,,,fauna ; aquatic creatures,,koral
+SN002062,its fruit,wetye,,,,,,,,,frut blong hem
+SN002063,mountain,weu,,,MOUNTAIN [639],mountain,,,climate,,"hil, maonten"
+SN002064,name of a star,LX000087,,,,wevyep,,,climate,,nem blong wan sta
+SN002065,bamboo,wewo,,,BAMBOO [1927],bamboo,,,plants,,bambu
+SN002066,a species of grass,LX000088,,,GRASS [606],grass,,,plants,,longfala gras
+SN002067,fishhook,weya,,,FISHHOOK [1074],hook,,,food ; craft,,huk (blong hukum fis)
+SN002068,"rib of a palm leaf, especially of the sago palm",wii,,,,palm.leaf.rib,,,,,bun blong lif blong wan pamtri olsem natanggura
+SN002069,week,wik,,,WEEK [1469],week,,,,,
+SN002070,sea almond; tropical almond; Indian almond,wikye,,,,sea.almond,,Terminalia catappa,plants ; food,,natavoa
+SN002071,rubbish,wilis,,,,rubbish,,,,,doti
+SN002072,rest your head,wilya,,,,rest.head,,,,,putum hed long (wan pilo etc) blong silip
+SN002073,peel,wilyakate,,,PEEL [275],peel,,,,,pilim
+SN002074,grief,wilyo,,,GRIEF [1668],grief,,,custom,,filing blong sad taem we wan man i ded
+SN002075,win,win,,,WIN [866],win,,,,,
+SN002076,beat,winim,,,BEAT [1665],beat,,,,save,
+SN002077,Pacific pigeon; Pacific imperial pidgeon,wip,,,,pacific.pidgeon,,Ducula pacifica,fauna ; birds,,nawimba
+SN002078,day after tomorrow,wis,,,DAY AFTER TOMORROW [1179],day.after.tomorrow,,,climate,,afta tumoro
+SN002079,probably ; probably,wisewe,,,,probably,,,,,ating
+SN002080,otherwise,wisewe,,,,,,,,,"o, sipos no be"
+SN002081,[potential marker],wo,,,,$pot,,,,,
+SN002082,breadfruit,wotop,,,BREADFRUIT [2371],breadfruit,,,plants ; food,,bredfrut
+SN002083,"pawpaw, literally: 'breadfruit of the white man'",wotop_an_vi,,,,,,,plants ; food,,"popo, bredfrut blong waet man"
+SN002084,hill,wou,,,HILL [614],hill,,,climate,,hil
+SN002085,cottonwood; beach hibiscus,wovya,,,,cottonwood,,Hibiscus tiliaceus,plants,,burao
+SN002086,big (of a multitude of objects / persons),wowo,,,BIG [1202],big,,,,,bigwan (plante samting)
+SN002087,[potential marker],wu,,,,$pot,,,,,
+SN002088,blow,wu_1,,,,blow,,,,,bloem
+SN002089,"white-haired, gray",wua,,"add example, bwe i wua: starts to become gray;",,,,,,,
+SN002090,already,wuk,,,ALREADY [2576],already,,,,,finis
+SN002091,rubbish,wulis,,,,rubbish,,,,,doti
+SN002092,peel,wulyakate,,,PEEL [275],cut,,,food ; craft,,"katem, pilim"
+SN002093,provoke,wunane,,,,provoke,,,,,"stikim, chekem, toktok strong blong mekem wan man i kam blong faet"
+SN002094,emperor fish,wungmesye,,,,emperor.fish,,,fauna ; aquatic creatures,,redmaot
+SN002095,open; unfold,wuo,,,OPEN [1156],open,,,,,openem
+SN002096,heap; hill ; heap,wuo_1,,,HILL [614],heap,,,climate,,hip
+SN002097,lava bed ; lava.bed,wuo_1,,,,lava.bed,,,,,krik
+SN002098,number,wuo_2,,,NUMBER [1356],number,,,,,namba
+SN002099,stop crying,wuon,,,,stop.crying,,,,,stop krae
+SN002100,taboo,wuor,,,,taboo,,,custom,,tabu
+SN002101,dancing ground,wuorwuor,,[wyrwyr] in Sesivi,,dancing.ground,,,custom,,nasara
+SN002102,some,wuoswa,,,SOME [1241],some,,,,,sam
+SN002103,lava rock (lava which has already frozen),wuovyor,,,,lava.rock,,,,,lava ston
+SN002104,sleepwalk,wuowuop,,,,sleepwalk,,,,,(wan man i) stap silip be i stap toktok o wokbaot sem taem
+SN002105,banded sea snake,wuowuotevya,,,,sea.snake,,,fauna ; aquatic creatures,,blakenwaet (snek blong solwota)
+SN002106,paddle,wus,,,PADDLE [234],paddle,,,craft,,parel
+SN002107,meat,wusi,,,FLESH OR MEAT [2615],meat,,,food,,mit
+SN002108,squeeze the cream out of grated coconut and sprinke it over food,wusi_1,,,,sprinkle.with.cream,,,food,,melekem
+SN002109,"dish made from breadfruit, with coconut milk",wuwu,,,,wuwu.dish,,,food,,nalot
+SN002110,(fresh) water; liquid; juice,wye,,pronounced as tense e,JUICE [1499] ; LIQUID [58] ; WATER [948],water,,,food,,wota
+SN002111,on,y,,,,on,,,,,
+SN002112,on,y-,,,,on,,,space,,
+SN002113,[third person plural],ya,,,,$3p,,,,,
+SN002114,leg,ya_1,,,LEG [1297],leg,,,body,,leg
+SN002115,the food obtained by pounding and baking the liana of a certain plant,ya_2,,,,edible.liana,,,plants ; food,,"kakae blong wan rop wetem blu flaoa; oli kilim mo bekem, afta solem wota blong hem nomo"
+SN002116,twitter,ya_3,,,,twitter,,,,,mekem noes we sam pijin olsem waet-ae i mekem
+SN002117,[interjection],ya_4,,,,$intj,,,,,
+SN002118,[third person dual possessive],-ya,,,,$3d.poss,,,,,
+SN002119,elephantiasis,LX000089,,,,,,,body,,bigleg
+SN002120,clavus; corn,ya_tin,,,,,,,,,
+SN002121,taboo,yaa,,,,taboo,,,,,tabu
+SN002122,(mostly adverbial) be only part of something,yaa_1,,EAS,,be.part,,,,,i haf
+SN002123,wild yam,yaa_2,,check!,,wild.yam,,,food,,
+SN002124,sun ; sun,yaa_3,,,SUN [1343],sun,,,climate,,san
+SN002125,time ; time,yaa_3,,,TIME [892],time,,,,,taem
+SN002126,hurt,yaa_4,,,,hurt,,,body,,soa
+SN002127,[third person dual possessive],-yaa,,,,$3d.poss,,,,,
+SN002128,important man; husband; God,yaapu,,,GOD [1944] ; HUSBAND [1200],big.man ; god,,,family,,"man, bigman"
+SN002129,turn; twist ; turn,yaase,,,TURN [1588] ; TWIST [430],turn,,,,,tonem
+SN002130,mix,yaase,,,MIX [2017],,,,,,mixim
+SN002131,pick up something hot with two sticks,yaate,,,,pick.up.with.sticks,,,,,holem wetem tu stik
+SN002132,swim,yaayaa,,,SWIM [1439],swim,,,,,swim (long solwota)
+SN002133,[second person singular possessive],-yam,,,,$2sg.poss,,,,,
+SN002134,on,yan,,,,on,,,,,long
+SN002135,[third person singular possessive],-yan,,,,$3sg.poss,,,,,
+SN002136,fly,yang,,,FLY (INSECT) [1504],fly,,,fauna,,flae
+SN002137,blowfly,yang_dawo,,,,blowfly,,,fauna,,bluflae
+SN002138,blowfly,LX000090,,,,,,,fauna,,bluflae
+SN002139,fruitfly,yang_wuonwuon_1,,,,fruitfly,,,,,wan kaen flae we i smolsmol we i kakae ol frut
+SN002140,fruit fly,yang_wuonwuon_2,,,,,,,fauna,,wan kaen flae we i smol nomo mo i kakae ol frut
+SN002141,carry something tucked under the armpit,yangvene,,check English,CARRY UNDER ARM [415],carry.under.arm,,,,,karem andanit long han
+SN002142,"dole out food to neighbours, guests etc.",yangyang,,,,dole.out.food,,,,,karem kakae i go long ol difren haos
+SN002143,slap,yap_1,,,,slap,,,,,slap ; slap so.
+SN002144,old man; respectful reference to an adult man,LX000091,,,OLD MAN [406],old.man,,,family,,olfala man
+SN002145,assume the appearance and identity of another person through magic,yapyap,,,,change.face,,,custom,,jenisim fes
+SN002146,mother of,yas_1,,,,mother.of,,,family,,mama
+SN002147,be strong ; be.strong,yas_2,,,,be.strong,,,,,strong
+SN002148,hard; though ; be.hard,yas_2,,,HARD [1884],be.hard,,,,,had
+SN002149,hurry,yas_3,,,HURRY [754],hurry,,,,,hariap
+SN002150,steal,yas_4,,,STEAL [713],steal,,,,,stil
+SN002151,mother of,yas-,,,,mother.of,,,,,
+SN002152,harvestman,yas_bankyen,,,,,,,fauna,,wan kaen bebet wetem ol longfala leg olsem wan spaeda
+SN002153,sea cucumber,yas_teweli,,,,,,,fauna ; aquatic creatures,,si kukamba
+SN002154,[third person dual],ye,,,,$3d,,,,,
+SN002155,[third person paucal],ye_1,,,,$3pc,,,,,
+SN002156,to,ye_2,,restricted to calling someone sth?,,to,,,,,long
+SN002157,leaf,ye_3,,,,leaf,,,plants,,lif
+SN002158,a row of planted trees,ye_4,,,,row.of,,,,,"laen blong, plantesen blong"
+SN002159,leaf of the tree fern,LX000092,,,,tree.fern.leaf,,,plants,,lif blong blak palm
+SN002160,leaves of the vi tree,ye_vi,,,,,,,,,"lif blong wan tri, nem blong hem `vi'"
+SN002161,banana leaf,ye_vis,,,,,,,,,lif banana
+SN002162,skirt,ye_vis,,,SKIRT [1600],,,,,,sket
+SN002163,pandanus leaves,ye_wep,,,,,,,plants,,han blong pandanas
+SN002164,leaf of the victory leaf or ti plant,yeae,,,,,,,,,lif blong nanggaria
+SN002165,leaf of victory leaf,yeae_1,,,,leaf.of.victory.leaf,,,plants,,
+SN002166,leaf of the mountain apple tree,yeave,,,,,,,plants,,lif blong nakavika
+SN002167,leaves of this tree,yebii,,,,bii.leaves,,,plants ; food,,lif blong nalaslas
+SN002168,the inside (of a tree trunk),yeli,,,,inside.of,,,,,insaed (blong wan tri)
+SN002169,a leaf which has a certain smell,yemining,,,,smelling.leaf,,,plants ; custom,,wan kaen lif we i smel
+SN002170,in,yen,,,IN [1460],in,,,,,"insaed, long"
+SN002171,now,yene,,,NOW [1376],now,,,,,nao ia
+SN002172,smoke,yes,,"In Sesivi, yes, in Emyotungan yeskuon",,smoke,,,food,yeskuon,smok
+SN002173,turn,yes_1,,,TURN [1588],turn,,,,,
+SN002174,trumpetfish,yesip,,,,trumpetfish,,Family Balistidae,fauna ; aquatic creatures,,longmaot
+SN002175,smoke,yeskuon,,,,smoke,,,,yes,smok
+SN002176,turn back,yestase,,,,turn.back,,,,,tonem bakegen
+SN002177,one or more leaves of an arbitrary tree,yesukuo,,Laub,,leaves,,,plants,,lif blong evri tri
+SN002178,green,yesyes,,,GREEN [1425],green,,,color,,grin
+SN002179,leaf of vep plant,yevep,,,,,,,plants,,lif blong nambalanggo
+SN002180,lined bristletooth,yevyak,,,,bristletooth,,,fauna ; aquatic creatures,,blakfis
+SN002181,turtle,yevyo,,there might be a difference in stress as well ; check minimal pair with yeevyó --> evyo,TURTLE [112],turtle,,,fauna ; aquatic creatures,,totel
+SN002182,the leaves of the heliconia plant,yeweka,,,,,,,food,,lif laplap
+SN002183,dry banana leaves used in traditional customs to cover the body ; dry.banana.leaves,yewilyar,,,,dry.banana.leaves,,,plants ; custom,,"drae lif blong banana, oli joinjoinem blong kaverem ap bodi"
+SN002184,banknote,yewilyar,,check first vowel,,,,,,,mani (pepa)
+SN002185,lungs,yewotopkee,,check,LUNG [688],lungs,,,body,,lang
+SN002186,(of the earth on a steep slope) break; avalanche,yo,,,,break,,,,,(wan pis graon i) brok i fuldaon
+SN002187,taboo,yo_1,,,,taboo,,,,,tabu
+SN002188,a vine,yoo,,,,vine,,,,,wan rop
+SN002189,love,yos,,,LOVE [923],love,,,,,lav
+SN002190,love someone,yosane,,,,,,,,,lav
+SN002191,lead the way; precede someone; go ahead of someone,yoyo_doromo,,,,precede,,,,,go festaem
+SN002192,feeling,yu,,,FEELING (EMOTION) [2573],feeling,,,,,
+SN002193,throw up; vomit,yu_1,,,VOMIT [1278],vomit,,,body,,draot
+SN002194,feeling of,yu-,,,,feeling.of,,,,,
+SN002195,"pudding made of starchy vegetables or fruit such as taro, banana or pumpkin and enriched with coconut milk, fish, meat or island cabbage",yuk,,discuss,,laplap,,,food,,laplap
+SN002196,"[demonstrative, distal]",yuk_1,,,,$dem.dist,,,,,
+SN002197,"demonstrative, distal",-yuk,,,,dem.dist,,,,,
+SN002198,quiet,yung,,,QUIET [1314],quiet,,,,,kwaet
+SN002199,butterfly fish or similar (including batfish and bannerfish),yungdaa,,,,butterfly.fish,fd937c9da09ce2cba3c7d25da9dd7b94,,fauna ; aquatic creatures,,bataflae fis
+SN002200,bumphead parrotfish,yungdamyalis,,,,bumphead,,Bolbometopon muricatum,fauna ; aquatic creatures,,bumphed (wan kaen fis)
+SN002201,be quiet as to not alert someone to one's presence,yungmarmar,,,QUIET [1314],be.quiet,,,,,stap kwaet
+SN002202,be thirsty,yungpan,,,THIRSTY [847],be.thirsty,,,food ; body,,tosta
+SN002203,listen,yungta,,,LISTEN [1608],listen,,,,,"lesen, harem"
+SN002204,feeling,yuo,,,FEELING (EMOTION) [2573],feeling,,,body,,filing
+SN002205,elation; happiness,yuo_maru,,,,,,,,,filing blong hapi
+SN002206,anger,yuo_yaayaa,,,ANGER [82],,,,,,filing blong kros
+SN002207,be dawn,yuop,,,,be.dawn,,,climate,,delaet
+SN002208,forget; leave behind,yurmiline,,,FORGET [1523],forget,,,,,fogetem
+SN002209,use,yusum,,,USE (VERB) [2072],use,,,,,
+SN002210,coconut leaf,LX000093,,,,coconut.leaf,,,,,lif kokonas
+SN002211,coconut; kopra; coconut palm,LX000094,,classifier: ok ó,COCONUT [970],coconut,f48dc3a638c1b44f7150e16ea8d8a07c,,plants ; coconut,,"kokonas, kopra"
+SN002212,a kind of cococnut the fruit of which has bright red skin,LX000095,,,,,,,coconut,,kaen kokonas we skin blong hem i red we i red
+SN002213,"'dry' coconut; a mature coconut with fully developed flesh and a soft, solid kernel instead of juice",LX000096,,,,,,,coconut,,drae kokonat
+SN002214,cracker,LX000096,,,,,,,,,biskit
+SN002215,a kind of coconut in which the fruit are only loosely attached to the plant,LX000097,,,,,,,coconut,,kokonas we i save fly
+SN002216,kontisye coconut,LX000098,,,,,,,coconut,,frut blong kaen kokonas ya i bigwan we i bigwan
+SN002217,rock lobsters,LX000099,,,,,,Panulirus spp,fauna ; aquatic creatures,,naura blong solwota
+SN002218,a sweet kind of coconut fit for eating,LX000100,,,,,,,coconut,,kaen kokonas blong kakae we i swit
+SN002219,a kind of coconut which produces only small fruit,LX000101,,,,,,,coconut,,kaen kokonas wetem smolsmol frut
+SN002220,a kind of coconut which does not produce fruit for a long time,LX000102,,,,,,,coconut,,i no save karem frut blong hem
+SN002221,yellow coconut,LX000103,,,,,,,coconut,,sun kokonas
+SN002222,its shell is as soft as laplap taro,LX000104,,,,,,,coconut,,sel blong hem i tintin mo sopsop nomo olsem laplap taro
+SN002223,cook,LX000105,,,COOK (SOMETHING) [1100],cook,,,food,,kuk
+SN002224,crab,LX000106,,,CRAB [2348],crab,,,fauna ; aquatic creatures,,krab
+SN002225,a feeling of fatigue after someone who stayed over night has left,LX000107,,discuss ; check gloss,,op.feeling,,,body,,"toktok ia minim wan filing we, sipos wan man i kam silip, afta i aot, tumoro blong hem bae yu harem bodi i les from"
+SN002226,rain; rainwater,LX000108,,,RAINING OR RAIN [2108],rain,,,climate,,ren
+SN002227,hunt; come after something or someone,LX000109,,,HUNT [1435],hunt,,,,,ronem
+SN002228,[third person plural possessive],LX000110,,,,$3pl.poss,,,,,
+SN002229,"[emotive, third person plural]",LX000111,,change related entries to ó,,$em.3p,,,,,
