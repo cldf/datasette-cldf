@@ -1,6 +1,9 @@
 table.rows-and-columns tbody tr:nth-child(even) {
   background-color: #f2f2f2;
 }
+#cldf_map {
+  border: 1px solid black;
+}
 p.col-cldf_primaryText, td.col-cldf_primaryText {
   font-style: italic;
 }

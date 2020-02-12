@@ -1,7 +1,7 @@
 {% extends "default:row.html" %}
 
 {% macro props(exclude) %}
-    <table>
+    <table class="table table-condensed">
         {% for key in columns %}
             {% if rows[0][key] is not none and key not in ['cldf_name', 'cldf_id'] and key not in exclude %}
                 <tr>
@@ -13,24 +13,50 @@
     </table>
 {% endmacro %}
 
+{% macro a(id, table, label) %}
+    <a href="{{ database_url(database) }}/{{ table }}/{{ id }}">{{ label }}</a>
+{% endmacro %}
+
+{% macro link(id, table) %}
+    {% for row in sql("select * from {0} where cldf_id = '{1}'".format(table, id)) %}
+        {% if loop.first %}
+            {{ a(row['cldf_id'], table, row['cldf_name']) }}
+        {% endif %}
+    {% endfor %}
+{% endmacro %}
+
+{% macro references(id, table) %}
+    <ul>
+    {% for row in sql("select a.context, s.* from {0}_SourceTable as a, SourceTable as s where s.id = a.SourceTable_id and {0}_cldf_id = '{1}'".format(table, id)) %}
+        <li>
+            {{ a(row['id'], 'SourceTable', render_ref(row)) }}
+        </li>
+    {% endfor %}
+    </ul>
+{% endmacro %}
 
 {% block content %}
 
-    {% if (table == 'LanguageTable' or table == 'ParameterTable' or table == 'ExampleTable') and primary_key_values %}
+    {% if (table == 'EntryTable' or table == 'SourceTable' or table == 'LanguageTable' or table == 'ParameterTable' or table == 'ExampleTable' or table == 'ValueTable') and primary_key_values %}
         {# Special handling for Language and Parameter "details" pages #}
 
         {% if table == 'ExampleTable' %}
             <h1>Example <em>{{ rows[0]['cldf_id'] }}</em></h1>
-            {% for row in sql("select * from LanguageTable where cldf_id = '{0}'".format(rows[0]['cldf_languageReference'])) %}
-                {% if loop.first %}
-                <p>
-                    <a href="{{ database_url(database) }}/LanguageTable/{{ rows[0]['cldf_languageReference'] }}">
-                        {{ row['cldf_name'] }}</a>
-                </p>
-                {% endif %}
-            {% endfor %}
+            <p>{{ link(rows[0]['cldf_languageReference'], 'LanguageTable') }}</p>
             {{ render_igt(rows[0], columns) }}
             {{ props(['cldf_primaryText', 'cldf_analyzedWord', 'cldf_gloss', 'cldf_translatedText', 'cldf_languageReference']) }}
+
+        {% elif table == 'SourceTable' %}
+            <h1>Source <em>{{ rows[0]['cldf_id'] }}</em></h1>
+            {{ render_source(rows[0], columns) }}
+
+        {% elif table == 'EntryTable' %}
+
+            <h1>Dictionary entry <em>{{ rows[0]['cldf_headword'] }}</em>{% if rows[0]['cldf_partOfSpeech'] %} ({{ rows[0]['cldf_partOfSpeech'] }}){% endif %}</h1>
+            <p>{{ link(rows[0]['cldf_languageReference'], 'LanguageTable') }}</p>
+            {{ props(['cldf_languageReference']) }}
+
+            {# FIXME: link senses! #}
 
         {% elif table == 'LanguageTable' %}
 
@@ -65,8 +91,36 @@
                 {% endif %}
                 {% endfor %}
             {% endif %}
-        {% endif %}
 
+        {% elif table == 'ValueTable' %}
+            <h1>Value <em>{{ rows[0]['cldf_id'] }}</em></h1>
+            {# pull in Parameter, Language, Code and Sources! #}
+
+            <table>
+                <tbody>
+                <tr>
+                    <th>Parameter</th>
+                    <td>{{ link(rows[0]['cldf_parameterReference'], 'ParameterTable') }}</td>
+                </tr>
+                    <tr>
+                        <th>Language</th>
+                        <td>{{ link(rows[0]['cldf_languageReference'], 'LanguageTable') }}</td>
+                    </tr>
+                {% if 'cldf_codeReference' in columns and rows[0]['cldf_codeReference'] %}
+                <tr>
+                    <th>Code</th>
+                    <td>{{ link(rows[0]['cldf_codeReference'], 'CodeTable') }}</td>
+                </tr>
+                {% endif %}
+                {% if 'ValueTable_SourceTable' in linked_tables(foreign_key_tables) %}
+                <tr>
+                    <th>Source</th>
+                    <td>{{ references(rows[0]['cldf_id'], 'ValueTable') }}</td>
+                </tr>
+                {% endif %}
+                </tbody>
+            </table>
+        {% endif %}
         {% if foreign_key_tables %}
             <ul>
                 {% for other in foreign_key_tables %}
@@ -76,6 +130,10 @@
                                 <strong>Values: </strong>
                             {% elif other.other_table == 'FormTable' %}
                                 <strong>Forms: </strong>
+                            {% elif other.other_table == 'EntryTable' %}
+                                <strong>Entries: </strong>
+                            {% elif other.other_table == 'ExampleTable' %}
+                                <strong>Examples: </strong>
                             {% endif %}
                             <a href="{{ database_url(database) }}/{{ other.other_table|quote_plus }}?{{ other.other_column }}={{ ', '.join(primary_key_values) }}">
                                 {{ "{:,}".format(other.count) }} row{% if other.count == 1 %}{% else %}s{% endif %}</a>
@@ -85,10 +143,7 @@
                 {% endfor %}
             </ul>
         {% endif %}
-
-
     {% else %}
         {{ super() }}
     {% endif %}
-
 {% endblock %}

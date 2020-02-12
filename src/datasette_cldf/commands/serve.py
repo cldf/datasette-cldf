@@ -39,6 +39,12 @@ def iter_table_config(cldf):
             cfg['label_column'] = 'cldf_name'
         except KeyError:
             pass
+        if name == 'EntryTable':
+            cfg['label_column'] = 'cldf_headword'
+        if name == 'SenseTable':
+            cfg['label_column'] = 'cldf_description'
+        if name == 'ExampleTable':
+            cfg['label_column'] = 'cldf_primaryText'
         yield name, cfg
 
 
