@@ -37,6 +37,11 @@ def metadata(datasets):
 
     return {
         "title": "",
+        "description_html": "<dl>{0}</dl>".format(''.join([
+            '<dt><strong>{0}</strong></dt><dd><em>{1}</em></dd><dd>{2}</dd>'.format(
+                dbname, cldf_ds.module, cldf_ds.properties.get('dc:title'))
+            for dbname, cldf_ds in datasets.items()
+        ])),
         "plugins": {
             "datasette-cluster-map": {
                 "latitude_column": "cldf_latitude",
