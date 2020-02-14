@@ -29,7 +29,6 @@ setup(
         'pycldf>=1.12.1',
         'cldfbench',
         'clldutils',
-        'jinja2',
         'uritemplate',
         'zenodoclient>=0.3',
     ],
