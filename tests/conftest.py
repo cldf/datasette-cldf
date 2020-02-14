@@ -17,7 +17,7 @@ def _make_client(cldf_md, tmpdir):
     dbpath = tmpdir / 'db.sqlite'
     db = Database(cldf, fname=dbpath, infer_primary_keys=True)
     db.write_from_tg()
-    return make_app_client(dbpath, metadata=datasette_cldf.metadata(cldf, 'db'))
+    return make_app_client(dbpath, metadata=datasette_cldf.metadata({'db': cldf}))
 
 
 @pytest.fixture(scope='session')

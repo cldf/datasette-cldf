@@ -10,7 +10,7 @@ from datasette import hookimpl
 P = re.compile(r'where cldf_languageReference = (?P<id>[0-9a-zA-Z_\-]+)')
 
 
-def metadata(cldf_ds, dbname):
+def metadata(datasets):
     """
     Extract datasette metadata from a CLDF dataset.
     """
@@ -51,6 +51,7 @@ def metadata(cldf_ds, dbname):
                 "license": cldf_ds.properties.get('dc:license'),
                 "tables": dict(iter_table_config(cldf_ds)),
             }
+            for dbname, cldf_ds in datasets.items()
         },
     }
 

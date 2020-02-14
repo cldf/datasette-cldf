@@ -39,20 +39,20 @@ def run(args):
         z = Zenodo()
         out = z.download_record(z.record_from_doi(args.dataset), pathlib.Path('.'))
         args.log.info('Downloaded files for {0} to {1}'.format(args.dataset, out))
-        for cldf_ds in iter_datasets(out):
-            break
-        else:
-            raise ValueError('No CLDF dataset discovered in {0}'.format(out))
+        cldf_ds = list(iter_datasets(out))
     else:
         p = pathlib.Path(args.dataset)
         if p.exists() and sniff(p):
-            cldf_ds = Dataset.from_metadata(p)
+            cldf_ds = [Dataset.from_metadata(p)]
         else:  # pragma: no cover
             ds = get_dataset(args)
-            cldf_ds = ds.cldf_reader()
+            cldf_ds = [ds.cldf_reader()]
+
+    if not cldf_ds:
+        raise ValueError('No CLDF dataset found for spec {0}'.format(args.dataset))
 
     try:
-        count_p = len(list(cldf_ds['ParameterTable']))
+        count_p = max([len(list(cldf['ParameterTable'])) for cldf in cldf_ds])
     except KeyError:
         count_p = 100
 
@@ -63,23 +63,34 @@ def run(args):
     #  max_returned_rows            Maximum rows that can be returned from a table
     #                               or custom query (default=1000)
 
-    if not args.db_path:  # pragma: no cover
+    db_paths = []
+    if args.db_path:  # pragma: no cover
+        if len(cldf_ds) > 1:
+            raise ValueError('You cannot pass a db path, when multiple datasets are found')
+    else:
         args.db_path = pathlib.Path('{0}.sqlite'.format(ds.id if ds else 'cldf_db'))
 
-    if not args.db_path.exists():
-        db = Database(
-            cldf_ds,
-            fname=args.db_path,
-            infer_primary_keys=True,
-        )
-        db.write_from_tg()
-        args.log.info('{0} loaded in {1}'.format(db.dataset, db.fname))
+    for i, cldf in enumerate(cldf_ds):
+        if i == 0:
+            db_path = args.db_path
+        else:
+            db_path = args.db_path.parent / (
+                args.db_path.stem + '_{0}'.format(i) + args.db_path.suffix)
 
-    jsonlib.dump(datasette_cldf.metadata(cldf_ds, args.db_path.stem), args.cfg_path, indent=4)
+        if not db_path.exists():
+            db = Database(cldf, fname=db_path, infer_primary_keys=True)
+            db.write_from_tg()
+            args.log.info('{0} loaded in {1}'.format(db.dataset, db.fname))
+        db_paths.append(db_path)
+
+    jsonlib.dump(
+        datasette_cldf.metadata({db.stem: cldf for db, cldf in zip(db_paths, cldf_ds)}),
+        args.cfg_path,
+        indent=4)
 
     os.system(
         'datasette {0} -m {1} --template-dir {2} --config default_page_size:{3}'.format(
-            args.db_path,
+            ' '.join(str(p) for p in db_paths),
             args.cfg_path,
             pathlib.Path(datasette_cldf.__file__).parent / 'templates',
             default_page_size))
