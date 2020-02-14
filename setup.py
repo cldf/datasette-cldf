@@ -26,11 +26,12 @@ setup(
         "datasette>=0.32",
         'datasette-template-sql',
         'datasette-cluster-map',
-        'pycldf>=1.11.0',
+        'pycldf>=1.12.1',
         'cldfbench',
         'clldutils',
         'jinja2',
         'uritemplate',
+        'zenodoclient>=0.3',
     ],
     extras_require={
         'dev': ['flake8', 'wheel', 'twine'],

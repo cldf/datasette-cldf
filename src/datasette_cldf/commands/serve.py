@@ -3,13 +3,16 @@ Serve dataset with datasette
 """
 import os
 import pathlib
+import argparse
 
 from clldutils.clilib import PathType
 from clldutils import jsonlib
 
 from pycldf import Database, Dataset
+from pycldf.dataset import sniff, iter_datasets
+from zenodoclient import Zenodo
 
-from cldfbench.cli_util import get_dataset, add_dataset_spec
+from cldfbench.cli_util import get_dataset
 
 import datasette_cldf
 
@@ -23,17 +26,30 @@ def register(parser):
         '--db-path',
         default=None,
         type=PathType(type='file', must_exist=False))
-    add_dataset_spec(parser)
+    parser.add_argument(
+        'dataset',
+        help='specify dataset(s) by metadata file, Zenodo DOI or python module'
+    )
+    parser.add_argument('--entry-point', help=argparse.SUPPRESS, default=None)
 
 
 def run(args):
-    p = pathlib.Path(args.dataset)
-    if p.suffix == '.json' and p.exists():
-        cldf_ds = Dataset.from_metadata(p)
-        ds = None
-    else:  # pragma: no cover
-        ds = get_dataset(args)
-        cldf_ds = ds.cldf_reader()
+    ds = None
+    if Zenodo.DOI_PATTERN.match(args.dataset):
+        z = Zenodo()
+        out = z.download_record(z.record_from_doi(args.dataset), pathlib.Path('.'))
+        args.log.info('Downloaded files for {0} to {1}'.format(args.dataset, out))
+        for cldf_ds in iter_datasets(out):
+            break
+        else:
+            raise ValueError('No CLDF dataset discovered in {0}'.format(out))
+    else:
+        p = pathlib.Path(args.dataset)
+        if p.exists() and sniff(p):
+            cldf_ds = Dataset.from_metadata(p)
+        else:  # pragma: no cover
+            ds = get_dataset(args)
+            cldf_ds = ds.cldf_reader()
 
     try:
         count_p = len(list(cldf_ds['ParameterTable']))
