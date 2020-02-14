@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='datasette-cldf',
-    version='0.1.1.dev0',
+    version='0.2.0',
     author='Robert Forkel',
     author_email='forkel@shh.mpg.de',
     description='datasette plugin to explore CLDF datasets',
