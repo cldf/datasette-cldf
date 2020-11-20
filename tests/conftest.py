@@ -118,7 +118,7 @@ def make_app_client(database, metadata=None):
         [database],
         immutables=[],
         metadata=metadata,
-        template_dir=pathlib.Path(datasette_cldf.__file__).parent / 'templates')
+        template_dir=str(pathlib.Path(datasette_cldf.__file__).parent / 'templates'))
     client = Client(ds.app())
     client.ds = ds
     return client

@@ -2,7 +2,7 @@
 
 [Datasette](https://datasette.readthedocs.io/en/stable/) plugin to explore CLDF datasets
 
-[![Build Status](https://travis-ci.org/cldf/datasette-cldf.svg?branch=master)](https://travis-ci.org/cldf/datasette-cldf)
+[![Build Status](https://github.com/cldf/datasette-cldf/workflows/tests/badge.svg)](https://github.com/cldf/datasette-cldf/actions?query=workflow%3Atests)
 [![codecov](https://codecov.io/gh/cldf/datasette-cldf/branch/master/graph/badge.svg)](https://codecov.io/gh/cldf/datasette-cldf)
 [![PyPI](https://img.shields.io/pypi/v/datasette-cldf.svg)](https://pypi.org/project/datasette-cldf)
 

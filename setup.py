@@ -23,9 +23,9 @@ setup(
     platforms='any',
     python_requires='>=3.5',
     install_requires=[
-        "datasette>=0.32",
-        'datasette-template-sql',
-        'datasette-cluster-map',
+        "datasette==0.35",
+        'datasette-template-sql==0.1',
+        'datasette-cluster-map==0.8',
         'pycldf>=1.12.1',
         'cldfbench',
         'clldutils',
@@ -35,9 +35,8 @@ setup(
     extras_require={
         'dev': ['flake8', 'wheel', 'twine'],
         'test': [
-            'mock',
             'asgiref',
-            'pytest>=4.3',
+            'pytest>=5',
             'pytest-mock',
             'pytest-cov',
             'coverage>=4.2',
