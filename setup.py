@@ -23,7 +23,7 @@ setup(
     platforms='any',
     python_requires='>=3.5',
     install_requires=[
-        "datasette==0.35",
+        "datasette==0.56.1",
         'datasette-template-sql==0.1',
         'datasette-cluster-map==0.8',
         'pycldf>=1.12.1',
