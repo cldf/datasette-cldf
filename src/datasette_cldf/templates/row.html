@@ -14,7 +14,7 @@
 {% endmacro %}
 
 {% macro a(id, table, label) %}
-    <a href="{{ database_url(database) }}/{{ table }}/{{ id }}">{{ label }}</a>
+    <a href="{{ urls.table(database, table) }}/{{ id }}">{{ label }}</a>
 {% endmacro %}
 
 {% macro link(id, table) %}
@@ -135,7 +135,7 @@
                             {% elif other.other_table == 'ExampleTable' %}
                                 <strong>Examples: </strong>
                             {% endif %}
-                            <a href="{{ database_url(database) }}/{{ other.other_table|quote_plus }}?{{ other.other_column }}={{ ', '.join(primary_key_values) }}">
+                            <a href="{{ urls.database(database) }}/{{ other.other_table|quote_plus }}?{{ other.other_column }}={{ ', '.join(primary_key_values) }}">
                                 {{ "{:,}".format(other.count) }} row{% if other.count == 1 %}{% else %}s{% endif %}</a>
                             from {{ other.other_column }} in {{ other.other_table }}
                         </li>

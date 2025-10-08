@@ -1,6 +1,6 @@
 import re
 
-import jinja2
+import markupsafe
 from pycldf.terms import TERMS
 from uritemplate import URITemplate
 from clldutils.source import Source
@@ -69,7 +69,7 @@ def render_cell(value, column):
         valueUrl = term.csvw_prop('valueUrl')
         if valueUrl:
             templ = URITemplate(valueUrl)
-            return jinja2.Markup('<a class="btn btn-info" href="{0}">{1}</a>'.format(
+            return markupsafe.Markup('<a class="btn btn-info" href="{0}">{1}</a>'.format(
                 templ.expand(dict(zip(templ.variable_names, [value]))),
                 value))
         if lname in ['analyzedWord', 'gloss']:
@@ -86,11 +86,11 @@ def render_igt(obj, columns):
 <table><tr><tr class="col-cldf_analyzedWord">{1}</tr><tr>{2}</tr></table>
 <p class="col-cldf_translatedText">{3}</p>""".format(
         obj['cldf_primaryText'],
-        ''.join(['<td>{0}</td>'.format(w) for w in obj['cldf_analyzedWord'].split('\\t')]),
-        ''.join(['<td>{0}</td>'.format(w) for w in obj['cldf_gloss'].split('\\t')]),
+        ''.join(['<td>{0}</td>'.format(w) for w in obj['cldf_analyzedWord'].split('\t')]),
+        ''.join(['<td>{0}</td>'.format(w) for w in obj['cldf_gloss'].split('\t')]),
         obj['cldf_translatedText'],
     )
-    return jinja2.Markup(t)
+    return markupsafe.Markup(t)
 
 
 def render_ref(row):
@@ -118,7 +118,7 @@ def render_source(obj, columns):
         obj['id'],
         [(k, obj[k]) for k in columns if obj[k] and k not in ('genre', 'id')],
         _check_id=False)
-    return jinja2.Markup("""<div><blockquote>{0}</blockquote><pre>{1}</pre></div>""".format(
+    return markupsafe.Markup("""<div><blockquote>{0}</blockquote><pre>{1}</pre></div>""".format(
         str(src), src.bibtex(),
     ))
 
@@ -136,9 +136,9 @@ def extra_template_vars():
 
 @hookimpl
 def extra_js_urls():
-    return['/-/static-plugins/datasette_cldf/cldf.js']
+    return ['/-/static-plugins/datasette_cldf/cldf.js']
 
 
 @hookimpl
 def extra_css_urls():
-    return['/-/static-plugins/datasette_cldf/cldf.css']
+    return ['/-/static-plugins/datasette_cldf/cldf.css']

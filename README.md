@@ -3,7 +3,6 @@
 [Datasette](https://datasette.readthedocs.io/en/stable/) plugin to explore CLDF datasets
 
 [![Build Status](https://github.com/cldf/datasette-cldf/workflows/tests/badge.svg)](https://github.com/cldf/datasette-cldf/actions?query=workflow%3Atests)
-[![codecov](https://codecov.io/gh/cldf/datasette-cldf/branch/master/graph/badge.svg)](https://codecov.io/gh/cldf/datasette-cldf)
 [![PyPI](https://img.shields.io/pypi/v/datasette-cldf.svg)](https://pypi.org/project/datasette-cldf)
 
 
@@ -25,14 +24,15 @@ aligned morphemes and glosses.
 
 Thus, instead of calling the `datasette` cli directly, ỳou call the `datasette.serve` subcommand, which this package registers with [`cldfbench`](https://github.com/cldf/cldfbench/blob/master/README.md#commands):
 ```shell script
-cldfbench datasette.serve PATH/TO/cldf-metadata.json
+cldfbench datasette.serve PATH/TO/CLDF/DATASET
 ```
 
 
 ## Features
 
 We'll show the customizations provided by this plugin with a series of screenshots
-of datasette serving the [World Atlas of Language Structures](https://github.com/cldf/cldfbench/blob/master/README.md#commands).
+of datasette serving the [World Atlas of Language Structures](https://wals.info) 
+and the [Glottolog](https://glottolog.org) data, respectively.
 
 - Languages are displayed on a map
 
@@ -41,10 +41,15 @@ of datasette serving the [World Atlas of Language Structures](https://github.com
 - Language details also show a map
 
 ![](doc/wals_language_details.png)
+![](doc/glottolog_language_details.png)
 
-- and link to feature values of the language
+- and link to feature values of the language for WALS
 
-![](doc/wals_values_for_language.png)
+  ![](doc/wals_values_for_language.png)
+
+  and values for the Glottolog "parameters" for Glottolog
+
+  ![](doc/glottolog_values_for_language.png)
 
 - Feature pages list possible values and their distribution
 
